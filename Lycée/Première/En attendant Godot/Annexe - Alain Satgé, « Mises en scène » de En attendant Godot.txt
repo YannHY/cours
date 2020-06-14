@@ -1,0 +1,14 @@
+Annexe - Alain Satgé, « Mises en scène » de En attendant Godot (1999).
+
+Costumes : le choix de l '« uniforme » ?
+
+  Beckett ne donne aucune autre indication que celle des chapeaux melon. D'où peut-être l'idée du « non-costume », qui revient plusieurs fois : Blin1 suggère un moment que les acteurs portent leurs propres costumes; Krejca1 leur demande... de les fabriquer eux-mêmes.
+ Ce « vide » dans les didascalies laisse au metteur en scène une marge de liberté qui a été finalement peu exploitée. On trouve peu de diversité dans le traitement des costumes : une image commune s'est vite imposée, et reproduite (silhouettes noires, et presque abstraites, costumes bourgeois défraîchis, « uniformes » de clochard).
+ Le choix des costumes implique pourtant des enjeux essentiels, à commencer par la détermination de l'époque. Autant ou plus que le décor, les costumes situent la pièce dans le temps - ou hors du temps. Rares sont les metteurs en scène qui aient rompu avec l'image des « vagabonds intemporels » , et opté pour l'historicisation (Jouanneau1).
+ Les costumes déterminent aussi le système des relations entre les personnages; ils permettent de les individualiser ou de les indifférencier, de les hiérarchiser ou de les mettre à égalité. Ici encore, on constate une tendance à l'uniformisation. A la création, Blin joue sur une forte opposition entre Pozzo2 et les autres : le gentleman farmer porte une cravate, une culotte de cheval et des bottes. Lucky, avec sa vieille livrée rouge (qui contraste avec son maillot de corps rayé et ses pantalons trop courts), est nettement caractérisé comme domestique. Au fur et à mesure des reprises, Blin gomme ces différences : en 1978, Pozzo et Lucky sont habillés comme Vladimir et Estragon, donc « clochardisés » à leur tour.
+ Dans la mise en scène de Beckett à Berlin, le traitement des costumes manifeste la volonté de mettre en valeur symétries et inversions : à l'acte I, Vladimir porte un veston noir et un pantalon rayé, Estragon un veston rayé et un pantalon noir; c'est l'inverse à l'acte II. De même, Pozzo porte un pantalon à carreaux : on retrouve des carreaux sur la veste de Lucky... Krejca reprend et varie l'idée, en donnant l'impression que les personnages auraient échangé leurs costumes (pantalon trop large et veste trop étroite pour Estragon, l'inverse pour Vladimir). Au-delà du jeu « formel », le procédé met en lumière un thème essentiel de la pièce, celui de la permutation et de la circularité.
+
+1. Metteurs en scène de la pièce de Beckett.
+2. Pozzo et Lucky sont, avec Estragon et Vladimir, les personnages principaux d'En attendant Godot.
+
+	 

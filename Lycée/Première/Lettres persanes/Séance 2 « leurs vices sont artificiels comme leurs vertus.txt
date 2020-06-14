@@ -1,0 +1,58 @@
+#AnalyseLinéaire
+
+# Séance 2 « leurs vices sont artificiels comme leurs vertus » (éléments de correction)
+
+## Introduction
+Évoquer en introduction la mode des romans épistolaires.
+Citons à nouveau (voir séances 1) :
+- *Lettres portugaises* de Guilleragues (1669)
+- *Lettres iroquoises* de Maubert de Gouvest (1752)
+- *Julie ou La Nouvelle Héloïse* de Jean-Jacques Rousseau (1761)
+- *Les Liaisons dangereuses* de Choderlos de Laclos (1782)
+
+Et donc les *Lettres d’une Péruvienne* de Françoise de Graffigny (1747) qui mêlent la même fausse ingénuité que chez Montesquieu permettant le « regard éloigné » à travers l’ironie et la satire.
+
+On découvrira à travers la plume de l'épistolaire péruvienne une autre mode que celle évoquée par Rica (lettre 99), celle de la mondanité qui mêle louanges et moqueries (premier mouvement : paragraphes 1 à 4). La lettre s’achève sur des considérations (deuxième mouvement : paragraphes 5 à 7) plus générales qui apparentent Françoise de Graffigny aux moralistes du XVIIe.
+
+Notre projet de lecture pourrait consister à nous demander quelle image des français se dégage à travers le portrait que fait la jeune Zilia.
+
+## Analyse
+### Premier mouvement
+#### Premier paragraphe
+Le texte s’ouvre sur le mot « devoir » (que nous allons définir ci-dessous) et qui relève de l’explication (faire quelques remarques d’ordre typologique sur le texte et son genre, l’écriture épistolaire). Il va s’agir pour celle qui dit « nous » et se révèle embarquée modestement dans le monde étonnant des coutumes étrangères de révéler l’étonnant comportement des français.
+ 
+Le mot « devoir » évoque ce qui est *dû*, ce que l’on *doit* faire et donc l’obligation. Un tel devoir consiste simplement « à entrer en un jour dans le plus grand nombre de maisons qu’il est possible ». Outre l’absurdité de la chose (notez le superlatif signalant le ridicule d’une telle obligation), le mot « devoir » implique également la contrainte à laquelle renvoie le mot « tribut » (➝ contribution forcée dans son sens militaire ; imposition dans son acception financière). Seulement il n’y a là aucune obligation sérieuse. Le double complément introduit par la préposition « sur » (« **sur** la beauté du visage et de la taille, **sur** l’excellence du goût et du choix des parures ») marque le caractère superficiel de ce devoir (« visage », « taille », « excellence du goût », « parure ») et donc l’aspect vaniteux d’un échange humain basé sur l’apparence.
+
+#### Deuxième paragraphe
+On passe du « nous » au « je », qui amorce l’interprétation de ce dont le « nous » a été témoin et par là même la satire qui aboutit à quelques réflexions au présent gnomique :
+
+« La censure **est** le goût dominant des Français, comme l’inconséquence **est** le caractère de la nation. Leurs livres **sont** la critique générale des mœurs, et leur conversation celle de chaque particulier, pourvu néanmoins qu’ils **soient** absents. »
+
+Le paragraphe, avant cela, est ironique. Le mot « hommage », au sens de « acte de courtoisie », « preuve de dévouement » ou encore « témoignage de respect et d’admiration » est ici antiphrastique. Ledit hommage est « momentané » et protéiforme : relevant de la louange en la présence de la personne concernée, il devient un blâme une fois celle-ci absente (voir les deux propositions subordonnées circonstancielles. L’une de temps : « Dès que l’on disparaît ». L’autre de condition : « pourvu néanmoins qu’ils soient absents »).
+
+On ne saurait mieux définir l’hypocrisie sans prononcer le mot. On passe alors (on l’a dit avec les deux phrases au présent de vérité générale) du particulier au général (« des Français », « la nation »...). Notre pays est ainsi défini par son goût pour la censure (probablement au premier sens de « action de reprendre, de critiquer les paroles, les actions des autres »), mais aussi par sa propension à prendre la parole  (« livres », « conversation ») pour critiquer tout et rien. Cela est rendu dans le parallélisme « Leurs livres sont la critique générale des mœurs, et leur conversation celle de chaque particulier [...] ».
+Entre faux hommage, obligation, critique dans la conversation, les conventions sociales sont ici perçues comme superficielles et cruelles.
+
+#### Troisième et quatrième paragraphes
+L’emploi du pronom « ils » marque bien une distance avec ceux qui font l’objet de cette satire. « Les plus gens de bien » est évidemment et encore ironique.
+L’usage de la parole (sujet de ces deux paragraphes : « dire », « pense », « formule », « révèlent », « éloquence », « dit ») relève bien chez les français d’une forme de méchanceté puisque elle est essentiellement offensive (« usage les uns contre les autres »). On peut penser au film [*Ridicule*](https://www.youtube.com/playlist?list=PLVAjsoXIE_dwWXAbmLQPt_c1YsQfI0O1a) de Patrice Leconte dans lequel chaque conversation est redoutable et cruelle.
+Par ailleurs, chaque qualité (« franchise », « amour pour la vérité », « sincérité ») est l’envers d’un défaut et ne sert qu'à médire.
+
+### Deuxième mouvement
+#### Cinquième paragraphe
+Postulat de la bonté humaine. Réflexion sur l’état de nature vs état civil qui n’est pas sans rappeler Montaigne (voir séance précédente) mais aussi Rousseau (*Discours sur l’origine et les fondements de l’inégalité parmi les hommes*, 1755). Cette fois encore, notez le champ lexical faisant du Péruvien l’image de la bonté même : « droiture de nos cœurs », « candeur de nos sentiments », « simplicité de nos mœurs » (énumération, rythme ternaire, quasi rimes entre « coeurs » et « mœurs ».
+
+La seizième lettre disait déjà à qu’elle point les Péruviens appartenaient à une nation plus proche de la nature.
+« Mais peut-être a-t-on besoin ici de l'horreur du vice pour conduire à la vertu. Cette pensée me vient sans la chercher : si elle était juste, que je plaindrais cette nation ! La nôtre, plus favorisée de la nature, chérit le bien par ses propres attraits ; il ne nous faut que des modèles de vertu pour devenir vertueux, comme il ne faut que t'aimer pour devenir aimable. » 
+
+L’apologie du peuple vertueux prépare le portrait qui suit.
+
+#### Sixième et septième paragraphes
+On a donc une galerie de très brefs portraits tous conçus en une succession de périodes composées d’un mouvement double commençant par le pronom indéfini « tel » énumérant diverses bontés dévoyées par la crainte d’une réputation qui s’établit en société (deuxième terme de chacune des périodes : le complément « pour n’être pas méprisé de ceux qui l’écoutent », les subordonnées « s’il ne craignait d’être ridicule », « s’il osait hautement avoir du mérite »). En somme, dans cette balance binaire, le vice l’emporte par pusillanimité (« pour n’être pas méprisé », « craignait d’être ridicule », « osait avoir du mérite »). À la méchante engendrée par la société s’ajoute donc la faiblesse.
+
+L’adverbe « enfin » annonce la conclusion qui donne le titre de cette séance. La condamnation est sans appel, et à la charge qui a précédé, il faudra encore voir le Français comme un être imparfait.
+
+
+
+
+

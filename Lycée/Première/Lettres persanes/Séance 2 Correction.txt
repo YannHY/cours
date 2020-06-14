@@ -1,0 +1,6 @@
+# Séance 2 Correction
+
+Vocabulaire : épître, épistolaire, épistolier...
+Énonciation : destinateur, destinataire, cadre spatio-temporel...
+Lieu et date dans les *Lettres persanes*
+Les sujet abordés

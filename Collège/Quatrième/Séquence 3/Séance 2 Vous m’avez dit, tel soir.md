@@ -17,5 +17,6 @@
 > Qu’en ce moment, j’aurais pu voir s’ouvrir sans crainte<br />
 > Les tortueux chemins qui vont vers le tombeau.<br />
 
-
 > Émile Verhaeren, *Les Heures d’après-midi*, 1905
+
+Écoutez la lecture du poème dans l’émission [Les voix du poème](https://www.franceinter.fr/emissions/ca-peut-pas-faire-de-mal/ca-peut-pas-faire-de-mal-01-aout-2013) (16:20)

@@ -2,6 +2,8 @@
 
 # Séance 7 Hymne à la Beauté
 
+Écouter la [lecture du poème sur France Culture](https://www.franceculture.fr/emissions/poeme-du-jour-avec-la-comedie-francaise/hymne-la-beaute-les-fleurs-du-mal-15)
+
 Viens-tu du ciel profond ou sors-tu de l'abîme,
 Ô Beauté ? ton regard, infernal et divin,
 Verse confusément le bienfait et le crime,

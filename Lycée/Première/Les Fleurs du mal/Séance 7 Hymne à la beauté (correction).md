@@ -1,8 +1,11 @@
 #AnalyseLinéaire
 
 # Séance 7 Hymne à la beauté (correction)
+
 ## Analyse linéaire
+
 ### Introduction
+
 Le mot « hymne » désigne dans l’Antiquité un chant ou un poème en l’honneur d’un dieu ou d’un héros. Les auteurs chrétiens reprennent le mot pour désigner un chant à la louange de Dieu. À partir de 1537, le mot prend avec Marot le sens de « chant, poème célébrant une personne ou une chose » (d’où, plus tard, le sens de « chant solennel en l’honneur de la patrie » ➝ hymne national).
 
 Baudelaire écrit un hymne à la beauté qui est évidemment ici personnifiée et à laquelle il s’adresse et qu’il interroge. Ce poème prend place dans la section Spleen et Idéal dans laquelle figure tout un cycle de poèmes qui permettent à Baudelaire de définir sa conception de la beauté comme dans « La Beauté » (XVII) qui s’exprime dans une prosopopée (« Je suis belle, ô mortels ! comme un rêve de pierre »[^1]) et engendre une fascination semblable à celle qu’exerce « un sphinx incompris ».
@@ -48,15 +51,10 @@ Enfin, le poème expose un idéal non dépourvu d'ambiguïté qui mêle fascinat
 
 
 [^1]:	Vers à rapprocher du poème en prose « L’Étranger » :
-
 	*— La beauté ?*
 	*— Je l’aimerais volontiers, déesse et immortelle.*
-
 [^2]:	On est donc loin de cette affirmation toute classique : « Je hais le mouvement qui déplace les lignes » au vers 7 du poème « La Beauté ».
-
 [^3]:	« *Le beau est toujours bizarre*. Je ne veux pas dire qu’il soit volontairement, froidement bizarre, car dans ce cas il serait un monstre sorti des rails de la vie. Je dis qu’il contient toujours un peu de bizarrerie, de bizarrerie naïve, non voulue, inconsciente, et que c’est cette bizarrerie qui le fait être particulièrement le Beau. C’est son immatriculation, sa caractéristique. Renversez la proposition, et tâchez de concevoir un *beau banal* ! »
-
 	([source](https://fr.wikisource.org/wiki/Page:Baudelaire_-_Curiosit%C3%A9s_esth%C3%A9tiques_1868.djvu/223))
-
 [^4]:	Que l’on trouve dans la conclusion du « Voyage » : « Plonger au fond du gouffre, Enfer ou Ciel, qu’importe ?
 	Au fond de l’Inconnu pour trouver du *nouveau* !

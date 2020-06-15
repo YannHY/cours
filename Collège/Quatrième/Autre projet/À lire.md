@@ -1,7 +1,9 @@
 #Lecture
 
 # À lire
+
 ## Un roman ou des contes réalistes
+
 - *Trois contes* de Gustave Flaubert
 - *Les Contes du jour et de la nuit* de Guy de Maupassant
 - *La Peau de chagrin* d’Honoré de Balzac
@@ -10,6 +12,7 @@
 - *Nouvelles noires* d’Émile Zola
 
 ## Un roman ou des contes du XIXe siècle
+
 - *Les Trois mousquetaires* d’Alexandre Dumas 
 - *Le Tour du monde en 80 jours* de Jules Verne
 - *Le Capitaine Fracasse* de Théophile Gautier
@@ -23,13 +26,16 @@
 - *Le Petit Chose* d’Alphonse Daudet
 
 ## Romans, contes, nouvelles fantastiques
+
 ### Niveau A
+
 - *Le fantôme de Canterville* d'Oscar Wilde
 - « La disparition d’Honoré Subrac » (in *L’Hérésiarque et cie*) de Guillaume Apollinaire
 - *La maison aux 52 portes* d’Évelyne Brisou-Pellen
 - *L’auto-stoppeur : 9 nouvelles noires pour nuits blanches* d’Anthony Horowitz
 
 ### Niveau B
+
 - *Contes fantastiques* de Théophile Gautier
 - *Le Horla et autres récits fantastiques* de Guy de Maupassant
 - *La Vénus d’Ille suivi de Colomba et de Mateo Falcone* de Prosper Mérimée
@@ -42,6 +48,7 @@
 - *Dans la nuit Mozambique et autres récits* de Laurent Gaudé
 
 ### Niveau C
+
 - *Le Diable amoureux* de Jacques Cazotte
 - *Le Sorcier* d’Honoré de Balzac
 - *La Peau de chagrin* d’Honoré de Balzac

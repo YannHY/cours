@@ -3,6 +3,8 @@
 > Good teachers know how to use a broad range of assessments and that one can use many different tools to assess knowledge.
 > Monty Neill cité par Ken Robinson in *Creative school*, empl. 1470
 
+[Workshop](https://docs.google.com/presentation/d/1JIuQCg9m8hYTBW9JDtT4Zv77raPcIv-7-6J3y-x9jEs/edit)
+
 In order to produce rich feedback on a Google Docs, you may use these Chrome extensions:
 
 - [Text Blaze](https://t.co/3TQGp6eQQE?amp=1)

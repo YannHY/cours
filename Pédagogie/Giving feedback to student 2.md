@@ -9,6 +9,8 @@ In order to produce rich feedback on a Google Docs, you may use these Chrome ext
 - [Mote](https://www.justmote.me/)
 - [Loom](https://chrome.google.com/webstore/detail/loom-for-chrome/liecbddmkiiihnedobmlmillhodjkdmb)
 
+You may prefer using PDF files you can process in Kami for instance.
+
 ## To learn more
 
 - [Fast and efficient ways to provide feedback](https://www.edutopia.org/article/fast-and-efficient-ways-provide-feedback)

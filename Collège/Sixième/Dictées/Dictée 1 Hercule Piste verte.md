@@ -4,10 +4,13 @@
 
 
 ## 1. Choisir les bonnes réponses
+
 Ceci est une dictée à choix multiples, c’est-à-dire que tu vas devoir sélectionner parmi les mots en gras les bonnes réponses. Pour cela, ouvre le document dans l’application [Notability](notability://) et entoure les mots correctement orthographiés.
 
 ## 2. Recopier la dictée
+
 Une fois que tu as choisi les bonnes réponses, recopie la dictée au propre, soit dans ton cahier, soit sur un Google Docs.
 
 ## 3. Justifier tes choix
+
 Pour chaque mot, explique pourquoi tu as choisi telle ou telle orthographe.

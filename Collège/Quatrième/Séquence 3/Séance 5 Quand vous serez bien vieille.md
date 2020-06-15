@@ -1,4 +1,4 @@
-# Séance 4 Quand vous serez bien vieille 
+# Séance 5 Quand vous serez bien vieille 
 Lecture analytique d’un poème de Pierre de Ronsard (*Sonnets pour Hélène*, 1578)
 
 Quand vous serez bien vieille 

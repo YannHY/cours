@@ -1,0 +1,31 @@
+# Find your favorite dictionary
+
+📚 You can buy extraordinary dictionaries if you want to. When it comes to English, I suggest [Antidote](https://apps.apple.com/gb/app/antidote-mobile-english/id1124187969). When it comes to French, there is [Le Petit Robert](https://apps.apple.com/gb/app/dictionnaire-le-petit-robert/id458626631). All available on iOS but not for 🆓.
+
+💸 However you don’t need to spend money because you’ll find plenty of useful ressources online. Here’re some of them.
+
+## French 🇫🇷
+
+- [Le Larousse](https://www.larousse.fr/dictionnaires/francais)
+- [Le Robert](https://dictionnaire.lerobert.com/)
+- [Dictionnaire de l’Académie française](https://www.dictionnaire-academie.fr/)
+- [Wiktionnaire](https://fr.wiktionary.org/wiki/Wiktionnaire:Page_d%E2%80%99accueil)
+- [Littré](https://www.littre.org/)
+- [The ARTFL Project](http://artfl.atilf.fr/dictionnaires/onelook.htm)
+- [CNRTL](http://www.cnrtl.fr/definition/)
+- [Le trésor de la langue française informatisé (TLFI)](http://atilf.atilf.fr/)
+- [Grand Larousse de la langue française](https://gallica.bnf.fr/ark:/12148/bpt6k1200532b.texteImage)
+- [Dictionnaire universel, contenant généralement tous les mots françois tant vieux que modernes](https://gallica.bnf.fr/ark:/12148/bpt6k3251752.image) (de Furetière)
+
+## English 🇬🇧
+
+- 
+
+## Check spelling & grammar
+
+- [Scribens](https://www.scribens.fr/) 🇫🇷 🇬🇧 
+- [Reverso](http://www.reverso.net/orthographe/correcteur-francais/) 🇫🇷 🇬🇧
+- [Le bon patron](https://bonpatron.com/) 🇫🇷
+- [Spell Check Plus](https://spellcheckplus.com/) 🇬🇧
+- [Spanish Checker](https://spanishchecker.com/) 🇪🇸
+- [Language tool](https://languagetool.org/fr/) 🇫🇷 🇬🇧 🇪🇸 🇩🇪 etc.

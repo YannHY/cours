@@ -1,0 +1,28 @@
+# iOS & iPadOS 13/14
+
+# iOS & iPadOS 13
+
+📱 Last fall, iOS has become iPadOS which brought many new features that may be a little bit hard to master. Here is a bunch of articles related to this subject to help you mastering the new iteration of Apple Operating System.
+
+👇 You’ll find a lot of ways to improve your productivity by learning the **new gestures**, how to **multitask** swiftly than never, the new **Files** app, the new desktop-class **Safari**,  the revamped **Reminders**, etc.
+
+- [iPadOS brings many new features, and here are the best ones!](https://www.imore.com/10-most-important-features-coming-ipados)
+- [iOS 13 and iPadOS 13: How to use the new gestures for cut, copy, paste, undo and redo](https://www.macworld.com/article/3410596/ios-13-and-ipados-13-how-to-use-the-new-gestures-for-cut-copy-paste-undo-and-redo.html) (video)
+- [Secrets to multitasking like a pro in iPadOS 13](https://www.cultofmac.com/634706/ipad-multitasking-secrets-ipados-13/)
+- [Here’s how multiple app spaces and App Exposé work on iPad with iPadOS 13](https://www.imore.com/how-open-multiple-app-spaces-ipad) (great topic to know more about Split Screen, Slide Over, Exposé and so forth)
+- [iOS and iPadOS 13: The MacStories Review](https://www.macstories.net/stories/ios-and-ipados-13-the-macstories-review/) (a very long but exhaustive and exciting review)
+- [10 ways iOS 13’s Reminders app can turn you into a productivity beast](https://www.macworld.com/article/3436916/10-ways-ios-13s-reminders-app-can-turn-you-into-a-productivity-beast.html) (everything you need to know about the new Reminders app)
+- [iPadOS Preview: Files app, USB Storage, SMB Shares](https://www.imore.com/ipados-preview-files-app-usb-storage-smb-shares) (video)
+- [iPadOS Preview: Desktop-class Safari, Download Manager, and more!](https://www.imore.com/ipados-preview-desktop-class-safari-download-manager-and-more) (video)
+- [How to Enable Dark Mode in iOS 13 or iOS 12 on iPhone and iPad](https://www.igeeksblog.com/how-to-enable-dark-mode-iphone-ipad/)
+
+📺 Or maybe you’ll find more confortable to watch the Apple Keynote. [Here it is](https://youtu.be/psL_5RIBqnY). The iOS presentation starts [at 21:33 and finishes at 1:17](https://youtu.be/psL_5RIBqnY?t=1293).
+
+## iOS & iPadOS 13.4
+
+[Apple’s Most Versatile Computer = iPad Pro and Magic Keyboard](https://techpinions.com/apples-most-versatile-computer-ipad-pro-and-magic-keyboard/59625)
+
+# iOS & iPadOS 14
+
+
+🏃‍♂️ As always, if you have any question, feel free to come see us. We’ll be happy to show you all this.

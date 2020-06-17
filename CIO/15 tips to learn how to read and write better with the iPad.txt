@@ -1,0 +1,77 @@
+# 15 tips to learn how to read and write better with the iPad
+
+📱 The iPad can help you overcome many difficulties and offer you many solutions to help you in French lessons.
+
+These solutions are classified into three parts: **Read**, **Write** & **Understand**.
+
+👇 Here they are.
+
+# Read
+
+1. **Use Speak selection** (`Settings > General > Accessibility > Speech > Speak selection`). You can then read any piece of text on the iPad.  Handy when you can't pronounce or recognize a word.
+
+/Speak Selection.png
+
+2. **Use [this shortcut](https://www.icloud.com/shortcuts/732c6a84562a4389a03b357adc591d8e)** to display a web page with the Open Dyslexic font.  Useful if you are dyslexic and you have a problem reading online.
+
+/Dyslexic Font Swap.png
+
+3. **Download the [OpenDyslexic font](https://gumroad.com/l/OpenDyslexic)** to display all your documents with this font specially designed for dyslexic students.
+
+/Dyslexic Font.png
+
+4. **Read comfortably using read mode**. To do this, tap the four small lines at the address bar in Safari.  You will thus avoid any unnecessary distraction (advertisements, navigation menus, etc.).
+
+/Reader mode.jpeg
+
+/Reader mode 1.png
+
+5. **Convert a web page into a PDF**. You will be able to export the page, read it in offline mode and even annotate or highlight the passages that you want to remember. To do this, in iOS 13, take a screenshot and choose `Full page` then save your PDF with the app of your choice.
+
+/PDF.jpeg
+
+# Write
+
+6. **Use the Speak recognition fonction**. It may happen that you cannot write a word and you cannot find its spelling in your dictionary. In this case, record your voice. The iPad will recognize the word for you and at the same time give you its spelling. To do this, press the small microphone at the bottom of the keyboard next to the space bar.
+
+/Speak recognition.jpeg
+
+7. **Create shortcuts**. If you have trouble typing quickly, create shortcuts. For instance, to write your email address quickly, create a shortcut like "yh" and by writing this you will get "yhoury@lyceeinternational.london". To do this, go to `Settings > General > Keyboard > Text replacement`.
+
+/Shortcut Keyboard.png
+
+8. **Hand write with Notability** and turn your handwriting into block letters. Write by hand, select your text using the ✄ icon, press the selection and in the menu that appears, choose `Convert To Text`.
+
+/Convert text.png
+
+# Understand
+
+9. **Vérifier l’orthographe** grâce à un correcteur orthographique en ligne comme [le bon patron](http://bonpatron.com/). Les explications peuvent être en anglais, ce qui vous aidera dans la compréhension des règles du français.
+
+/Bon patron.png
+
+10. **Utilisez un dictionnaire**. Rendez-vous sur le [Larousse](https://www.larousse.fr/dictionnaires/francais "Larousse") et cherchez le mot que vous désirez connaître. Pensez également à vérifier la conjugaison des verbes sur le [Bescherelle](http://bescherelle.com/). Évitez d’avoir à taper « Larousse » ou « Bescherelle » à chaque fois que vous en avez besoin en créant **un favori**. Pour cela, appuyez sur l’icône en forme de rectangle avec une flèche pointant vers le haut et choisissez `Add to favorite`.
+
+/Favorite.png
+
+11. **Faites une recherche phonétique** en utilisant le [dictionnaire de l’Académie française](https://www.dictionnaire-academie.fr/). Tapez le mot dont vous cherchez l’orthographe et choisissez `Mots proches`
+
+/Académie française.jpeg
+
+12. **Utilisez le dictionnaire intégré** (pour ajouter un dictionnaire, aller dans `Settings > General > Dictionary`). Pour l’utiliser, appuyer sur un mot pour faire apparaître le menu et choisir `Look up`.
+
+/Look up.png
+
+13. **Créez votre propre dictionnaire** et retenez ainsi le vocabulaire appris. Dans l’application **Notes**, créez un dossier Dictionnaire et créez autant de notes qu’il y a de lettres dans l’alphabet. Pour les classer dans l’ordre alphabétique, allez dans `Settings > Notes > Sort notes by`.
+
+/Your own dictionary.png
+
+14. **Traduisez les mots que vous ne comprenez pas**. Utilisez [Google translate](https://itunes.apple.com/gb/app/google-translate/id414706506?mt=8) ou [Word reference](http://www.wordreference.com/) pour comprendre un mot. Ne cherchez pas à traduire tout un texte, utilisez plutôt ces applications pour vérifier un mot. Toutefois, vous pouvez utiliser la réalité augmentée avec l’application de Google pour traduire tout un texte.
+
+/Google Translate 1.jpeg
+
+/Google Translate 2.png
+
+15. **Utilisez Google translate dans un tableur**. En utilisant [la formule Google Translate](https://support.google.com/docs/answer/3093331?hl=en) dans Google sheets, vous aurez la possibilité d’avoir une traduction des mots que vous ne connaissez pas. Vous pourrez lancer une recherche automatique sur le mot traduit et surtout vous créez automatiquement un dictionnaire sans avoir à noter quoi que ce soit. Traduction, dictionnaire, répertoire. Tout en un !
+
+/Google Translate in Sheets.png

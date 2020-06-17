@@ -1,0 +1,12 @@
+# Kindle
+
+Do you have a Kindle? If the answer is yes, you may find interesting to know that you can send some books to your device without having to plug it onto your computer.
+
+All you have to do is to follow those few steps.
+
+1. First, you have to download a book. For instance, you can legally and freely download a .mobi file on [Project Gutenberg](https://www.gutenberg.org/) website.
+2. Then you have to send it to your kindle. In order to do that, you have to know the Send-to-Kindle e-mail address. To know it, go to the [Manage Your Devices](https://www.amazon.com/myk#manageDevices) page on Amazon. You will find your device and by clicking on the three dots on the left, you will find the adress.
+3. You have one more step: add a trusted e-mail account (visit the [Personal Document Settings](https://www.amazon.com/myk#pdocsSettings) page at [Manage Your Kindle](https://www.amazon.com/myk)).
+4. To send a document to your Kindle device, simply attach it to an e-mail addressed to your Send-to-Kindle e-mail.
+
+In practice, this is very simple. Say my Send-to-Kindle address is `myadresse@kindle.com`. All I have to do is send my book (or whatever I want: a PDF, a Microsoft document, a picture...) to my Kindle using this address and to send it from a trusted email account (say `myemailaddress@gmail.com`.

@@ -8,4 +8,7 @@ Que ce soit donc sur le wiki ou sur Github, si vous avez envie de contribuer et 
 
 ## Contenu
 
-Vous trouverez ici tous les cours que j'ai faits récemment. Cette année 2019-2020, j'ai eu des **premières** (lycée) et des sixièmes et des quatrièmes (collège). Vous trouverez donc en priorité ces niveaux-là. Il me faudra pas mal de temps pour transposer des cours qui existent depuis des années. Je pense que cela en vaut la peine, car ils seront alors disponibles au format .txt, seront accessibles à tous et tout le temps, et seront désormais vivants de vos contributions.
+
+Vous trouverez ici tous les cours que j'ai faits récemment. Cette année 2019-2020, j'ai eu des **premières** (lycée) et des **sixièmes** et des **quatrièmes** (collège). Vous trouverez donc en priorité ces niveaux-là. Il me faudra pas mal de temps pour transposer des cours qui existent depuis des années. Je pense que cela en vaut la peine, car ils seront alors disponibles au format .txt, seront accessibles à tous et tout le temps, et seront désormais vivants de vos contributions.
+
+Comme je le précisais, ce sera un travail de longue haleine, car il va me falloir aller rechercher mes cours dans des applications très diverses (Word, Pages, LibreOffice, Google Docs), etc.

@@ -1,0 +1,41 @@
+# Dealing with emails
+
+📨 We all have a tremendous amount of emails to read and answer on a daily basis.
+
+📤 Who wouldn’t want to get things done faster and better? In order to do that, you definitely need a good email client. You may want to use the Google’s app Gmail but I do believe that you will be more productive using [Spark from Readdle](https://apps.apple.com/gb/app/spark-email-app-by-readdle/id997102246).
+
+📺 If you speak french, you may see [this video](https://youtu.be/23tvBRPCYDY) I made a few years ago. You’ll have a quick idea of what you can do thanks to Spark but the app has been updated a lot. So there is a lot of new features I’d be really happy to show you.
+
+👇 I’ll give you two quick examples.
+
+## Template
+
+Fed up to write every once in a while the same message? Make a template.
+
+With Spark, you can easily create **templates** so you don’t have to write over and over the same things. Or say you often want to send a particular message to particular recipients and you don’t want to manually write up to 15 email addresses? Make you own template. It speeds up the process in a way you can’t imagine.
+
+/Template.png
+
+ℹ️ [Email Templates](https://helpspot.readdle.com/spark/index.php?pg=kb.page&id=1429)
+
+## Smart Folder
+
+Folders are a convenient way to store things but you have to do it manually: create a folder and put the stuff you want in it when needed. But why not create a **smart folder**? It populates whenever something new is showing up on your computer whithout any intervention of yours.
+
+So in Spark you may want to create a smart folder. Say you want every email of your HOD to be in this specific folder. It’s easy to do it by hand but you may forget or be tired of doing it. A smart folder will do it for you and never miss a message.
+
+/Smart Folder.png
+
+ℹ️ [Smart Folder](https://helpspot.readdle.com/spark/index.php?pg=kb.page&id=783)
+
+## Comments
+
+## Loom
+
+But don’t ditch that old good Gmail app or rather throw it away but keep using it in your web browser and start using [Loom](https://chrome.google.com/webstore/detail/loom-for-chrome/liecbddmkiiihnedobmlmillhodjkdmb). What is this? It’s a simple way to add a video response to your email. Say that you want to answer a pretty tricky question to a student, don’t write three thousand words. Instead send a video.
+
+> With Loom, you can record your screen, voice, and face to create an instantly shareable video in less time than it would take to type an email. 
+
+You can either use [the iPad](https://apps.apple.com/gb/app/loom-screen-recordings-more/id1474480829) if you want.
+
+🏃‍♂️ Want to learn more or need some extra explanations? Come see us.

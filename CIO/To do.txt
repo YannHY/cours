@@ -1,0 +1,50 @@
+# To do
+
+Faire un tableau :
+
+- mes missions (ce qu’on attend de moi)
+- La façon dont je compte les remplir
+- Ce que je peux ajouter au métier (newsletter, classroom, réseaux sociaux, formations...)
+- Les perspectives d’avenir
+
+- Développer la culture numérique (Google Classroom avec un post hebdomadaire sur des ressources, des idées, des apps...)
+- Meeting hebdomadaire (réunion sur l'un des sujets évoqué ci-dessus) ?
+- Créer un forum interne (comme il peut y en avoir chez Google ou de grandes entreprises) ou reposer simplement sur Classroom et de manière générale la G Suite ?
+- Développer la présence sur les réseaux sociaux pour valoriser ce qui se fait dans l'établissement 
+- Développer une documentation sur les cours en ligne
+- Définir les pistes d'évolution pédagogique et technique 
+- Participer aux vies de classe pour éduquer les élèves au numérique
+
+## Culture des élèves
+
+[Selfie](https://ec.europa.eu/education/schools-go-digital_en) ([voir aussi](https://europa.eu/rapid/press-release_IP-19-6144_en.htm ))
+
+Pix
+
+- https://twitter.com/fra_chevalier/status/1214556979173052416?s=21
+- http://www.dane.ac-versailles.fr/etre-accompagne-se-former/comment-mettre-en-oeuvre-pix-dans-mon-etablissement
+
+## Ressources à utiliser
+
+https://www.educarte.fr/
+
+Minecraft
+
+Proposer une chaîne YOuTube peut-être alimentée par les élèves En version bilingue ? Un peu comme ça : https://www.youtube.com/channel/UCe91I_Qwy_2c9EGPj085rtA/videos
+
+Poursuivre les tutoriels (ou gifs animés) pour aider les élèves. Un peu sur le modèle des guides pour monter un meuble
+
+## À voir/lire
+
+https://www.laptopmag.com/articles/set-canned-responses-gmail
+
+## A faire avec les élèves ou les collègues
+
+### Faire les sessions de training
+- Google Groups https://groups.google.com/forum/#!overview + https://teachercenter.withgoogle.com/resources
+- Apple Teacher https://appleteacher.apple.com/#/intro
+
+## Autre
+
+- Utiliser les calendriers partagés (pratique pour RV en voyant l’emploi du temps)
+

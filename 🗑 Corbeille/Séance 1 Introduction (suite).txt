@@ -1,0 +1,133 @@
+# Séance 1 Introduction (suite)
+
+## 4. Le personnage de Julien
+
+### Un personnage ambigu
+
+1. Un personnage fasciné par l’épopée napoléonienne, en proie au mal du siècle
+2. Un véritable Tartuffe (personnage de Molière se servant de la religion pour parvenir à ses fins) qui, à l’image de la société, use de l’hypocrisie à des fins d’élévation sociale
+3. Un personnage en proie à la lutte des classes.
+4. Un personnage complexe à contre-temps
+
+#### Sur le **mal du siècle**
+
+Lire *La Confession d’un enfant du siècle* d’Alfred de Musset qui définit ainsi le mal du siècle auquel les jeunes gens de ce début de XIXe siècle sont exposés. 
+
+> Trois éléments partageaient donc la vie qui s'offrait alors aux jeunes gens : derrière eux, un passé à jamais détruit, s'agitant encore sur ses ruines, avec tous les fossiles des siècles de l'absolutisme ; devant eux, l'aurore d'un immense horizon, les premières clartés de l'avenir ; et entre ces deux mondes… quelque chose de semblable à l'Océan qui sépare le vieux continent de la jeune Amérique, je ne sais quoi de vague et de flottant, une mer houleuse et pleine de naufrages, traversée de temps en temps par quelque blanche voile lointaine ou par quelque navire soufflant une lourde vapeur ; le siècle présent, en un mot, qui sépare le passé de l'avenir, qui n'est ni l'un ni l'autre, et qui ressemble à tous deux à la fois, et où l'on ne sait, à chaque pas qu'on fait, si l'on marche sur une semence ou sur un débris.
+>
+> Voilà dans quel chaos il fallut choisir alors ; voilà ce qui se présentait à des enfants pleins de force et d'audace, fils de l'Empire et petits-fils de la Révolution.
+> 
+> Or, du passé, ils n'en voulaient plus ; car la foi en rien ne se donne ; l'avenir, ils l'aimaient ; mais quoi ? comme Pygmalion Galatée ; c'était pour eux comme une amante de marbre, et ils attendaient qu'elle s'animât, que le sang colorât ses veines.
+
+> Il leur restait donc le présent, l'esprit du siècle, ange du crépuscule, qui n'est ni la nuit ni le jour ; ils le trouvèrent assis sur un sac de chaux plein d'ossements, serré dans le manteau des égoïstes, et grelottant d'un froid terrible. L'angoisse de la mort leur entra dans l'âme à la vue de ce spectre moitié momie et moitié fœtus ; ils s'en approchèrent comme le voyageur à qui l'on montre à Strasbourg la fille d'un vieux comte de Saawerden, embaumée dans sa parure de fiancée. Ce squelette enfantin fait frémir, car ses mains fluettes et livides portent l'anneau des épousées, et sa tête tombe en poussière au milieu des fleurs d'oranger.
+
+> Comme à l'approche d'une tempête il passe dans les forêts un vent terrible qui fait frissonner tous les arbres, à quoi succède un profond silence, ainsi Napoléon avait tout ébranlé en passant sur le monde ; les rois avaient senti vaciller leur couronne, et, portant leur main à leur tête, ils n'y avaient trouvé que leurs cheveux hérissés de terreur. Le pape avait fait trois cents lieues pour le bénir au nom de Dieu et lui poser son diadème ; mais Napoléon le lui avait pris des mains. Ainsi tout avait tremblé dans cette forêt lugubre des puissances de la vieille Europe ; puis le silence avait succédé.
+
+On remarquera, entre autres, les nombreuses métaphores dépeignant les deux mondes : le vieux monde détruit de l’Ancien régime et un avenir insaisissable. On notera aussi que le présent, dont on ne sait jamais, comme le dit Musset, s’il contient un débris du premier ou une semence du second, est un présent silencieux succédant à l’épopée napoléonienne et qui laisse place à l’ennui, la mélancolie.
+
+De fait, très souvent le héros du *Rouge et le Noir* a le sentiment d’arriver trop tard, comme on peut le voir dans les passages ci-dessous :
+
+> Ah ! s’écria-t-il, que Napoléon était bien l’homme envoyé de Dieu pour les jeunes Français ! Qui le remplacera ? que feront sans lui les malheureux, même plus riches que moi, qui ont juste les quelques écus qu’il faut pour se procurer une bonne éducation, et qui ensuite n’ont pas assez d’argent pour acheter un homme à vingt ans et se pousser dans une carrière ! Quoi qu’on fasse, ajouta-t-il avec un profond soupir, ce souvenir fatal nous empêchera à jamais d’être heureux ! (Livre premier, chapitre 17)
+
+Ou encore celui-ci lorsque Julien mange chez Velanod :
+
+> Napoléon ! qu’il était doux de ton temps de monter à la fortune par les dangers d’une bataille [...] (Livre premier, chapitre 22)
+
+Ou lors de son arrivée à Besançon :
+
+> Quelle différence pour moi, dit-il en soupirant, si j’arrivais dans cette noble ville de guerre, pour être sous-lieutenant dans un des régiments chargés de la défendre [...] (Livre premier, chapitre 24)
+
+Mais ce chiasme du chapitre 26 de la première partie nous montre que notre héros (pour parler comme Stendhal) n’a pas trop à regretter l’époque napoléonienne et qu’il peut quand même faire une grande carrière :
+
+> Sous Napoléon, j’eusse été sergent ; parmi ces futurs curés, je serai grand vicaire.
+
+### Julien est un parfait hypocrite
+
+Pour faire carrière, Julien Sorel a recours à l’hypocrisie :
+
+> Vous savez qu’à l’église je ne vois que Dieu, ajouta Julien, avec un petit air **hypocrite**, tout propre, selon lui, à éloigner le retour des taloches. (Livre premier, chapitre 5)
+
+> Il jugea qu’il serait utile à son **hypocrisie** d’aller faire une station à l’église. (Livre premier, chapitre 5)
+
+> Quelle n’était pas ma présomption à Verrières, se disait Julien, je croyais vivre ; je me préparais seulement à la vie, me voici enfin dans le monde, tel que je le trouverai jusqu’à la fin de mon rôle, entouré de vrais ennemis. Quelle immense difficulté, ajoutait-il, que cette **hypocrisie** de chaque minute ; c’est à faire pâlir les travaux d’Hercule. (Livre premier, chapitre 26)
+
+Mais il ne s’agit pas que de Julien. Le monde dans lequel il vit n’est partout qu’hypocrisie :
+
+> Partout **hypocrisie**, ou du moins charlatanisme, même chez les plus vertueux, même chez les plus grands (Livre second, chapitre XLIV)
+
+> Me voici donc dans le centre de l’intrigue et de l’**hypocrisie** ! Ici règnent les protecteurs de l’abbé de Frilair. (Deuxième partie, chapitre 1)
+
+> L’abbé Pirard l’avait mené dans plusieurs maisons jansénistes. Julien fut étonné ; l’idée de la religion était invinciblement liée dans son esprit à celle d’**hypocrisie** et d’espoir de gagner de l’argent.
+
+L’hypocrisie sert l’ambition de Julien :
+
+> Ma vie n’est qu’une suite d’**hypocrisies**, parce que je n’ai pas mille francs de rente pour acheter du pain. (Livre second, chapitre 10)
+
+Pour toutes ces raisons et parce que Julien est donc un hypocrite ambitieux, il est rarement lui-même. Il passe son temps à jouer un rôle.
+
+> Julien, s’obstinant à jouer le **rôle** d’un Don Juan, lui qui de la vie n’avait eu de maîtresse, il fut sot à mourir toute la journée. (Livre premier, chapitre 14)
+
+> Julien tremblait que sa demande ne fût accordée ; son **rôle** de séducteur lui pesait si horriblement que, s’il eût pu suivre son penchant, il se fût retiré dans sa chambre pour plusieurs jours [...] (Livre premier, chapitre 15)
+
+> Julien oublia ses vains projets et revint à son **rôle** naturel : ne pas plaire à une femme si charmante lui parut le plus grand des malheurs. (Livre premier, chapitre 15)
+
+> Mais, dans les moments les plus doux, victime d’un orgueil bizarre, il prétendit encore jouer le **rôle** d’un homme accoutumé à subjuguer des femmes : il fit des efforts d’attention incroyables pour gâter ce qu’il avait d’aimable. (Livre premier, chapitre 15)
+
+> « N’ai-je manqué à rien de ce que je me dois à moi-même ? Ai-je bien joué mon **rôle** ? »
+> Et quel **rôle** ? celui d’un homme accoutumé à être brillant avec les femmes. (Livre premier, chapitre 15)
+
+Le mot « hypocrisie » vient du grec *hupokrisis* et signifie « réponse » dans un dialogue de théâtre. De là, le sens de « jeu d’acteur » puis de « feinte », « faux-semblant ». Être hypocrite, c’est donc feindre, jouer un rôle.
+Voyez ce passage du dernier chapitre de la première partie, lorsque Julien apprend qu’il va à Paris :
+
+> Il allait enfin paraître sur le **théâtre** des grandes choses.
+
+Le monde est un théâtre où, comme l’évêque ou les prêtres du séminaire, tout est faux-semblant et artifice. On y joue un rôle pour parvenir à ses fins.
+
+### Un personnage en proie à la lutte des classes
+
+On a vu que l’hypocrisie était l’arme d’un jeune homme dont la basse condition ne lui permet pas de s’élever dans la société.
+
+> Elle [Madame de Rênal] est bonne et douce, son goût pour moi est vif, mais elle a été élevée dans **le camp ennemi**. Ils doivent surtout avoir peur de **cette classe d’hommes de cœur** qui, après une bonne éducation, n’a pas assez d’argent pour entrer dans une carrière. Que deviendraient-ils **ces nobles**, s’il nous était donné de **les combattre** à armes égales ! Moi, par exemple, maire de Verrières, bien intentionné, honnête comme l’est au fond M. de Rênal ! comme j’enlèverais le vicaire, M. Valenod et toutes leurs friponneries ! **comme la justice triompherait** dans Verrières ! Ce ne sont pas leurs talents qui me feraient obstacle. Ils tâtonnent sans cesse. [...]
+> Madame de Rênal avait été étonnée du mot de Julien, parce que les hommes de sa société répétaient que **le retour de Robespierre** était surtout possible à cause de **ces jeunes gens des basses classes**, trop bien élevés.
+
+Julien s’élève dans la société et l’hypocrisie en est le moyen. Ce principe d’élévation est symbolisé par l’échelle, objet que l’on retrouve de bout en bout dans le livre, et dont Julien dit :
+
+> C’est un instrument, se dit-il en riant, dont il est dans mon destin de me servir ! (Livre second, chapitre 15)
+
+Et de fait, on ne peut qu’être frappé du nombre de fois où Julien monte sur une échelle :
+
+> Julien vit qu’il fallait monter à l’**échelle** lui-même, son agilité le servit bien. (Livre premier, chapitre 28)
+
+> Plus tard, il entra chez un vigneron qui consentit à lui vendre une **échelle** et à le suivre en la portant jusqu’au petit bois qui domine le COURS DE LA FIDÉLITÉ à Verrières. (Livre premier, chapitre 30)
+
+> En vain elle lui demanda un volume de l’Histoire de France de Vély, placé au rayon le plus élevé, ce qui obligeait Julien à aller chercher la plus grande des deux échelles ; Julien avait approché l’**échelle**, il avait cherché le volume, il le lui avait remis, sans encore pouvoir songer à elle. (Livre second, chapitre 9)
+
+> « J’ai besoin de vous parler ; il faut que je vous parle, ce soir ; au moment où une heure après minuit sonnera, trouvez-vous dans le jardin. Prenez la grande **échelle** du jardinier auprès du puits ; placez-la contre ma fenêtre et montez chez moi. Il fait clair de lune ; n’importe. » (Livre second, chapitre 14)
+
+> Une heure sonna ; entendre le son de la cloche et se dire : Je vais monter avec l’**échelle**, ne fut qu’un instant. (Livre second, chapitre 19)
+
+> Ce ne fut qu’en tremblant et bien caché par un grand chêne, qu’il osa lever les yeux jusqu’à la fenêtre de mademoiselle de La Mole. Elle était hermétiquement fermée ; il fut sur le point de tomber et resta longtemps appuyé contre le chêne ; ensuite, d’un pas chancelant, il alla revoir l’**échelle** du jardinier. (Livre second, chapitre 25)
+
+Julien est un personnage qui veut littéralement se hisser. Juste après avoir obtenu son premier rendez-vous avec Mathilde (et donc être monté au chapitre 15), il exprime le sentiment suivant :
+
+> [...] il se sentait porté à une immense hauteur. (Livre second, chapitre 16)
+
+On peut aussi se rappeler, à la fin, que Julien rentre dans l’église au moment de l’**élévation** !
+
+> En ce moment, le jeune clerc qui servait la messe sonna pour l’élévation. Madame de Rênal baissa la tête qui un instant se trouva presque entièrement cachée par les plis de son châle. Julien ne la reconnaissait plus aussi bien ; il tira sur elle un coup de pistolet et la manqua ; il tira un second coup, elle tomba. (Livre second, chapitre 35)
+
+### Un personnage complexe à contretemps 
+
+Julien n’est pas noble (il n’est pas *bien né*). Il est né trop tard pour connaître la gloire napoléonienne et la prêtrise lui assure les moyens de son ambition et le fait arriver à l’hôtel du marquis de la Mole qui incarne la société de l’Ancien régime et le désir du retour à une véritable monarchie (c’est un ultra). Julien aspire à acquérir cette noblesse. Il prend leur parti. Il prend le parti d’une société qui n’existe plus et qui, à l’aube des Trois glorieuses, s’apprête à perdre de nouveau. En somme, là encore, Julien arrive trop tard.
+
+Et pourtant le jeune homme est un plébéien souvent comparé aux grandes figures de la Révolution :
+
+> Julien la regarda froidement avec des yeux où se peignait le plus souverain mépris.
+> Ce regard étonna madame Derville, et l’eût surprise bien davantage si elle en eût deviné la véritable expression ; elle y eût lu comme un espoir vague de la plus atroce vengeance. Ce sont sans doute de tels moments d’humiliation qui ont fait les Robespierre. (Livre premier, chapitre 9)
+
+> — Oui, disait-il au comte Altamira, Danton était un homme !
+> Ô ciel ! serait-il un Danton, se dit Mathilde [...] (Livre second, chapitre 9)
+
+> — Prenez bien garde à ce jeune homme qui a tant d’énergie, s’écria son frère ; si la révolution recommence, il nous fera tous guillotiner. (Livre second, chapitre 12)
+
+Julien est en somme un personnage contradictoire issu de la plèbe, aspirant à la noblesse mais animé par la fièvre révolutionnaire. C’est un personnage qui ne peut trouver sa place dans la société sclérosée de 1830.

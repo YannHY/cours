@@ -1,0 +1,12 @@
+# Flippity
+
+👨‍👦‍👦[Flippity](https://flippity.net) is great to randomly pick a student, to make groups, create flashcards and so on.
+
+If you’d like to mix groups in your class, here’s how to do it.
+
+Pick [the template](https://docs.google.com/spreadsheets/d/1rmXA0RQHRdgCJmrbRXatmhu7hb9x7BcC_gOo5Fc-LtM/copy) provided by Flippity, download the [add-ons](https://chrome.google.com/webstore/detail/flippity/dfbobfdggfmgobahloidifclkfnbllai?utm_source=permalink) and follow [this instructions](https://flippity.net/RandomNamePicker.asp):
+
+1. Modify the Google Spreadsheet Template (edit the names),
+2. Publish your spreadsheet (`File > Publish to the web`),
+3. Get your Flippity.net link (down below, find the tab labelled `Get the link Here`),
+4. Copy and paste this link in your web browser.

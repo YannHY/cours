@@ -1,0 +1,27 @@
+# Blog
+C'est non pas un blog, mais deux que vous trouverez ici.
+
+## Le blog
+[Le premier](http://www.ralentirtravaux.com/le_blog/), banalement intitulé **Le blog** et datant quasiment de la création du site, se donnait pour objectif d’être le réceptacle de tout ce qui me passait par la tête et qui ne trouverait naturellement pas de place sur le site.
+
+On y trouve toutes sortes d’articles allant de [mes réflexions sur la pédagogie](http://www.ralentirtravaux.com/le_blog/corriger-des-copies-numeriques/) — parfois de façon [très ironique](http://www.ralentirtravaux.com/le_blog/ces-pedagogos-qui-ont-assassine-lecole/) — à des [questionnements sur la littérature](http://www.ralentirtravaux.com/le_blog/ou-lon-voit-quil-faut-celebrer-celine/), des [remarques fantaisistes](http://www.ralentirtravaux.com/le_blog/blame-et-eloge-de-la-mouche/) en passant par [des comptes-rendus de mes lectures](http://www.ralentirtravaux.com/le_blog/le-cimetiere-de-prague/)...
+
+Vous trouverez [la liste complète des articles parus entre 2008 et aujourd'hui au bas de cette page](http://www.ralentirtravaux.com/le_blog/a-propos/).
+
+## Un Centaure à l’école
+Dans la foulée de la publication de mon livre *Un Centaure à l’école* (que vous pouvez lire sur [Books](https://books.apple.com/gb/book/un-centaure-%C3%A0-l%C3%A9cole/id1118657468), [Kindle](https://www.amazon.fr/dp/B01GAC4D8Q), [Kobo](https://store.kobobooks.com/fr-fr/ebook/un-centaure-a-l-ecole), [Google Play](https://play.google.com/store/books/details/Yann_Houry_Un_centaure_a_l_e_cole?id=7n5ADAAAQBAJ), etc.), j’ouvrais [ce second blog](http://www.ralentirtravaux.com/centaure/) avec dans l’idée d’y publier des exemples très concrets de la transformation de l’école par le numérique. On y trouve donc des articles généralement longs invitant élèves et enseignants à [écrire des articles pour Vikidia ou Wikipédia](http://www.ralentirtravaux.com/centaure/2016/09/24/ecrire-des-articles-pour-vikidia-premiere-partie/), à [faire des booktubes](http://www.ralentirtravaux.com/centaure/2018/01/03/devenez-booktuber-le-guide-complet/) ou encore à [utiliser au mieux leurs machines pour mieux écrire et lire](http://www.ralentirtravaux.com/centaure/2018/10/14/10-conseils-pour-apprendre-a-mieux-lire-et-ecrire-avec-lipad/).
+
+## Le blog
+- [Comment différencier l’enseignement à partir d’un simple spreadsheet ?](http://www.ralentirtravaux.com/le_blog/)
+- [Le livre numérique, l’histoire d’un naufrage](http://www.ralentirtravaux.com/le_blog/le-livre-numerique-lhistoire-dun-naufrage/)
+- [Le livre numérique est né au Moyen Âge](http://www.ralentirtravaux.com/le_blog/le-livre-numerique-est-ne-au-moyen-age/)
+- [Différencier l’enseignement : deux exemples](http://www.ralentirtravaux.com/le_blog/differencier-lenseignement-deux-exemples/)
+- [Cette année, la dictée en cache trois !](http://www.ralentirtravaux.com/le_blog/cette-annee-la-dictee-en-cache-trois/)
+- [Une correction des rédactions inspirées par Ken Robinson](http://www.ralentirtravaux.com/le_blog/une-correction-des-redactions-inspiree-par-ken-robinson/)
+- [Ralentir travaux fête ses 10 ans](http://www.ralentirtravaux.com/le_blog/ralentir-travaux-fete-ses-10-ans-%F0%9F%8E%82/)
+
+## Un Centaure à l’école
+- [13 conseils pour apprendre à mieux lire et écrire avec l’iPad](http://www.ralentirtravaux.com/centaure/2018/10/14/10-conseils-pour-apprendre-a-mieux-lire-et-ecrire-avec-lipad/)
+- [Automatisez vos cours avec Workflow](http://www.ralentirtravaux.com/centaure/2018/01/20/automatisez-vos-cours-avec-workflow/)
+- [Devenez booktuber, le guide complet](http://www.ralentirtravaux.com/centaure/2018/01/03/devenez-booktuber-le-guide-complet/)
+- [Écrire des articles pour Vikidia (1/4)](http://www.ralentirtravaux.com/centaure/2016/09/24/ecrire-des-articles-pour-vikidia-premiere-partie/)

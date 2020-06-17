@@ -1,0 +1,50 @@
+# Keyboard shortcuts
+
+⌨️ Are you a keyboard heavy user? Then you must be aware that by pressing [certain key combinations](https://support.apple.com/en-us/HT201236), you can do things that normally need a mouse, trackpad or your finger.
+
+😩 As a matter of fact it is sometimes a waste of time and it can be boring to select text, raise your hand, find the right menu, press whatever you want, return to your keyboard and so on. What if you could keep your both hands on your keyboard and start doing actions without having to lift your aching arm and fingers?
+
+After all, you may know some of these very famous combination:
+
+- Copy : `⌘ + C`
+- Paste : `⌘ + V`
+- Undo : `⌘ + Z`
+- Select all : `⌘ + A`
+
+And maybe so much more.
+
+🦄 This one is truly magical. Find any word or any sentence on a document of a 15 thousands word in a sec: `⌘ + F`
+
+👍 By using keyboard shortcuts not only you will work faster, you will work smarter and better.
+
+As a reminder, these symbols stand for:
+
+- Command (or Cmd) ⌘
+- Shift ⇧
+- Option (or Alt) ⌥
+- Control (or Ctrl) ⌃
+- Caps Lock ⇪
+
+But there is so much more. Let’s find out.
+
+## Using G Suite
+
+- Insert a comment: `⌥ + ⌘ + M`
+- Underline: `⌘ + U`
+- Strike: `⌘ + ⇧ + X`
+- See version history: `⌘ + ⌥ + ⇧ + H`
+
+## Typing text
+
+- Jump from the beginning to the end of a line (and vice versa): `⌘ + ➝`
+- Go to the beginning or to the end of a word: `⌥ + ➝`
+- Select text letter by letter: `⇧ + ➝`
+- Select word by word: `⇧ + ⌥ + ➝`
+- Select the whole line of text: `⌘ + ⇧ + ➝` or select from the beginning of the text: `⌘ + ⇧ + ↑` or toward the end: `⌘ + ⇧ + ↓` 
+
+## Full keyboard access
+
+Do you know you can use your iPad with the keyboard without having to lift a single finger? Say for instance you are using an app and you want to go to your home screen: press `⌘ + H`. Say you want to summon Control center. Then press `⇥ + C`.
+
+`Accessibility > Keyboards > Full keyboard access`
+

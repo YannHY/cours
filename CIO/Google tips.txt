@@ -1,0 +1,22 @@
+# Google tips 💡
+
+## Connect faster
+
+Want to avoid (to yourself or someone else) writing the all domain while loging in? Use this:
+
+> https://accounts.google.com/signin/v2/identifier?continue=https%3A%2F%2Fclassroom.google.com%2F&hd=lyceeinternational.london&sacu=1&flowName=GlifWebSignIn&flowEntry=AddSession
+
+## Make a copy
+
+Change the end of an URL by adding `copy`
+
+here is how to share a link with "make a copy" as the default prompt:
+ 
+Go to the sharing dialogue, select "get shareable link", select "anyone with link can view", then select "copy link".
+You should have a link that looks like this:
+https://docs.google.com/spreadsheets/d/<spreadsheetID>/edit?usp=sharing
+ 
+Then change the last part to /copy instead of /edit?usp=sharing, it should look like this:
+https://docs.google.com/spreadsheets/d/<spreadsheetID>/copy
+ 
+Use that link when sharing and the person you are sharing with will get a prompt to "make a copy" when they click it. You can also bookmark that link so that you get the "make a copy" prompt if you are using it for a template.

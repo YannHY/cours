@@ -1,0 +1,13 @@
+Point the A record of your www.ralentirtravaux.com domain to 51.91.236.193
+Point the AAAA record of your www.ralentirtravaux.com domain to 2001:41d0:301::28
+
+51.91.236.193
+2001:41d0:301::28
+
+
+Bonjour,
+Je suis sur le point de finir la configuration. Il me reste à ajouter le nom de domaine. Je lis la documentation https://docs.ovh.com/fr/hosting/multisites-configurer-un-multisite-sur-mon-hebergement-web/ et il est dit que je dois « créer le champ TXT ». Concrètement, qu’est-ce que la cela veut dire ?
+
+
+
+Je dois créer un fichier txt ? Je le nomme comme je veux ? J’y mets juste le nom de mon domaine et le numéro qui m’a été donné et que je peux retrouver dans Informations générales > Configuration du token ovhcontrol ?

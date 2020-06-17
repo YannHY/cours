@@ -1,0 +1,11 @@
+# Raindrop.io
+
+What is that?
+
+It’s a simple, convenient & elegant way of organising all of your bookmarks. You know what is a bookmark, don’t you? Maybe you have plenty of them and, in order to retrieve the content you wanted to save (and find easily), you may use `Add to favorite` or `Add to your home screen` in Safari.
+
+But what if you have one hundred or one thousand of them and your stash is getting bigger and bigger every day? What if you want to share some of them? What if this website page you wanted so badly to store doesn’t existe anymore?
+
+This is where you need [Raindrop.io](https://raindrop.io/). It’s a free app and if you want to use all the features you have to pay (it’s less than £2 per month).
+
+/Raindrop.io.png

@@ -1,0 +1,25 @@
+# Let’s work together
+
+When it comes to collaboration, we often rely on emails or chats, which is good but by using some of the ressources I will mention down below we’ll be 10 time more productive and therefore efficient.
+
+## Slack
+
+What I like in Slack is that itoffers chat rooms (it is called *channels*) organized by topic, private groups, and direct messaging. You may think: Sure, we can have a chat by email. But will you be able to easily retrieve the content of this discussion in one or two years in order to get that doc you vaguely remember?
+
+/Slack.png
+
+So [Slack](https://slack.com/intl/en-gb/) helps you being organised. But there’s more. Lear how to fully integrate your [Google apps with Slack](https://slackhq.com/slack-gsuite-calendar-email-files).
+
+## Trello
+
+Having a shared timetable. That what is [Trello](https://trello.com/). Imagine you have this shared list with your team, the deadlines, the links you need, some reminders and so on. Trello is some kind of board with list and card. For instance, I use it with my students so the can see what we have to do & what is done.
+
+You have all the information you need at a glance.
+
+/Trello.png
+
+## Spark
+
+In [Spark](https://apps.apple.com/gb/app/spark-email-app-by-readdle/id997102246), we will be able to elaborate an email like we share a Google Docs. And that is so convenient! Imagine you are writing an email and you want a piece of advice from your colleague. Then you start forwarding your email and so forth. What if you could simply put a private comment?
+
+To learn more about how you can share an email with your colleagues to discuss it together privately in the comments, visit [this link](https://sparkmailapp.com/help/146-shared-threads-discuss-emails-with-your-team.html).

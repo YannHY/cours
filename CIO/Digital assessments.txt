@@ -1,0 +1,7 @@
+# Digital assessments
+
+Make sure your students, if they want to write by hand and send you a photograph of their paper work, take properly the photo they intend you to read.
+
+1. Remind them to take a picture (dans une pièce éclairée)
+2. Tell them to use a very simple built-in iOS scanner
+3. Use Shortcut...

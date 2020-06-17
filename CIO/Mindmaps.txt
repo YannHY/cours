@@ -1,0 +1,8 @@
+# Mindmaps
+We are love mindmaps, don’t we? You may know [Popplet](https://apps.apple.com/gb/app/popplet/id374151636) which you can download in the SelfService app. But have you heard of those apps?
+
+- [SimpleMind](https://apps.apple.com/gb/app/simplemind-mind-mapping/id305727658)
+- [MindeNode](https://apps.apple.com/gb/app/mindnode-6-mind-map/id1218718027)
+- [MindMeister](https://apps.apple.com/gb/app/mind-mapping-mindmeister/id381073026)
+
+These apps are great to display in a organised way all your thoughts, but you can do so much more. For instance, with MindeNode, you can export your thoughts in rich text, plain texte or even Markdown. It’s very convenient to start with a mindmap and end up in a word processor.

@@ -1,0 +1,50 @@
+# Histoire de Ralentir travaux
+Ralentir travaux a désormais une longue histoire derrière lui et pendant des années, la seule page qui évoquait sa généalogie technique était [celle-ci](http://www.ralentirtravaux.com/a_propos_ancien.php), et elle commençait à méchamment dater.
+
+Depuis le site a beaucoup évolué, mais je le crois fidèle à ses origines. Il s’agit encore et toujours d’inviter le lecteur à ralentir sa course sur le web et — je l’espère — à trouver en ces lieux quelque matière à réflexion pédagogique.
+
+## Pourquoi *Ralentir travaux* ?
+Le titre Ralentir travaux trouve son origine dans un recueil de poésie surréaliste qui était un ouvrage écrit à trois mains, celles d’André Breton, Paul Éluard et René Char. J’aimais l’idée de l’écriture automatique, celle qui ouvre les portes de l’inconscient et qui met à nu la pensée de façon poétique, mais j’étais encore plus sensible à la possibilité entrouverte un bref instant de la réalisation d’un ouvrage collectif. En 2007, j’avais alors peiné à convaincre qui que ce soit de m'accompagner dans l’élaboration de ce site, et j’ai donc continué ce que j’avais commencé seul.
+
+Voilà pour le titre.
+
+Comme je le disais au début, Ralentir travaux a évolué dans sa conception et surtout sa réalisation. Si pour moi, il s’est toujours agi d’offrir mes modestes productions, c’était aussi l’occasion d'assouvir une autre de mes passions : la réalisation d’un site web. J’ai tout appris (enfin quand je dis *tout*, c’est un bien grand mot) en le faisant. Et, de fait, il a fallu tout découvrir. Et puis, en presque 15 ans, les choses ont pas mal changé.
+
+Aujourd’hui, je travaille uniquement sur iPad. On ne peut pas dire que cela soit tout à fait facile, mais j’aime que la machine que j’utilise soit légère, mobile et rapide. Plus qu’avec un ordinateur portable, tout cela est possible avec un iPad.
+
+Laissez-moi vous raconter comment Ralentir travaux s’élabore quotidiennement.
+
+## Du Markdown au HTML
+Tout ce que j’écris l’est au format [Markdown](https://fr.wikipedia.org/wiki/Markdown). Ce « langage » de balisage léger créé en 2004 par John Gruber[^1] et Aaron Swartz a été pour moi une vraie découverte. C’est extrêmement simple à apprendre. C’est certes plus long à expliquer qu’à comprendre et c’est surtout incroyablement pratique. Écrire devient rapide. Les deux mains sur le clavier (aucun besoin d’aller chercher quelque option de formatage cachée dans un sous-menu ; tout se fait à la main à l’aide de balises), mes textes sont prêts à être exporter dans tous les formats : docx, text, ePub, PDF, HTML.
+
+Grâce à [Shorcuts](https://support.apple.com/en-gb/guide/shortcuts/welcome/ios), j’ai pu considérablement accélérer le processus d’export de mes textes au format HTML, ce que le traitement de texte que j’utilise permet[^2]. Mais avec Shorcuts, j’ajoute automatiquement tout ce qui fait la spécificité du site (les balises propres à Ralentir travaux, les portions de codes, les scripts, etc.). Shorcuts prend mon texte en Markdown, le convertit en HTML et ajoute tout ce qui est nécessaire à la réalisation d’un page telle qu’elle est affichée sur Ralentir travaux). Si vous faites du développement web, vous savez à quel point — quand on n’utilise pas un [CMS](https://fr.wikipedia.org/wiki/Syst%C3%A8me_de_gestion_de_contenu) — à quel point certaines choses peuvent être lentes à taper à la main (ne serait-ce, pour prendre un seul exemple, que les liens internes).
+
+## Du HTML au FTP
+Si je dois modifier le HTML, j’utilise depuis peu [Textastic](https://www.textasticapp.com/). J’utilisais jusqu’à présent [Coda](https://panic.com/code-editor/) et Transmit, mais le premier n’utilise toujours pas iCloud et le second vit ses derniers instants sur iOS puisque son développement a été abandonné. J'utilise donc Textastic pour écrire du HTML et du CSS (je suis toujours aussi nul en ce qui concerne le JavaScript, et c’est là un de mes grands regrets), mais aussi pour le transfert des fichiers sur mon serveur. J’ai recours également à [FileBrowser](https://www.stratospherix.com/products/filebrowser/) qui me rend bien des services.
+
+Aucune des dernières apps mentionnées n’est parfaite, et celle qui le serait combinerait toutes les qualités inhérentes à l’une ou l’autre de ces apps[^3], mais je ne désespère pas et attends patiemment.
+
+En ce qui concerne les images, là encore, Shorcuts me rend de grands services pour redimensionner, modifier, envoyer sur le serveur et créer par la même occasion le code nécessaire à son intégration sur une page web.
+
+Enfin, deux autres applications me rendent la vie plus facile. La première, intégrée à iOS, est [Rappels](https://support.apple.com/fr-fr/HT205890) qui sert, comme son nom l’indique, à me rappeler les mille et unes tâches qui incombent au développement de Ralentir travaux (ça peut être corriger un bug, modifier le code, ajouter un article, etc.). La seconde est [Copied](https://apps.apple.com/gb/app/copied/id1015767349) qui est une sorte de presse-papier multiple et qui me permet de créer des listes (de tout ce que vous voulez en fait). J’utilise cette fonction, entre autres, pour avoir sous la main des bouts de code que je n’ai ainsi pas à taper quand j’élabore une page en HTML.
+
+## Ralentir travaux, c’est aussi des livres
+Quand on parle de HTML, on en arrive forcément au livre numérique.
+
+Avant de m’intéresser au format [ePub](https://fr.wikipedia.org/wiki/EPUB_(format)), j’ai d’abord utilisé [iBooks Author](https://www.apple.com/uk/ibooks-author/) et réalisé avec ce logiciel formidable (en son temps) [trois manuels](/manuels.php). Le premier a été [le manuel de quatrième](/le_blog/un-manuel-libre-et-gratuit-pour-ipad/). C’était en 2012. Et c’était — que je sache — le premier manuel libre et gratuit.
+
+Par la suite — et pour des raisons diverses — je me suis efforcé de produire des livres publiés dans un format standard (l’ePub) et qui pouvaient donc être lus sur toute plateforme (Apple, Android, Kobo, Kindle...). Cela a donné [le manuel de sixième](/le_blog/le-manuel-de-6e-partout/).
+
+Mais dans l’histoire de Ralentir travaux, je retiens surtout [l’année 2015](/remerciements.php) qui a vu durant [la campagne de crowdfunding](https://fr.ulule.com/ralentir-travaux/https://fr.ulule.com/ralentir-travaux/) le passage d'une licence Creative Commons By-NC-SA à une licence Creative Commons By-SA. La somme acquise m’a alors permis de travailler dans de meilleures conditions et de publier dans la foulée [le manuel de cinquième](/le_blog/le-manuel-de-5e-est-publie/).
+
+<section class="video-853"><iframe width="853" height="480" src="https://www.youtube.com/embed/w23G-Op6J7Q" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></section>
+
+## Puisque vous êtes là...
+Aidez Ralentir travaux à poursuivre sa deuxième décennie d’existence en participant à son financement et permettant ainsi son développement. L’année 2019 n’est pas terminée et déjà deux millions de visiteurs se se sont rendus sur Ralentir travaux, ce qui engendre des frais importants de développement.
+Soyez remercié mille fois pour votre participation. 🙏
+
+[^1]:	Sur [Daring Fireball](https://daringfireball.net/projects/markdown/syntax), vous trouverez toutes les informations nécessaires.
+
+[^2]:	Il s’agit d’[Ulysses](https://ulysses.app/) qui est évidemment une app permettant d’écrire en Markdown.
+
+[^3]:	Un éditeur de code qui serait élégant, rapide, utiliserait iCloud pour la synchronisation entre tous mes appareils, qui permettrait l’échange de fichier via FTP, permettrait dans le même temps de copier le lien d’un fichier, etc. L’éditeur qui ferait tout ça, disais-je, serait une merveille qui me changerait la vie.

@@ -64,7 +64,7 @@ Rappelons que mettre des titres de cette façon permet de construire dans certai
 
 ### Insérer une note de bas de page
 
-Placez `[^1]` juste après le mot à la suite duquel vous souhaitez insérer une note de bas de page.
+Placez `[^1]` juste après le mot à la suite duquel vous souhaitez insérez une note de bas de page.
 
 Tout en bas de votre document, insérer alors ceci :
 
@@ -160,3 +160,19 @@ Voici un exemple de tableau présentant la conjugaison des temps de l’indicati
 ### Générer automatiquement un tableau
 
 [Markdown Table generator](http://www.tablesgenerator.com/markdown_tables)
+
+## Pour en savoir plus
+
+### Pour mieux comprendre le Markdown
+
+- [Markdown: Basics](https://daringfireball.net/projects/markdown/basics)
+- [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
+- [Rédigez en Markdown ! (OpenClassrooms)](https://openclassrooms.com/fr/courses/1304236-redigez-en-markdown)
+- [Markdown quick reference cheat sheet](https://wordpress.com/support/markdown-quick-reference/)
+- [Using Markdown on WordPress.com](https://wordpress.com/support/can-i-use-markdown-on-wordpress-com/)
+
+### Pour écrire en Markdown
+
+- [StackEdit](https://stackedit.io/)
+- [iA Writer](https://apps.apple.com/gb/app/ia-writer/id775737172)
+- [Ulysses](https://apps.apple.com/gb/app/ulysses/id1225571038)

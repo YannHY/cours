@@ -69,7 +69,7 @@ Vous pouvez inclure une description du lien dans les parenthèses.
 [Ralentir travaux](https://www.ralentirtravaux.com "Ralentir travaux, le site du français")
 ```
 
-Si vous voulez insérer une adresse email, écrivez votre adresse entourée des chevrons `<>`>: `<monadresse@truc.com>` .
+Si vous voulez insérer une adresse email, écrivez votre adresse entourée des chevrons `<>`: `<monadresse@truc.com>` .
 
 ### Insérer une image
 

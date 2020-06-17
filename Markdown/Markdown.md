@@ -64,7 +64,7 @@ Rappelons que mettre des titres de cette façon permet de construire dans certai
 
 ### Insérer une note de bas de page
 
-Placez ceci juste après le mot après lequel vous souhaitez insérer une note de bas de page.`[^1]`.
+Placez `[^1]` juste après le mot à la suite duquel vous souhaitez insérer une note de bas de page.
 
 Tout en bas de votre document, insérer alors ceci :
 

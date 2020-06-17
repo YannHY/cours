@@ -4,18 +4,23 @@
 
 ## Faire un tableau
 
+### Code
+
 ```
-|  1re colonne| 2e colonne|
-|:—|:—|
-|  Ceci|Cela  |
-|  Ceci|Cela  |
+|1re colonne|2e colonne|3e colonne|
+|:—|:—:|-:|
+|Alignement à gauche|Alignement centré|Alignement à droite|
 ```
 
-| Tables   |      Are      |  Cool |
-|----------|:-------------:|------:|
-| col 1 is |  left-aligned | $1600 |
-| col 2 is |    centered   |   $12 |
-| col 3 is | right-aligned |    $1 |
+### Rendu
+
+|1re colonne|2e colonne|3e colonne|
+|:--|:--:|--:|
+|Alignement à gauche|Alignement centré|Alignement à droite|
+
+## Exemple
+
+Voici un exemple de tableau présentant la conjugaison des temps de l’indicatif.
 
 |Temps simples|Temps composés|
 |:--|:--|
@@ -24,5 +29,7 @@
 |Passé simple : *je fus*|Passé antérieur : *j’eus été*|
 |Futur simple : *je serai*|Futur antérieur : *j’aurai été*|
 |Conditionnel présent : *je serais*|Conditionnel passé : *j’aurais été*|
+
+## Générer automatiquement un tableau
 
 [Markdown Table generator](http://www.tablesgenerator.com/markdown_tables)

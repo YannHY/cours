@@ -1,3 +1,9 @@
+# Apprendre le Markdown
+
+## Introduction
+
+## Faire un tableau
+
 |  1re colonne| 2e colonne|
 |:--|:--|
 |  Ceci|Cela  |
@@ -18,12 +24,3 @@
 |Conditionnel présent : *je serais*|Conditionnel passé : *j’aurais été*|
 
 [Markdown Table generator](http://www.tablesgenerator.com/markdown_tables)
-
-—
-
-<table>
-    <tr>
-        <td>Je suis</td>
-        <td>J’étais</td>
-    </tr>
-</table>

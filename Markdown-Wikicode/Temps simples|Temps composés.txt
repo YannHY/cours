@@ -1,7 +1,0 @@
-|Temps simples|Temps composés|
-|:--|:--|
-|Présent : *je suis*|Passé composé : *j’ai été*|
-|Imparfait : *j’étais*|Plus-que-parfait : *j’avais été*|
-|Passé simple : *je fus*|Passé antérieur : *j’eus été*|
-|Futur simple : *je serai*|Futur antérieur : *j’aurai été*|
-|Conditionnel présent : *je serais*|Conditionnel passé : *j’aurais été*|

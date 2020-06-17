@@ -182,4 +182,5 @@ Voici un exemple de tableau présentant la conjugaison des temps de l’indicati
 
 ### Pourquoi utiliser le Markdown
 
+- [Pourquoi en Markdown ?](https://www.davidbosman.fr/blog/2012/11/23/pourquoi-en-markdown/)
 - [My Markdown Writing and Collaboration Workflow, Powered by Working Copy 3.6, iCloud Drive, and GitHub](https://www.macstories.net/ios/my-markdown-writing-and-collaboration-workflow-powered-by-working-copy-3-6-icloud-drive-and-github/)

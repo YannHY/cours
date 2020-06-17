@@ -4,10 +4,10 @@
 
 ## Faire un tableau
 
-|  1re colonne| 2e colonne|
-|:--|:--|
-|  Ceci|Cela  |
-|  Ceci|Cela  |
+`|  1re colonne| 2e colonne|`
+`|:--|:--|`
+`|  Ceci|Cela  |`
+`|  Ceci|Cela  |`
 
 | Tables   |      Are      |  Cool |
 |----------|:-------------:|------:|

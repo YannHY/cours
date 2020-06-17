@@ -38,9 +38,47 @@ On remarque que c’est plus épuré, c’est plus lisible en somme et que l’o
 
 ## Connaissances de bases à acquérir
 
+## Mettre en gras ou en italique
+
 - Pour mettre un mot en italique, placez ce mot entre deux astérisques `*` : `Ce mot est en *italique*`.
 - Pour mettre un mot en gras, places-le entre deux astérisques `**` : `Ce mot est en **gras**`.
 - Pour aller à la ligne, appuyez simplement sur la touche `↵`. Si vous souhaitez forcer le retour à la ligne, insérez la balise `<br />`.
+
+## Faire une liste
+
+### Liste ordonnée
+
+Pour faire une liste ordonnée, simplement numéroter les lignes suivies à chaque fois d’un point :
+
+```
+1. Élément 1
+2. Élément 2
+3. Élément 3
+```
+
+On obtient alors :
+
+1. Élément 1
+2. Élément 2
+3. Élément 3
+
+### Liste non-ordonnée
+
+Pour faire une liste non-ordonnée, vous pouvez utiliser au choix le tiret (`-`), l’astérisque (`*`) ou le signe `+`.
+
+```
+- Élément 1
+- Élément 2
+- Élément 3
+```
+
+## Faire un lien
+
+Si vous voulez faire un lien vers un site externe, simplement mettre le ou les mots entre crochets (j’utilise sur mon iPad le raccourci `cmd  + parenthèse`) suivis du lien mis entre parenthèses, ce qui donne ceci :
+
+```
+[Ralentir travaux](https://www.ralentirtravaux.com)
+```
 
 ## Faire un tableau
 

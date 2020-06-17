@@ -175,4 +175,11 @@ Voici un exemple de tableau présentant la conjugaison des temps de l’indicati
 
 - [StackEdit](https://stackedit.io/)
 - [iA Writer](https://apps.apple.com/gb/app/ia-writer/id775737172)
+- [Drafts](https://apps.apple.com/gb/app/drafts/id1236254471)
+- [Pretext](https://apps.apple.com/gb/app/pretext/id1347707000)
+- [Bear](https://apps.apple.com/gb/app/bear/id1016366447)
 - [Ulysses](https://apps.apple.com/gb/app/ulysses/id1225571038)
+
+### Pourquoi utiliser le Markdown
+
+- [My Markdown Writing and Collaboration Workflow, Powered by Working Copy 3.6, iCloud Drive, and GitHub](https://www.macstories.net/ios/my-markdown-writing-and-collaboration-workflow-powered-by-working-copy-3-6-icloud-drive-and-github/)

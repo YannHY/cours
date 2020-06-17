@@ -20,7 +20,9 @@ Le problème avec certaines balises, c’est que cela rend le texte peu lisible.
 
 > HTML is a *publishing* format ; Markdown is a *writing* format.
 
-Par exemple, si j’écris en HTML « Le [Markdown](https://fr.wikipedia.org/wiki/Markdown), c’est vraiment *pratique* ! », je vais obtenir ceci :
+Il s’agit d’écrire facilement et lisiblement en vue de publier sur le web (de très nombreuses applications recourent au Markdown : Wordpress, Tumblr, Day One Journal, Bear, etc.)
+
+De fait, si, par exemple, j’écris en HTML « Le [Markdown](https://fr.wikipedia.org/wiki/Markdown), c’est vraiment *pratique* ! », je vais obtenir ceci :
 
 ```
 <p>Le <a href="https://fr.wikipedia.org/wiki/Markdown" title="Markdown">Markdown</a>, c’est vraiment <em>pratique</em> !</p>

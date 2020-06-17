@@ -17,10 +17,11 @@ Comme en HTML, il y a des titres de plusieurs niveaux (1 à 6). On utilise le si
 ###### Titre de niveau 6
 ```
 
-### Mettre en gras ou en italique
+### Mettre en gras, en italique ou rayer un mot
 
 - Pour mettre un mot en italique, placez ce mot entre deux astérisques `*` : `Ce mot est en *italique*`.
 - Pour mettre un mot en gras, places-le entre deux astérisques `**` : `Ce mot est en **gras**`.
+- Pour barrer un mot, encadrez-le d’un double tilde `~~` : `Ce mot est ~~barré~~`.
 
 ### Insérer une note de bas de page
 
@@ -68,6 +69,8 @@ Vous pouvez inclure une description du lien dans les parenthèses.
 [Ralentir travaux](https://www.ralentirtravaux.com "Ralentir travaux, le site du français")
 ```
 
+Si vous voulez insérer une adresse email, écrivez votre adresse entourée des chevrons `<>`>: `<monadresse@truc.com>` .
+
 ### Insérer une image
 
 Procédez de la même façon que pour insérer un lien, mais en ajoutant un point d’exclamation avant les crochets. L’URL que vous placerez entre parenthèses sera celle de votre image.
@@ -75,6 +78,14 @@ Procédez de la même façon que pour insérer un lien, mais en ajoutant un poin
 ```
 ![Trois manuels](https://www.ralentirtravaux.com/images/site/trois-manuels.png "Trois manuels")
 ```
+
+### Insérer un saut de page
+
+Placez trois signes `+++`.
+
+### Insérer une ligne horizontale 
+
+Pour créer une ligne horizontale, insérez trois astérisques (`***`), tiret (`---`) ou « underscores » (`___`) à la suite.
 
 ### Citer du texte
 

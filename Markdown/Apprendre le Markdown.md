@@ -57,10 +57,11 @@ Comme en HTML, il y a des titres de plusieurs niveaux (1 à 6). On utilise le si
 
 Rappelons que mettre des titres de cette façon permet de construire dans certains documents la table des matières.
 
-### Mettre en gras ou en italique
+### Mettre en gras, en italique ou rayer un mot
 
 - Pour mettre un mot en italique, placez ce mot entre deux astérisques `*` : `Ce mot est en *italique*`.
 - Pour mettre un mot en gras, places-le entre deux astérisques `**` : `Ce mot est en **gras**`.
+- Pour barrer un mot, encadrez-le d’un double tilde `~~` : `Ce mot est ~~barré~~`.
 
 ### Insérer une note de bas de page
 
@@ -108,6 +109,8 @@ C’est facultatif, mais vous pouvez inclure une description du lien dans les pa
 [Ralentir travaux](https://www.ralentirtravaux.com "Ralentir travaux, le site du français")
 ```
 
+Si vous voulez insérer une adresse email, écrivez votre adresse entourée des chevrons `<>`>: `<monadresse@truc.com>` .
+
 ### Insérer une image
 
 Procédez de la même façon que pour insérer un lien, mais en ajoutant un point d’exclamation avant les crochets. L’URL que vous placerez entre parenthèses sera celle de votre image.
@@ -115,6 +118,14 @@ Procédez de la même façon que pour insérer un lien, mais en ajoutant un poin
 ```
 ![Trois manuels](https://www.ralentirtravaux.com/images/site/trois-manuels.png "Trois manuels")
 ```
+
+### Insérer un saut de page
+
+Placez trois signes `+++`.
+
+### Insérer une ligne horizontale 
+
+Pour créer une ligne horizontale, insérez trois astérisques (`***`), tiret (`---`) ou « underscores » (`___`) à la suite.
 
 ### Citer du texte
 
@@ -165,6 +176,7 @@ Voici un exemple de tableau présentant la conjugaison des temps de l’indicati
 
 ### Pour mieux comprendre le Markdown
 
+- [Markdown guide](https://www.markdownguide.org/basic-syntax/)
 - [Markdown: Basics](https://daringfireball.net/projects/markdown/basics)
 - [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
 - [Rédigez en Markdown ! (OpenClassrooms)](https://openclassrooms.com/fr/courses/1304236-redigez-en-markdown)

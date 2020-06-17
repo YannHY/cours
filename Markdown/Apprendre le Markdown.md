@@ -4,7 +4,7 @@ Le markdown s’apprend en **cinq minutes**. C’est vraiment très simple.
 
 Son intérêt est **triple** :
 
-1. Vous écrivez sur un traitement de texte dont le format est `txt` ou `md`. Autant dire que ce type de fichier sera encore lisible dans 50 ans quelle que soit l’évolution de l’application que vous utilisez.
+1. Vous écrivez sur un traitement de texte dont le format est `txt` ou `md`. Autant dire que ce type de fichier sera encore lisible dans 50 ans, quelle que soit l’évolution de l’application que vous utilisez.
 2. Vous formatez votre texte sans quitter votre clavier et sans avoir à plonger dans un sous-menu pour obtenir l’effet désiré (ou lorsque les commande de mise en forme ne sont pas disponibles, comme dans des champs de commentaires de certains sites). 
 3. L’export est généralement assez riche : txt, PDF, Docs, HTML, ePub, etc.
 
@@ -20,7 +20,7 @@ Le problème avec certaines balises, c’est que cela rend le texte peu lisible.
 
 > HTML is a *publishing* format ; Markdown is a *writing* format.
 
-Il s’agit d’écrire facilement et lisiblement en vue de publier sur le web (de très nombreuses applications recourent au Markdown : Wordpress, Tumblr, Day One Journal, Bear, etc.)
+Il s’agit donc d’écrire facilement et lisiblement en vue de publier sur le web (de très nombreuses applications recourent au Markdown : [Wordpress](https://wordpress.com/support/can-i-use-markdown-on-wordpress-com/), [Trello](https://help.trello.com/article/821-using-markdown-in-trello), [Tumblr](https://tumblr.zendesk.com/hc/en-us/articles/231221707-Post-editor), [Day One Journal](http://help.dayoneapp.com/en/articles/440596-markdown-guide), [Discord](https://support.discord.com/hc/en-us/articles/210298617-Markdown-Text-101-Chat-Formatting-Bold-Italic-Underline-), [Bear](https://bear.app/faq/Markup%20:%20Markdown/Markdown%20compatibility%20mode/), etc.)
 
 De fait, si, par exemple, j’écris en HTML « Le [Markdown](https://fr.wikipedia.org/wiki/Markdown), c’est vraiment *pratique* ! », je vais obtenir ceci :
 
@@ -34,7 +34,7 @@ Mais en Markdown, cela donnerait ceci :
 Le [Markdown](https://fr.wikipedia.org/wiki/Markdown), c’est vraiment *pratique* !
 ```
 
-On remarque que c’est plus épuré, c’est plus lisible en somme et que l’on fait tout en une seule étape. L’écriture et la mise en forme. Votre WordPress — si vous l’utilisez — saura afficher tout ça comme si c’était du HTML. Il y a là un gain de temps.
+On remarque que c’est plus épuré, c’est plus lisible en somme et que l’on fait tout en une seule étape. L’écriture et la mise en forme. Votre WordPress — si vous l’utilisez — saura afficher tout ça comme si c’était du HTML. Il y a là un gain de temps appréciable.
 
 ## Connaissances de bases à acquérir
 

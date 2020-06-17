@@ -40,12 +40,37 @@ On remarque que c’est plus épuré, c’est plus lisible en somme et que l’o
 
 ### Faire un paragraphe
 
-Pour aller à la ligne, appuyez simplement sur la touche `↵`. Si vous souhaitez forcer le retour à la ligne, insérez la balise `<br />`.
+Pour aller à la ligne, appuyez simplement sur la touche `↵`. Si vous souhaitez forcer le retour à la ligne, insérez la balise `<br />`.
+
+### Les titres
+
+Comme en HTML, il y a des titres de plusieurs niveaux (1 à 6). On utilise le signe `#` pour ce faire.
+
+```
+# Titre de niveau 1
+## Titre de niveau 2
+### Titre de niveau 3
+#### Titre de niveau 4
+##### Titre de niveau 5
+###### Titre de niveau 6
+```
+
+Rappelons que mettre des titres de cette façon permet de construire dans certains documents la table des matières.
 
 ### Mettre en gras ou en italique
 
 - Pour mettre un mot en italique, placez ce mot entre deux astérisques `*` : `Ce mot est en *italique*`.
 - Pour mettre un mot en gras, places-le entre deux astérisques `**` : `Ce mot est en **gras**`.
+
+### Insérer une note de bas de page
+
+Placez ceci juste après le mot après lequel vous souhaitez insérer une note de bas de page.`[^1]`.
+
+Tout en bas de votre document, insérer alors ceci :
+
+```
+[^1]: Ma note de bas de page.
+```
 
 ### Faire une liste
 
@@ -61,7 +86,7 @@ Pour faire une liste ordonnée, simplement numéroter les lignes suivies à chaq
 
 #### Liste non-ordonnée
 
-Pour faire une liste non-ordonnée, vous pouvez utiliser au choix le tiret (`-`), l’astérisque (`*`) ou le signe `+`.
+Pour faire une liste non-ordonnée (c’est-à-dire une liste à puces), vous pouvez utiliser au choix le tiret (`-`), l’astérisque (`*`) ou le signe `+`.
 
 ```
 - Élément 1
@@ -69,12 +94,26 @@ Pour faire une liste non-ordonnée, vous pouvez utiliser au choix le tiret (`-`)
 - Élément 3
 ```
 
-### Faire un lien
+### Mettre un lien
 
 Si vous voulez faire un lien vers un site externe, simplement mettre le ou les mots entre crochets (j’utilise sur mon iPad le raccourci `⌘ + parenthèse`) suivis du lien mis entre parenthèses, ce qui donne ceci :
 
 ```
 [Ralentir travaux](https://www.ralentirtravaux.com)
+```
+
+C’est facultatif, mais vous pouvez inclure une description du lien dans les parenthèses.
+
+```
+[Ralentir travaux](https://www.ralentirtravaux.com "Ralentir travaux, le site du français")
+```
+
+### Insérer une image
+
+Procédez de la même façon que pour insérer un lien, mais en ajoutant un point d’exclamation avant les crochets. L’URL que vous placerez entre parenthèses sera celle de votre image.
+
+```
+![Trois manuels](https://www.ralentirtravaux.com/images/site/trois-manuels.png "Trois manuels")
 ```
 
 ### Citer du texte

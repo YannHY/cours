@@ -1,0 +1,4 @@
+# ￼￼￼￼Concordance des temps
+Certains verbes sont mal conjugués. Trouve le bon temps
+
+Il n’y avait plus aucun bruit dans le train. Les voyageurs somnolaient ou lisaient et de fait l’atmosphère était calme, paisible. Cela faisait maintenant quatre heures qu’ils voyagèrent dans ce train remplis et dans approximativement une heure, ils s'arrêteront dans une gare ferroviaire où monsieur ira chercher quelque petites choses à grignoter afin de satisfaire l'appétit démesuré de madame. Leur fille habitait à un jour et quelques de Paris, ils étaient donc partis pour un très long voyage. Tout à coup quelqu’un cria : « À l’aide ! À l’aide ! » Monsieur du Clarie étant un homme brave se précipita vers le lieu d’où semblait provenir le bruit et il fut stupéfait de sa découverte.

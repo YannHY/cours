@@ -3,7 +3,7 @@
 Le markdown s’apprend en **cinq minutes**. C’est vraiment très simple. Son intérêt est **triple** :
 
 1. Vous écrivez sur un traitement de texte dont le format est `txt` ou `md`. Autant dire que ce type de fichier sera encore lisible dans 50 ans quelle que soit l’évolution de l’application que vous utilisez.
-2. Vous formatez votre texte sans quitter votre clavier et sans avoir à plonger dans un sous-menu pour obtenir l’effet désiré (ou lorsque les commande de mise en forme ne sont pas disponibles, comme dans des champs de commentaires dans certains sites). 
+2. Vous formatez votre texte sans quitter votre clavier et sans avoir à plonger dans un sous-menu pour obtenir l’effet désiré (ou lorsque les commande de mise en forme ne sont pas disponibles, comme dans des champs de commentaires de certains sites). 
 3. L’export est généralement assez riche : txt, PDF, Docs, HTML, ePub, etc.
 
 ## Introduction

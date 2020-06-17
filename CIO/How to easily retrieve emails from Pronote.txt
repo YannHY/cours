@@ -1,5 +1,0 @@
-# How to easily retrieve emails from Pronote
-
-Pronote
-Shortcut
-Mail (Spark > Templates)

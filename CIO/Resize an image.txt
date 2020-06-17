@@ -1,5 +1,0 @@
-# Resize an image
-
-Did you know that you can resize an image in Google Docs. Well That’s not an obvious option to find out but if you tap on an image then tap on the capital letter A on the right up corner and choose Text wrap > Inline then you will be able to redimension your photo.
-
-But the easy way is to tap on the three dots on the right up corner and select Print layout then you can resize your image

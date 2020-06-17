@@ -1,5 +1,0 @@
-# Making books with iPad
-
-Have you heard about ePub? 📚 It’s the standard format file of digital books. You can very easily made yours in a few clics on your iPad. To do that, you may use an app like [BookCreator](https://apps.apple.com/gb/app/book-creator-for-ipad/id442378070) (we have it in the Self Service app). You may buy [Creative Book Builder](https://apps.apple.com/gb/app/creative-book-builder/id451041428) which is very powerful and flexible. Don’t forget to download [Creative Widget Builder](https://apps.apple.com/gb/app/creative-widget-builder/id1091282414) so you can create interactive content such as flash cards , puzzle, timeline, matching question/sorting question/fill in the blank exercices and so forth...
-
-But did you know you can in a minute create rich content in a single word processor such as [Pages](https://apps.apple.com/gb/app/pages/id361309726)? Write your text, insert images, sounds, videos, export it in ePub and your digital book is ready to be share. 👍

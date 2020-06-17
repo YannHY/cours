@@ -8,7 +8,7 @@ Le markdown s’apprend en **cinq minutes**. C’est vraiment très simple. Son 
 
 ## Introduction
 
-Comme le dit très [Wikipédia](https://fr.wikipedia.org/wiki/Markdown),
+Comme le dit [Wikipédia](https://fr.wikipedia.org/wiki/Markdown),
 
 > Markdown est un langage de balisage léger créé en 2004 par John Gruber avec l'aide d'Aaron Swartz. Son but est d'offrir une syntaxe facile à lire et à écrire. Un document balisé par Markdown peut être lu en l'état sans donner l’impression d'avoir été balisé ou formaté par des instructions particulières.
 

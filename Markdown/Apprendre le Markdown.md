@@ -174,6 +174,7 @@ Voici un exemple de tableau présentant la conjugaison des temps de l’indicati
 ### Pour écrire en Markdown
 
 - [StackEdit](https://stackedit.io/)
+- [Atom](https://atom.io/)
 - [iA Writer](https://apps.apple.com/gb/app/ia-writer/id775737172)
 - [Drafts](https://apps.apple.com/gb/app/drafts/id1236254471)
 - [Pretext](https://apps.apple.com/gb/app/pretext/id1347707000)

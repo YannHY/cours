@@ -1,6 +1,8 @@
 # Apprendre le Markdown
 
-Le markdown s’apprend en **cinq minutes**. C’est vraiment très simple. Son intérêt est **triple** :
+Le markdown s’apprend en **cinq minutes**. C’est vraiment très simple.
+
+Son intérêt est **triple** :
 
 1. Vous écrivez sur un traitement de texte dont le format est `txt` ou `md`. Autant dire que ce type de fichier sera encore lisible dans 50 ans quelle que soit l’évolution de l’application que vous utilisez.
 2. Vous formatez votre texte sans quitter votre clavier et sans avoir à plonger dans un sous-menu pour obtenir l’effet désiré. 
@@ -8,9 +10,7 @@ Le markdown s’apprend en **cinq minutes**. C’est vraiment très simple. Son 
 
 ## Introduction
 
-Comme le dit [Wikipédia](https://fr.wikipedia.org/wiki/Markdown),
-
-> Markdown est un langage de balisage léger créé en 2004 par John Gruber avec l'aide d'Aaron Swartz. Son but est d'offrir une syntaxe facile à lire et à écrire. Un document balisé par Markdown peut être lu en l'état sans donner l’impression d'avoir été balisé ou formaté par des instructions particulières.
+> Markdown est un langage de balisage léger créé en 2004 par John Gruber avec l'aide d'Aaron Swartz. Son but est d'offrir une syntaxe facile à lire et à écrire. Un document balisé par Markdown peut être lu en l'état sans donner l’impression d'avoir été balisé ou formaté par des instructions particulières. [Wikipédia](https://fr.wikipedia.org/wiki/Markdown)
 
 Vous connaissez peut-être d’autres langages de balisage comme le HTML ou la syntaxe wiki. Ces « langages » consistent simplement à insérer des balises afin de mettre en forme le texte proposé à la lecture.
 
@@ -81,6 +81,15 @@ Si vous voulez faire un lien vers un site externe, simplement mettre le ou les m
 
 ```
 [Ralentir travaux](https://www.ralentirtravaux.com)
+```
+
+### Citer du texte
+
+Faite précéder le texte d’un simple chevron `>` pour faire une citation 
+
+```
+> Sois sage, ô ma Douleur, et tiens-toi plus tranquille.
+> Tu réclamais le Soir; il descend; le voici
 ```
 
 ### Faire un tableau

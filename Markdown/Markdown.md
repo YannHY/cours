@@ -59,12 +59,6 @@ Pour faire une liste ordonnée, simplement numéroter les lignes suivies à chaq
 3. Élément 3
 ```
 
-On obtient alors :
-
-1. Élément 1
-2. Élément 2
-3. Élément 3
-
 #### Liste non-ordonnée
 
 Pour faire une liste non-ordonnée, vous pouvez utiliser au choix le tiret (`-`), l’astérisque (`*`) ou le signe `+`.

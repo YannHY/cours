@@ -193,6 +193,7 @@ Voici un exemple de tableau présentant la conjugaison des temps de l’indicati
 - [Pretext](https://apps.apple.com/gb/app/pretext/id1347707000)
 - [Bear](https://apps.apple.com/gb/app/bear/id1016366447)
 - [Ulysses](https://apps.apple.com/gb/app/ulysses/id1225571038)
+- [Marked 2](https://marked2app.com/)
 
 ### Pourquoi utiliser le Markdown
 

@@ -2,7 +2,7 @@
 
 ## Introduction
 
-La culture du partage est essentielle. Elle peut coûter des vies (ce fut le cas tragique d’Aaron Swartz), elle peut sauver des vies (il y a quelques jolies pages à ce sujet dans Smarter than you think et l’invention de la pénicilline). Plus modestement, elle peut nous permettre de mieux travailler et durant cette époque de pandémie, il me semble plus important que jamais de partager ce que nous avons pour en faciliter la transmission en ligne.
+La culture du partage est essentielle. Elle peut coûter des vies (ce fut le cas tragique d’Aaron Swartz), elle peut sauver des vies (il y a quelques jolies pages à ce sujet dans *Smarter than you think* et l’invention de la pénicilline). Plus modestement, elle peut nous permettre de mieux travailler et durant cette époque de pandémie, il me semble plus important que jamais de partager ce que nous avons pour en faciliter la transmission en ligne.
 
 [Ralentir travaux](https://www.ralentirtravaux.com/) existe depuis maintenant près de 15 ans. À l'origine, la création de ce site n'a jamais eu pour objectif de n'avoir qu'un seul rédacteur. C'est la raison pour laquelle j'ai récemment créé ce [wiki](https://www.ralentirtravaux.com/w/index.php?title=Accueil) ou que [ce repository sur GitHub](https://github.com/YannHY/cours) existe.
 

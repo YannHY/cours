@@ -57,10 +57,11 @@ Comme en HTML, il y a des titres de plusieurs niveaux (1 à 6). On utilise le si
 
 Rappelons que mettre des titres de cette façon permet de construire dans certains documents la table des matières.
 
-### Mettre en gras, en italique ou rayer un mot
+### Mettre en gras, en italique, surligner ou rayer un mot
 
 - Pour mettre un mot en italique, placez ce mot entre deux astérisques `*` : `Ce mot est en *italique*`.
 - Pour mettre un mot en gras, places-le entre deux astérisques `**` : `Ce mot est en **gras**`.
+- Pour surligner un mot, placez deux signes égal de part et d’autre : `Ce mot est ==surligné==.` 
 - Pour barrer un mot, encadrez-le d’un double tilde `~~` : `Ce mot est ~~barré~~`.
 
 ### Insérer une note de bas de page
@@ -167,35 +168,3 @@ Voici un exemple de tableau présentant la conjugaison des temps de l’indicati
 |Passé simple : *je fus*|Passé antérieur : *j’eus été*|
 |Futur simple : *je serai*|Futur antérieur : *j’aurai été*|
 |Conditionnel présent : *je serais*|Conditionnel passé : *j’aurais été*|
-
-### Générer automatiquement un tableau
-
-[Markdown Table generator](http://www.tablesgenerator.com/markdown_tables)
-
-## Pour en savoir plus
-
-### Pour mieux comprendre le Markdown
-
-- [Markdown guide](https://www.markdownguide.org/basic-syntax/)
-- [Markdown: Basics](https://daringfireball.net/projects/markdown/basics)
-- [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
-- [Rédigez en Markdown ! (OpenClassrooms)](https://openclassrooms.com/fr/courses/1304236-redigez-en-markdown)
-- [Markdown quick reference cheat sheet](https://wordpress.com/support/markdown-quick-reference/)
-- [Using Markdown on WordPress.com](https://wordpress.com/support/can-i-use-markdown-on-wordpress-com/)
-
-### Pour écrire en Markdown
-
-- [StackEdit](https://stackedit.io/)
-- [Dillinger](https://dillinger.io/)
-- [Atom](https://atom.io/)
-- [iA Writer](https://apps.apple.com/gb/app/ia-writer/id775737172)
-- [Drafts](https://apps.apple.com/gb/app/drafts/id1236254471)
-- [Pretext](https://apps.apple.com/gb/app/pretext/id1347707000)
-- [Bear](https://apps.apple.com/gb/app/bear/id1016366447)
-- [Ulysses](https://apps.apple.com/gb/app/ulysses/id1225571038)
-- [Marked 2](https://marked2app.com/)
-
-### Pourquoi utiliser le Markdown
-
-- [Pourquoi en Markdown ?](https://www.davidbosman.fr/blog/2012/11/23/pourquoi-en-markdown/)
-- [My Markdown Writing and Collaboration Workflow, Powered by Working Copy 3.6, iCloud Drive, and GitHub](https://www.macstories.net/ios/my-markdown-writing-and-collaboration-workflow-powered-by-working-copy-3-6-icloud-drive-and-github/)

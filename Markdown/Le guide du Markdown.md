@@ -17,10 +17,11 @@ Comme en HTML, il y a des titres de plusieurs niveaux (1 à 6). On utilise le si
 ###### Titre de niveau 6
 ```
 
-### Mettre en gras, en italique ou rayer un mot
+### Mettre en gras, en italique, surligner ou rayer un mot
 
 - Pour mettre un mot en italique, placez ce mot entre deux astérisques `*` : `Ce mot est en *italique*`.
 - Pour mettre un mot en gras, places-le entre deux astérisques `**` : `Ce mot est en **gras**`.
+- Pour surligner un mot, placez deux signes égal de part et d’autre : `Ce mot est ==surligné==.` 
 - Pour barrer un mot, encadrez-le d’un double tilde `~~` : `Ce mot est ~~barré~~`.
 
 ### Insérer une note de bas de page

@@ -31,19 +31,22 @@ Vos phrases doivent être entièrement rédigées, ponctuées et écrites lisibl
 # Correction de l’évaluation
 
 1. Il existe quatre types de phrases. 
-La phrase déclarative se termine par un point. La phrase interrogative se termine par un point d’interrogation. La phrase exclamative s’achève sur un point d’exclamation. Enfin, la phrase injonctive exprime un ordre ou un conseil ; elle se reconnaît à son verbe à l’impératif ou au subjonctif.
+- La phrase déclarative se termine par un point.
+- La phrase interrogative se termine par un point d’interrogation.
+- La phrase exclamative s’achève sur un point d’exclamation.
+- Enfin, la phrase injonctive exprime un ordre ou un conseil ; elle se reconnaît à son verbe à l’impératif ou au subjonctif.
 
 2.
-« Comment dois-je le recevoir ? » est une phrase interrogative.
-« Oh, oh, oh, que j’ai froid ! » est une phrase exclamative.
-« Arrêtez-vous ici et attendez mon retour. » est une phrase injonctive.
-« Le petit tailleur se mit en route, suivi des cent cavaliers. » est une phrase déclarative.
-« Comme si ce sot animal était connaisseur ! » est une phrase exclamative.
-« D’où viens-tu et où vas-tu ? » est une phrase interrogative.
-« Va-t’en vite chercher la princesse. » est une phrase injonctive.
-« Quelque temps après, il y eut la guerre dans le pays. » est une phrase déclarative.
-« Pouah, que vous êtes donc laides ! » est une phrase exclamative.
-« Qui êtes-vous et que voulez-vous ? » est une phrase interrogative.
+- « Comment dois-je le recevoir ? » est une phrase interrogative.
+- « Oh, oh, oh, que j’ai froid ! » est une phrase exclamative.
+- « Arrêtez-vous ici et attendez mon retour. » est une phrase injonctive.
+- « Le petit tailleur se mit en route, suivi des cent cavaliers. » est une phrase déclarative.
+- « Comme si ce sot animal était connaisseur ! » est une phrase exclamative.
+- « D’où viens-tu et où vas-tu ? » est une phrase interrogative.
+- « Va-t’en vite chercher la princesse. » est une phrase injonctive.
+- « Quelque temps après, il y eut la guerre dans le pays. » est une phrase déclarative.
+- « Pouah, que vous êtes donc laides ! » est une phrase exclamative.
+- « Qui êtes-vous et que voulez-vous ? » est une phrase interrogative.
 
 3. Conjuguez ces trois verbes au présent de l’impératif. 
 

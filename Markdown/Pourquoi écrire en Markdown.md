@@ -44,6 +44,8 @@ Dans le dernier article, j’évoque Shorcuts sur iOS et iPad OS, mais aussi Aut
 
 > Avec les [Markdown Service Tools](https://brettterpstra.com/projects/markdown-service-tools/), vous pouvez choisir certains scripts pour réaliser rapidement différentes manipulations très vite. Ainsi, imaginons que vous souhaitiez sélectionner pour vos élèves une dizaine de sites web dans Safari et constituer une liste contenant le nom du site et le lien afférent. En lançant le script [md - Links - Safari Tabs](https://brettterpstra.com/projects/markdown-service-tools/#linkschrometabssafaritabs) dans TextEdit, vous obtiendrez automatiquement cette liste en un seul clic.
 
+Mais si l’écriture de script n’est pas votre truc (et pour être honnête, ça n’est pas tout à fait le mien), il existe de nombreux services tout prêts à l’emploie précisément comme les susmentionnés Markdown Service Tools, mais aussi des sites qui vous proposent de convertir votre texte en Mardown. Ainsi, avec [Pandoc](https://pandoc.org/try/), vous pouvez convertir votre article écrit en Markdown  en HTLM 5 pour votre blog ou en Wikicode si vous prévoyez de la partager sur un wiki.
+
 Ainsi, je trouve que je travaille plus vite depuis que j’utilise le Markdown. Traitement de texte léger, format portable, mains solidement posées sur le clavier, automatisation des tâches... C’est un bonheur d’écrivain (ou d’écrivant en ce qui me concerne).
 
 ## Vers un travail collaboratif

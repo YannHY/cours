@@ -157,7 +157,7 @@ Ce qui donne :
 
 Vous aurez remarqué que pour aligner le texte à gauche, on insère `:--` dans le deuxième rang. Tandis que pour aligner le texte à droite, on insère `--:`.
 
-## Exemple
+#### Exemple
 
 Voici un exemple de tableau présentant la conjugaison des temps de l’indicatif.
 

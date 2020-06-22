@@ -11,6 +11,8 @@
 - [Using Markdown on WordPress.com](https://wordpress.com/support/can-i-use-markdown-on-wordpress-com/)
 - [MultiMarkdown](https://fletcherpenney.net/multimarkdown/)
 
+![StackEdit](https://www.ralentirtravaux.com/github/stackedit.png)
+
 ## Pour écrire en Markdown
 
 ### En ligne

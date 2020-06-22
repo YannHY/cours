@@ -48,5 +48,5 @@
 - [Markdown Table generator](http://www.tablesgenerator.com/markdown_tables) (pour générer automatiquement un tableau)
 
 
-[^1]: Avec Pandoc, vous pouvez convertir un fichier avec l’extension .md en fichier .odt. Pour cela, [téléchargez Pandoc](https://pandoc.org/installing.html). Lancez le Terminal. Imaginons que votre fichier se trouve sur le bureau et s’intitule *fichier.md*, tapez `cd ~/desktop` puis `pandoc fichier.md -o fichier.odt`. Et voilà !
-[^2]: Travaillant le plus souvent sur mon iPad, j’apprécie dans la version en ligne de pouvoir exporter un texte écrit en Markdown pour le copier dans un wiki sans avoir à faire autre chose qu’appuyer sur conversion.
+[^1] : Avec Pandoc, vous pouvez convertir un fichier avec l’extension .md en fichier .odt. Pour cela, [téléchargez Pandoc](https://pandoc.org/installing.html). Lancez le Terminal. Imaginons que votre fichier se trouve sur le bureau et s’intitule *fichier.md*, tapez `cd ~/desktop` puis `pandoc fichier.md -o fichier.odt`. Et voilà !
+[^2] : Travaillant le plus souvent sur mon iPad, j’apprécie dans la version en ligne de pouvoir exporter un texte écrit en Markdown pour le copier dans un wiki sans avoir à faire autre chose qu’appuyer sur conversion.

@@ -16,6 +16,8 @@ Vous connaissez peut-être d’autres langages de balisage comme le HTML ou la s
 
 Par exemple, en HTML, afin de mettre un mot en gras, on peut utiliser les balises `<b>Mot en gras</b>` pour indiquer que l’on veut que le mot soit affiché en gras. Sur un wiki, on met des apostrophes au nombre de trois de part et d'autre du mot. Ainsi si vous écrivez `'''Mot en gras'''`, cela donnera **Mot en gras**.
 
+![À gauche, iA Writer (Markdown). À droite, Textastic (HTML)](https://www.ralentirtravaux.com/github/mardown-html.png)
+
 Le problème avec certaines balises, c’est que cela rend le texte peu lisible. Or, [comme le dit John Gruber](https://daringfireball.net/projects/markdown/syntax) :
 
 > HTML is a *publishing* format ; Markdown is a *writing* format.

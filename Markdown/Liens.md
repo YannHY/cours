@@ -44,7 +44,7 @@
 ## Ressources utiles
 
 - [Heck Yes Markdown](http://heckyesmarkdown.com/) (le site convertit n’importe quelle page de votre choix en Markdown)
-- [Pandoc](https://pandoc.org/help.html)[^1] (pour convertir votre texte en un autre format. Essayez [la version en ligne](https://pandoc.org/try/) [^2].)
+- [Pandoc](https://pandoc.org/help.html) [^1] (pour convertir votre texte en un autre format. Essayez [la version en ligne](https://pandoc.org/try/) [^2].)
 - [Markdown Table generator](http://www.tablesgenerator.com/markdown_tables) (pour générer automatiquement un tableau)
 
 

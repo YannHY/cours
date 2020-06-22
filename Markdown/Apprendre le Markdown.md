@@ -20,7 +20,7 @@ Le problème avec certaines balises, c’est que cela rend le texte peu lisible.
 
 > HTML is a *publishing* format ; Markdown is a *writing* format.
 
-Il s’agit donc d’écrire facilement et lisiblement en vue de publier sur le web (de très nombreuses applications recourent au Markdown : [Wordpress](https://wordpress.com/support/can-i-use-markdown-on-wordpress-com/), [Trello](https://help.trello.com/article/821-using-markdown-in-trello), [Tumblr](https://tumblr.zendesk.com/hc/en-us/articles/231221707-Post-editor), [Day One Journal](http://help.dayoneapp.com/en/articles/440596-markdown-guide), [Discord](https://support.discord.com/hc/en-us/articles/210298617-Markdown-Text-101-Chat-Formatting-Bold-Italic-Underline-), [Bear](https://bear.app/faq/Markup%20:%20Markdown/Markdown%20compatibility%20mode/), etc.)
+Il s’agit donc d’écrire facilement et lisiblement en vue de publier sur le web (de très nombreuses applications recourent au Markdown : [Wordpress](https://wordpress.com/support/can-i-use-markdown-on-wordpress-com/), [Trello](https://help.trello.com/article/821-using-markdown-in-trello), [Reddit](https://www.reddit.com/), [Tumblr](https://tumblr.zendesk.com/hc/en-us/articles/231221707-Post-editor), [Day One Journal](http://help.dayoneapp.com/en/articles/440596-markdown-guide), [Discord](https://support.discord.com/hc/en-us/articles/210298617-Markdown-Text-101-Chat-Formatting-Bold-Italic-Underline-), [Bear](https://bear.app/faq/Markup%20:%20Markdown/Markdown%20compatibility%20mode/), etc.)
 
 De fait, si, par exemple, j’écris en HTML « Le [Markdown](https://fr.wikipedia.org/wiki/Markdown), c’est vraiment *pratique* ! », je vais obtenir ceci :
 

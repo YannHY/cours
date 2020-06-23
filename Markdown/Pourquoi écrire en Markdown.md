@@ -44,9 +44,15 @@ Dans le dernier article, j’évoque Shorcuts sur iOS et iPad OS, mais aussi Aut
 
 > Avec les [Markdown Service Tools](https://brettterpstra.com/projects/markdown-service-tools/), vous pouvez choisir certains scripts pour réaliser rapidement différentes manipulations très vite. Ainsi, imaginons que vous souhaitiez sélectionner pour vos élèves une dizaine de sites web dans Safari et constituer une liste contenant le nom du site et le lien afférent. En lançant le script [md - Links - Safari Tabs](https://brettterpstra.com/projects/markdown-service-tools/#linkschrometabssafaritabs) dans TextEdit, vous obtiendrez automatiquement cette liste en un seul clic.
 
-Mais si l’écriture de script n’est pas votre truc (et pour être honnête, ça n’est pas tout à fait le mien), il existe de nombreux services tout prêts à l’emploie précisément comme les susmentionnés Markdown Service Tools, mais aussi des sites qui vous proposent de convertir votre texte en Mardown. Ainsi, je l’ai mentionné plus haut, avec [Pandoc](https://pandoc.org/try/), vous pouvez convertir votre article écrit en Markdown en HTLM 5 pour votre blog ou en Wikicode si vous prévoyez de la partager sur un wiki.
+Mais si l’écriture de script n’est pas votre truc (et pour être honnête, ça n’est pas tout à fait le mien), il existe de nombreux services tout prêts à l’emploi précisément comme les susmentionnés Markdown Service Tools, mais aussi des sites qui vous proposent de convertir votre texte en Mardown. Ainsi, je l’ai mentionné plus haut, avec [Pandoc](https://pandoc.org/try/), vous pouvez convertir votre article écrit en Markdown en HTLM 5 pour votre blog ou en Wikicode si vous prévoyez de la partager sur un wiki.
 
-Pour résumer, je trouve que je travaille plus vite depuis que j’utilise le Markdown. Traitement de texte léger, format portable, mains solidement posées sur le clavier, automatisation des tâches... C’est un bonheur d’écrivain (ou d’écrivant en ce qui me concerne).
+## Créez vos propres templates
+
+Généralement, quand vous utilisez un traitement de texte, vous disposez de « templates » c’est-à-dire de modèles proposés par l’éditeur du logiciel. Mais vous pouvez créer les vôtres. Avec certains éditeurs de texte, vous pouvez éditer la feuille de style ([CSS](https://www.w3schools.com/css/css_intro.asp)) et bâtir votre propre modèle. C’est une fonction que j’utilise assez peu, car sur iPad les applications le permettant sont assez rares (il y a toutefois [Editorial](https://apps.apple.com/gb/app/editorial/id673907758)). Sur Mac, il y a [Ulysses](https://styles.ulysses.app/) ou [Marked](https://marked2app.com/styles/) qui proposent d’ailleurs tous deux des galeries de modèles à télécharger. Mais pensez bien qu’en éditant le CSS, vous pouvez composer votre modèle dans les moindres détails ou même conformer vos textes au graphisme de votre site, ce qui est plutôt pratique. Vous pouvez alors avoir un mode sombre ou avoir un affichage qui s’adapte à la taille de l’écran, toute la palette des couleurs qu’offre le code hexadécimal, bref, tout ce qu’on fait avec le CSS.
+
+![La feuille de style dans Editorial sur iPad](https://www.ralentirtravaux.com/github/editorial.png)
+
+Pour résumer, je trouve que je travaille plus vite depuis que j’utilise le Markdown. Traitement de texte léger, format portable, mains solidement posées sur le clavier, automatisation des tâches, possibilité de créer ses propres templates... C’est un bonheur d’écrivain (ou d’écrivant en ce qui me concerne).
 
 ## Le web sémantique
 
@@ -94,6 +100,8 @@ La plus-value est assez évidente pour qui connait ces applications (j’avoue a
 
 1. Quoi que j’écrive sur mon traitement de texte favori, les modifications sont automatiquement effectives dans Working Copy. C’est normal puisque les deux apps intègrent le Markdown et exploitent le même dossier. Je n’ai plus ensuite, dans Working Copy, qu’à synchroniser avec GitHub (« commit »).
 2. Mes cours sont en ligne. Ils sont sauvegardés. C’est une chose, mais de surcroît, ils peuvent être partagés avec d’autres enseignants. Ceux-ci peuvent proposer des modifications ou suggérer des changements que je suis libre d’accepter ou pas. Et c’est là qu’est l’intérêt de GitHub qui est un service web plutôt orienté développement mais qui est basé un système de contrôle de version. Si bien que si quelqu’un propose une modification, ajoute un paragraphe, enlève un mot, complète avec une phrase, je vais pouvoir très facilement et très agréablement dans une jolie interface comparer les différentes versions du texte et choisir de conserver ou de supprimer tel ou tel ajout.
+
+![Les deux versions d’un même texte dans Working Copy](https://www.ralentirtravaux.com/github/working-copy.png)
 
 Au terme de cet article, on peut donc dire que le Markdown est un format simple, pratique, pérenne, flexible, structuré et favorisant la collaboration. Dites ? Vous l’adoptez ?
 

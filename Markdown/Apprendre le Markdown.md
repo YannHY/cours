@@ -38,6 +38,10 @@ Le [Markdown](https://fr.wikipedia.org/wiki/Markdown), c’est vraiment *pratiqu
 
 On remarque que c’est plus épuré, c’est plus lisible en somme et que l’on fait tout en une seule étape. L’écriture et la mise en forme. Votre WordPress — si vous l’utilisez — saura afficher tout ça comme si c’était du HTML. Il y a là un gain de temps appréciable.
 
+Si vous souhaitez obtenir davantage d’informations sur l’intérêt du Markdown, je vous renvoie à l’article [Pourquoi écrire en Markdown](https://github.com/YannHY/cours/blob/master/Markdown/Pourquoi%20%C3%A9crire%20en%20Markdown.md).
+
+Si vous voulez directement accéder au document présentant la syntaxe du Markdown sans autres explications, je vous renvoie à l’article [Le guide du Markdown](https://github.com/YannHY/cours/blob/master/Markdown/Le%20guide%20du%20Markdown.md).
+
 ## Connaissances de bases à acquérir
 
 ### Faire un paragraphe

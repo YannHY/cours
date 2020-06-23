@@ -9,6 +9,7 @@
 - [Rédigez en Markdown ! (OpenClassrooms)](https://openclassrooms.com/fr/courses/1304236-redigez-en-markdown)
 - [Markdown quick reference cheat sheet](https://wordpress.com/support/markdown-quick-reference/)
 - [Using Markdown on WordPress.com](https://wordpress.com/support/can-i-use-markdown-on-wordpress-com/)
+- [GitHub Flavored Markdown Spec](https://github.github.com/gfm/)
 - [MultiMarkdown](https://fletcherpenney.net/multimarkdown/)
 
 ![StackEdit](https://www.ralentirtravaux.com/github/stackedit.png)
@@ -19,7 +20,7 @@
 
 - [StackEdit](https://stackedit.io/)
 - [Dillinger](https://dillinger.io/)
-- [Hackmd](https://hackmd.io/?nav=overview)
+- [Hackmd](https://hackmd.io/?nav=overview) (son avantage est d’être collaboratif. C’est un peu le Google Docs du Markdown)
 - [Dingus](https://daringfireball.net/projects/markdown/dingus)
 - [Dillinger](https://dillinger.io/)
 

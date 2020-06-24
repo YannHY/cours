@@ -49,6 +49,7 @@
 - [Heck Yes Markdown](http://heckyesmarkdown.com/) (le site convertit n’importe quelle page de votre choix en Markdown)
 - [Pandoc](https://pandoc.org/help.html) (pour convertir votre texte en un autre format. Essayez [la version en ligne](https://pandoc.org/try/).)
 - [Markdown Table generator](http://www.tablesgenerator.com/markdown_tables) (pour générer automatiquement un tableau)
+- [Blot](https://blot.im/) (créer un blog à partir de vos fichiers texte synchronisés avec Dropbox)
 
 ### À propos de Pandoc
 

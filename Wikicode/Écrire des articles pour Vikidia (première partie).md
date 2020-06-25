@@ -18,7 +18,7 @@ Et vous le constaterez en lisant cet article, les compétences que nous allons d
 
 Pour commencer, reprenons que c'est un travail interdisciplinaire. Consultons ces quelques pages.
 
-![Exemples d'articles sur Vikidia](https://www.ralentirtravaux.com/github/exemple-article.png")
+![Exemples d'articles sur Vikidia](https://www.ralentirtravaux.com/github/exemple-article.png)
 
 Par ces quelques exemples, on voit que l'on peut traiter tout le programme du collège : mathématiques avec l'explication de théorèmes, géographie, physique, technologie, histoire ou français et même art plastique avec l'illustration du chevalier réalisée par un élève. N'oublions pas la dimension linguistique de l'encyclopédie et proposons l'écriture d'articles en anglais, en allemand ou en espagnol (langues pour lesquelles il y a très peu d'articles). Dès lors, on pourrait concevoir un EPI dans lequel différentes matières concourraient à la réalisation d'un article complet.
 

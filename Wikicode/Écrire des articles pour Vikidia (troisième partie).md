@@ -259,28 +259,28 @@ Et entre autres joyeusetés, vous pourriez aussi avoir envie de créer un tablea
 
 En tout cas, sachez qu'un tableau ressemble à ça :
 
-` {| class="wikitable alternance center"`
-` |+ Titre`
-` |-`
-` |`
-` ! scope="col" | Titre col. A`
-` ! scope="col" | Titre col. B`
-` ! scope="col" | Titre col. C`
-` |-`
-` ! scope="row" | Titre ligne 1`
-` | Donnée 1A`
-` | Donnée 1B`
-` | Donnée 1C`
-` |-`
-` ! scope="row" | Titre ligne 2`
-` | Donnée 2A`
-` | Donnée 2B`
-` | Donnée 2C`
-` |-`
-` ! scope="row" | Titre ligne 3`
-` | Donnée 3A`
-` | Donnée 3B`
-` | Donnée 3C`
+` {| class="wikitable alternance center"`<br />
+` |+ Titre`<br />
+` |-`<br />
+` |`<br />
+` ! scope="col" | Titre col. A`<br />
+` ! scope="col" | Titre col. B`<br />
+` ! scope="col" | Titre col. C`<br />
+` |-`<br />
+` ! scope="row" | Titre ligne 1`<br />
+` | Donnée 1A`<br />
+` | Donnée 1B`<br />
+` | Donnée 1C`<br />
+` |-`<br />
+` ! scope="row" | Titre ligne 2`<br />
+` | Donnée 2A`<br />
+` | Donnée 2B`<br />
+` | Donnée 2C`<br />
+` |-`<br />
+` ! scope="row" | Titre ligne 3`<br />
+` | Donnée 3A`<br />
+` | Donnée 3B`<br />
+` | Donnée 3C`<br />
 ` |}`
 
 Enfin, n'oubliez pas d'indiquer la catégorie à laquelle appartient le travail que vous avez réalisé avec vos élèves en précisant que c'est le fruit d'un travail scolaire. À cet effet, placez ceci qui affichera ce petit rectangle vert :

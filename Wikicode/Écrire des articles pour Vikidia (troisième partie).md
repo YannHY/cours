@@ -206,8 +206,8 @@ Vous pouvez d'ailleurs indenter la liste en ajoutant un deuxième ou troisième 
 
 Un dièse (puis deux, puis trois et ainsi de suite) permet de faire des listes numérotées.
 
-`# Première ligne`br />
-`# Deuxième ligne`br />
+`# Première ligne` <br />
+`# Deuxième ligne`<br />
 `# Troisième ligne`
 
 Ce qui donne ceci :

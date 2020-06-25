@@ -236,8 +236,8 @@ Ce qui donne :
 > 1. Première ligne
 > 2. Deuxième ligne
 > 3. Troisième ligne
-	> 1. Première ligne
-	> 2. Deuxième ligne
+	>1. Première ligne
+	>2. Deuxième ligne
 > 4. Quatrième ligne 
 
 ### C'est tout, mais...
@@ -247,9 +247,9 @@ Voilà à peu près tout ce dont vous aurez besoin pour écrire un article pour 
 Vous y trouverez tout un tas de renseignements. Par exemple, comment insérer un poème (c'est-à-dire avec les balises `<poem>` et donc sans avoir à insérer à chaque fois la balise `<br />`) :
 
 `<poem>`
-`Sois sage, ô ma Douleur, et tiens-toi plus tranquille.`
-`Tu réclamais le Soir ; il descend ; le voici :`
-`Une atmosphère obscure enveloppe la ville,`
+`Sois sage, ô ma Douleur, et tiens-toi plus tranquille.`<br />
+`Tu réclamais le Soir ; il descend ; le voici :`<br />
+`Une atmosphère obscure enveloppe la ville,`<br />
 `Aux uns portant la paix, aux autres le souci.`
 `</poem>`
 

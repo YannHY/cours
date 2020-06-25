@@ -200,7 +200,13 @@ Vous pouvez d'ailleurs indenter la liste en ajoutant un deuxième ou troisième 
 `**Quatrième ligne`<br />
 `**Cinquième ligne`
 
-![Liste à puces créée avec des astérisques](https://www.ralentirtravaux.com/github/liste1.jpeg "Liste à puces créée avec des astérisques")
+Ce qui donne ceci :
+
+> - Première ligne
+> - Deuxième ligne
+> - Troisième ligne
+	> - Quatrième ligne
+	>> - Cinquième ligne
 
 #### Les listes numérotées
 
@@ -218,7 +224,21 @@ Ce qui donne ceci :
 
 On a là aussi la possibilité d'indenter en rajoutant un dièse.
 
-![Liste à puces créée avec des dièses](https://www.ralentirtravaux.com/github/liste2.jpeg "Liste à puces créée avec des dièses")
+`# Première ligne` <br />
+`# Deuxième ligne`<br />
+`# Troisième ligne`<br />
+`## Première ligne ligne`<br />
+`## Deuxième ligne ligne`<br />
+`# Quatrième ligne`
+
+Ce qui donne :
+
+> 1. Première ligne
+> 2. Deuxième ligne
+> 3. Troisième ligne
+	> 1. Première ligne
+	> 2. Deuxième ligne
+> 4. Quatrième ligne 
 
 ### C'est tout, mais...
 

@@ -37,6 +37,7 @@ Si on écrit cela :
 On obtiendra cela :
 
 > BB-8 est un personnage de Star Wars.
+> 
 > C'est un petit robot.
 
 ### Mettre un mot en italique
@@ -50,6 +51,7 @@ Exemple :
 Ce qui donne :
 
 > BB-8 est un personnage de Star Wars.
+> 
 > C'est un _petit_ robot.
 
 ### Mettre en gras
@@ -61,6 +63,7 @@ On met 3 apostrophes à gauche et à droite du mot :
 Et on obtient :
 
 > **BB-8** est un personnage de Star Wars.
+> 
 > C'est un _petit_ robot.
 
 ### Mettre le texte en gras et en italique
@@ -72,6 +75,7 @@ Il faut mettre 5 apostrophes à gauche et à droite du mot.
 Voici le résultat :
 
 > **BB-8** est un personnage de _**Star Wars**_.
+> 
 > C'est un _petit_ robot.
 
 #### Récapitulons

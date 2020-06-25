@@ -179,8 +179,8 @@ Vous voudrez peut-être aussi indiquer l'emplacement ou la taille de l'image com
 
 Vous pouvez avoir besoin de faire deux sortes de listes :
 
-- Les listes non-numérotées (\*)
-- Les listes numérotées (\\#)
+- Les listes non-numérotées (*)
+- Les listes numérotées (#)
 
 #### Les listes non-numérotées
 
@@ -204,8 +204,8 @@ Ce qui donne ceci :
 
 > - Première ligne
 > - Deuxième ligne
-> - Troisième ligne
-	> - Quatrième ligne
+> - Troisième ligne<br />
+	> - Quatrième ligne<br />
 	>> - Cinquième ligne
 
 #### Les listes numérotées

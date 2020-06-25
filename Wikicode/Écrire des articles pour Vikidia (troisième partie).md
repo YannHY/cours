@@ -88,9 +88,9 @@ Voici le résultat :
 
 On met le signe `=` de part et d'autre du titre :
 
-`= Titre principal =`
-`== Titre 1 ==`
-`=== Titre 2 ===`
+`= Titre principal =`<br />
+`== Titre 1 ==`<br />
+`=== Titre 2 ===`<br />
 `==== Titre 3 ====`
 
 Notez bien que vous n'avez pas besoin de mettre le titre principal. Il est automatiquement généré quand vous créez l'article. Quant aux titres, il faut en comprendre la logique. Les chiffres **n'indiquent pas le numéro du titre** (le premier, le deuxième, le troisième...) mais **leur degré de hiérarchie** dans le texte.
@@ -99,20 +99,24 @@ Le titre de niveau 1 (`== Titre 1 ==`) constitue l'une ou plusieurs de vos grand
 
 Ainsi, si vous avez un article en trois parties, vous aurez trois titres de niveau 1 :
 
-> == Titre 1 ==
+> == Titre 1 ==<br />
 > Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi sed cursus ex. Aenean sit amet sem vel nisi iaculis interdum a in risus. Morbi vel gravida eros. Aenean in dignissim ante. In hac habitasse platea dictumst. In viverra purus a enim egestas sollicitudin. Nunc feugiat, velit sed sollicitudin congue, ante elit ultrices justo, nec imperdiet arcu ante sed nibh.
-> == Titre 1 ==
+> 
+> == Titre 1 ==<br />
 > Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi sed cursus ex. Aenean sit amet sem vel nisi iaculis interdum a in risus. Morbi vel gravida eros. Aenean in dignissim ante. In hac habitasse platea dictumst. In viverra purus a enim egestas sollicitudin. Nunc feugiat, velit sed sollicitudin congue, ante elit ultrices justo, nec imperdiet arcu ante sed nibh.
-> == Titre 1 ==
+> 
+> == Titre 1 ==<br />
 > Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi sed cursus ex. Aenean sit amet sem vel nisi iaculis interdum a in risus. Morbi vel gravida eros. Aenean in dignissim ante. In hac habitasse platea dictumst. In viverra purus a enim egestas sollicitudin. Nunc feugiat, velit sed sollicitudin congue, ante elit ultrices justo, nec imperdiet arcu ante sed nibh.
 
 Si vous avez une sous-partie dans la première partie, alors vous utiliserez pour cela un titre de niveau 2 :
 
-> == Titre 1 ==
+> == Titre 1 ==<br />
 > Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi sed cursus ex. Aenean sit amet sem vel nisi iaculis interdum a in risus.
-> == Titre 2 ==
+> 
+> == Titre 2 ==<br />
 > Morbi vel gravida eros. Aenean in dignissim ante. In hac habitasse platea dictumst. In viverra purus a enim egestas sollicitudin. Nunc feugiat, velit sed sollicitudin congue, ante elit ultrices justo, nec imperdiet arcu ante sed nibh.
-> == Titre 2 ==
+> 
+> == Titre 2 ==<br />
 > Morbi vel gravida eros. Aenean in dignissim ante. In hac habitasse platea dictumst. In viverra purus a enim egestas sollicitudin. Nunc feugiat, velit sed sollicitudin congue, ante elit ultrices justo, nec imperdiet arcu ante sed nibh.
 
 En somme, le titre principal est le titre de l'article. Le titre 1 est l'une des parties de l'article. Si vous avez besoin d'une sous-partie, utilisez le titre 2. Et si vous voulez mettre une sous-partie dans la sous-partie, choisissez le titre 3 et ainsi de suite.
@@ -130,6 +134,7 @@ Exemple :
 `BB-8 est un personnage de Star Wars<ref>http://www.iphon.fr/post/histoire-robot-bb-8-iphone-839745</ref>.<br />C'est un petit robot.`
 
 > BB-8 est un personnage de Star Wars 1.
+> 
 > C'est un petit robot.
 
 En bas de page, vous retrouverez l'URL que vous avez mis en note.
@@ -181,21 +186,21 @@ Vous pouvez avoir besoin de faire deux sortes de listes :
 
 Un astérisque permet de faire des listes à puces.
 
-`*Première ligne`
-`*Deuxième ligne`
-`*Troisième ligne`
-`*Quatrième ligne`
+`*Première ligne`<br />
+`*Deuxième ligne`<br />
+`*Troisième ligne`<br />
+`*Quatrième ligne`<br />
 `*Cinquième ligne`
 
 Vous pouvez d'ailleurs indenter la liste en ajoutant un deuxième ou troisième astérisque :
 
-`*Première ligne`
-`* Deuxième ligne`
-`* Troisième ligne`
-`**Quatrième ligne`
+`*Première ligne`<br />
+`* Deuxième ligne`<br />
+`* Troisième ligne`<br />
+`**Quatrième ligne`<br />
 `**Cinquième ligne`
 
-![Liste à puces créée avec des astérisques](liste1.jpeg "Liste à puces créée avec des astérisques")
+![Liste à puces créée avec des astérisques](https://www.ralentirtravaux.com/github/liste1.jpeg "Liste à puces créée avec des astérisques")
 
 #### Les listes numérotées
 

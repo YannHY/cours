@@ -103,5 +103,5 @@ La plus-value est assez évidente pour qui connait ces applications (j’avoue a
 
 ![Les deux versions d’un même texte dans Working Copy](https://www.ralentirtravaux.com/github/working-copy.png)
 
-Au terme de cet article, on peut donc dire que le Markdown est un format simple, pratique, pérenne, flexible, structuré et favorisant la collaboration. Dites ? Vous l’adoptez ?
+Au terme de cet article, on peut donc dire que le Markdown est un format simple, pratique, structuré, pérenne, sémantique, flexible et favorisant la collaboration. Que peut-on demander de plus ?
 

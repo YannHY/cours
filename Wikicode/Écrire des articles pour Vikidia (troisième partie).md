@@ -205,8 +205,8 @@ Ce qui donne ceci :
 > - Première ligne
 > - Deuxième ligne
 > - Troisième ligne<br />
-	> - Quatrième ligne<br />
-	>> - Cinquième ligne
+>> - Quatrième ligne<br />
+>> - Cinquième ligne
 
 #### Les listes numérotées
 
@@ -236,8 +236,8 @@ Ce qui donne :
 > 1. Première ligne
 > 2. Deuxième ligne
 > 3. Troisième ligne
-	>1. Première ligne
-	>2. Deuxième ligne
+>> 1. Première ligne
+>> 2. Deuxième ligne
 > 4. Quatrième ligne 
 
 ### C'est tout, mais...

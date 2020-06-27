@@ -20,7 +20,7 @@ Cette culture du partage que je prone depuis des années ([les explications sont
 
 - [Site web Ralentir travaux](https://www.ralentirtravaux.com/)
 - [Chaîne YouTube](https://www.youtube.com/user/smuuurff)
-- Manuel de sixième sur [Books](https://books.apple.com/gb/book/manuel-de-grammaire/id971835630), [Amazon](https://www.amazon.fr/Manuel-litt%C3%A9rature-Sixi%C3%A8me-Yann-Houry-ebook/dp/B00TVBJHQ2) ou [Google Play](https://play.google.com/store/books/details/Yann_Houry_Manuel_de_littérature?id=ylvTBgAAQBAJ)
+- Manuel de sixième sur [Books](https://books.apple.com/gb/book/manuel-de-sixi%C3%A8me/id690479845)
 - [Manuel de cinquième sur Books](https://books.apple.com/gb/book/manuel-de-cinqui%C3%A8me/id936905845)
 - [Manuel de quatrième sur Books](https://books.apple.com/gb/book/manuel-de-quatri%C3%A8me/id557577019)
 - Manuel de littérature de 6e sur [Books](https://books.apple.com/gb/book/manuel-de-litt%C3%A9rature/id971833570), [Amazon](https://www.amazon.fr/Manuel-litt%C3%A9rature-Sixi%C3%A8me-Yann-Houry-ebook/dp/B00TVBJHQ2) ou [Google Play](https://play.google.com/store/books/details/Yann_Houry_Manuel_de_litt%C3%A9rature?id=ylvTBgAAQBAJ)

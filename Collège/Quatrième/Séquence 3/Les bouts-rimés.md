@@ -1,6 +1,6 @@
 # Les bouts-rimés
 
-*Le bout-rimé est un poème composé à partir de rimes choisies à l’avance. Ainsi, pour le poème ci-dessous écrit par Molière, les rimes « grenouille », « hypocras », « fatras », « quenouille », etc. ont été imposées. Il reste ensuite à écrire le poème :*
+*Le bout-rimé est un poème composé à partir de rimes choisies à l’avance. Ainsi, pour le poème ci-dessous écrit par Molière, les rimes « grenouille », « hypocras », « fatras », « quenouille », etc. ont été imposées. Il reste ensuite à écrire le poème :*
 
 Que vous m’embrassez avec votre grenouille<br />
 Qui traîne à ses talons le doux mot d’Hypocras [^1] !<br />

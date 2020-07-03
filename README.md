@@ -16,7 +16,7 @@ Comme je le précisais, ce sera un travail de (très) longue haleine, car il va 
 
 ## À consulter également
 
-Cette culture du partage que je prone depuis des années ([les explications sont sur cette page écrite à l’occasion de la publication de mon premier manuel](https://www.ralentirtravaux.com/le_blog/un-manuel-libre-et-gratuit-pour-ipad/)) s’est déclinée en plusieurs versions. Les voici :
+Cette culture du partage que je prone depuis des années ([les explications sont sur cette page écrite à l’occasion de la publication de mon premier manuel](https://www.ralentirtravaux.com/le_blog/un-manuel-libre-et-gratuit-pour-ipad/)) s’est déclinée en plusieurs versions. Les voici :
 
 - [Site web Ralentir travaux](https://www.ralentirtravaux.com/)
 - [Chaîne YouTube](https://www.youtube.com/user/smuuurff)

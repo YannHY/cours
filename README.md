@@ -18,7 +18,7 @@ Soyez conscient que ce que vous trouverez ici peut ressembler à un vaste chanti
 
 ## Télécharger
 
-![](https://www.ralentirtravaux.com/github/download.gif)
+![](https://www.ralentirtravaux.com/github/download.GIF)
 
 Pour récupérer tous les cours sur votre ordinateur,
 

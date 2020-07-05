@@ -247,7 +247,7 @@ On pourra également vouloir les convoquer très rapidement soit à l’aide d�
   - Attention à la paraphrase qu’il faut éviter, c’est-à-dire qu’il ne
     faut pas se borner à répéter le texte. En effet, chaque remarque,
     chaque observation doit contribuer à démontrer quelque chose et donc à faire progresser l’analyse et ainsi répondre à la question posée dans la problématique. Il convient par conséquent de faire des constats, de citer des exemples mais il faut ensuite en tirer une conclusion ou du moins une conséquence (Se dire « Si je constate ça, qu’est-ce que ça prouve ? Qu’est-ce que ça montre ? »).
-	- Fais des paragraphes. Un développement doit être composé de
+  - Fais des paragraphes. Un développement doit être composé de
     plusieurs paragraphes signalés par un alinéa. Il convient de ne
     mettre qu’une idée par paragraphe. La règle est donc la suivante :
     une idée par paragraphe, un paragraphe par idée. Structurer ainsi

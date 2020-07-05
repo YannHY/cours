@@ -24,45 +24,11 @@ Ce document a pour objectif de vous donner de nombreuses ressources que vous aur
 
 Alors asseyez-vous sur votre lit, sur votre canapé, sur une chaise dans le jardin ou sur la terrasse et découvrez chaque semaine quelques-unes des ressources énumérées ci-dessus. Chaque mercredi, vous pouvez colorer l’une de ces cases. Le premier à la remplir mérite le titre de génie ! 🧞‍♂️ 
 
-Lire un livre
-
-Écouter un podcast
-
-Lire un article de Wikipédia
-
-Visiter un musée
-
-Voir un film
-
-Regarder un concert
-
-Écouter de la musique
-
-Faire un jeu
-
-Regarder un documentaire
-
-Lire la presse
-
-Parcourir une ville
-
-Regarder une chaîne d’information
-
-Suivre une conférence
-
-Prendre des notes
-
-Réviser votre français
-
-Découvrir la philosophie
-
-Partager vos découvertes
-
-Faire de la musique
-
-Voir un monument
-
-Écouter un livre audio
+|:--|:--|:--|:--|:--|
+| Lire un livre | Écouter un podcast | Lire un article de Wikipédia |  Écouter un livre audio | Visiter un musée |
+| Voir un film | Regarder un concert | Écouter de la musique | Faire un jeu | Regarder un documentaire |
+| Lire la presse | Parcourir une ville | Regarder une chaîne d’information | Suivre une conférence | Prendre des notes |
+| Réviser votre français | Découvrir la philosophie | Partager vos découvertes | Faire de la musique | Voir un monument |
 
 🙋🏻‍♂️ Ce n’est pas tout ! Partagez vos découvertes sur [Qwiqr](https://uk.qwiqr.education/drg3-ho3y-eeob/) et dites ce que vous avez trouvé, aimé, détesté. Partagez un lien, une citation, une information, etc.
 

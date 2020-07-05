@@ -24,6 +24,7 @@ Ce document a pour objectif de vous donner de nombreuses ressources que vous aur
 
 Alors asseyez-vous sur votre lit, sur votre canapé, sur une chaise dans le jardin ou sur la terrasse et découvrez chaque semaine quelques-unes des ressources énumérées ci-dessus. Chaque mercredi, vous pouvez colorer l’une de ces cases. Le premier à la remplir mérite le titre de génie ! 🧞‍♂️ 
 
+| | | | | |
 |:--|:--|:--|:--|:--|
 | Lire un livre | Écouter un podcast | Lire un article de Wikipédia |  Écouter un livre audio | Visiter un musée |
 | Voir un film | Regarder un concert | Écouter de la musique | Faire un jeu | Regarder un documentaire |

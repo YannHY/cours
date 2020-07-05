@@ -14,6 +14,19 @@ Vous trouverez ici tous les cours que j'ai faits récemment. Cette année 2019-2
 
 Comme je le précisais, ce sera un travail de (très) longue haleine, car il va me falloir aller rechercher mes cours dans des applications très diverses (Word, Pages, LibreOffice, Google Docs), etc.
 
+Soyez conscient que ce que vous trouverez ici peut ressembler à un vaste chantier permanent, que certaines choses sont à peine ébauchées, d’autres inachevées quand certaines sont excessivement développées. Il y a de tout. 
+
+## Télécharger
+
+![](https://www.ralentirtravaux.com/github/download.gif)
+
+Pour récupérer tous les cours sur votre ordinateur,
+
+1. Cliquez sur le bouton vert Code.
+2. Choisir Download zip.
+3. Dans votre dossier téléchargement, décompressez le dossier.
+4. Ouvrez le document de votre choix.
+
 ## À consulter également
 
 Cette culture du partage que je prone depuis des années ([les explications sont sur cette page écrite à l’occasion de la publication de mon premier manuel](https://www.ralentirtravaux.com/le_blog/un-manuel-libre-et-gratuit-pour-ipad/)) s’est déclinée en plusieurs versions. Les voici :

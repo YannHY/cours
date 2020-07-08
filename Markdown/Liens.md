@@ -55,4 +55,6 @@
 
 Avec Pandoc, vous pouvez convertir un fichier avec l’extension .md en fichier .odt. Pour cela, [téléchargez Pandoc](https://pandoc.org/installing.html). Lancez le Terminal. Imaginons que votre fichier se trouve sur le bureau et s’intitule *fichier.md*, tapez `cd ~/desktop` puis `pandoc fichier.md -o fichier.odt`. Et voilà !
 
-Travaillant le plus souvent sur mon iPad, j’apprécie dans la version en ligne de pouvoir exporter un texte écrit en Markdown pour le copier dans un wiki sans avoir à faire autre chose qu’appuyer sur conversion.
+Travaillant le plus souvent sur mon iPad, j’apprécie dans [la version en ligne](https://pandoc.org/try/) de pouvoir exporter un texte écrit en Markdown pour le copier dans un wiki sans avoir à faire autre chose qu’appuyer sur conversion. Mais si vous avez votre Mac sous la main ou n’importe quelle app (comme [Screens](https://apps.apple.com/gb/app/screens/id655890150)) vous permettant d’accéder à votre Mac depuis votre iPad, vous pouvez taper la commande `pandoc fichier.md -o fichier.wiki` et voilà !
+
+Si vous avez besoin d’aide à propos de Pandoc, vous pouvez consulter [la documentation](https://pandoc.org/getting-started.html). Il y a également un [groupe de discussion](https://groups.google.com/g/pandoc-discuss) sur Google Groups. 

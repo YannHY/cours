@@ -79,7 +79,7 @@ Le sujet est simplement placé immédiatement après le verbe. Dans l’interrog
 À la troisième personne, un « t » de liaison euphonique a été intercalé, à partir du XVIe siècle, entre la finale vocalique du verbe et le pronom « il (s) » ou « elle (s) », par analogie avec les formes verbales terminées par un « t » : *fait-il*, *doit-il*, *finit-il* ; *parle-t-elle*, *aimera-t-il*.
 
 #### b) L’inversion complexe
-Quand le sujet est un groupe nominal ou un pronom autre que personnel ou démonstratif, il reste placé avant le verbe mais il est repris après le verbe par un pronom personnel sujet de troisième personne qui s’accorde avec lui  :
+Quand le sujet est un groupe nominal ou un pronom autre que personnel ou démonstratif, il reste placé avant le verbe mais il est repris après le verbe par un pronom personnel sujet de troisième personne qui s’accorde avec lui :
 
 *Edmond tentera-t-il de s’évader ?*<br />
 *Cette erreur n’était-elle pas la pire qu’il pouvait commettre ?*<br />

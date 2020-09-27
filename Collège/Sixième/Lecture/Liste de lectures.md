@@ -1,11 +1,13 @@
 #Lecture
 
 # Liste de lectures
+
 Cette liste se propose de revisiter ou d’approfondir le programme de sixième. Elle contient également des ouvrages correspondant davantage au niveau d’un élève de cinquième. Elle peut ainsi servir de transition durant cet été.
 
 Je vous souhaite une bonne lecture.
 
 ## Mythologie
+
 - *Petites Histoires des expressions de la mythologie* de Brigitte Heller (Flammarion jeunesse)
 - *Ariane contre le Minotaure* de Marie-Odile Hartmann ou tout autre livre dans la collection *Histoires noires de la mythologie* ou *Petites histoires de la mythologie*
 - *La Mythologie en BD Les Métamorphoses d’Ovide* de Béatrice Bottet et Ariane Pinel (Casterman) ou tout autre ouvrage dans la même collection

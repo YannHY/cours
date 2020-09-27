@@ -16,6 +16,7 @@ Voici, dans le désordre, quatre extraits :
 
 ## Ressources
 
+- [La fantasy : toute une histoire](https://www.arte.tv/fr/videos/079445-001-A/la-fantasy-toute-une-histoire-1-2/) (documentaire en deux parties sur Arte)
 - La [fantasy](https://fr.wikipedia.org/wiki/Fantasy) ou [heroic fantasy](https://fr.wikipedia.org/wiki/Heroic_fantasy) sur Wikipédia
 - Le [conte](https://www.ralentirtravaux.com/lettres/sequences/sixieme/sequence_9/le-conte.php)
 - Le fantastique sur [Vikidia](https://fr.vikidia.org/wiki/Fantastique_(genre_litt%C3%A9raire)) (article simple) ou [Wikipédia](https://fr.wikipedia.org/wiki/Fantastique) (plus complexe mais plus riche)

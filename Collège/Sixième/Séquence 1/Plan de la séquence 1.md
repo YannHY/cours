@@ -39,3 +39,5 @@
 - Étude d’un extrait de Mythologie grecque, Contes et récits
 - Vocabulaire
 - Définition du mythe
+
+https://www.youtube.com/watch?v=6NZLdDNQQkQ&feature=youtu.be

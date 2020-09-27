@@ -1,4 +1,4 @@
-# Dictionnaires, & autres ressources
+# Dictionnaires & autres ressources
 
 ## Dictionnaires
 

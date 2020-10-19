@@ -2,7 +2,7 @@
 
 Nous allons utiliser l’application [Sky Guide](https://itunes.apple.com/fr/app/sky-guide-ar/id576588894?l=en&mt=8).
 
-/Sky Guide.png
+![](https://github.com/YannHY/cours/blob/master/Collège/Sixième/Séquence%201/Sky%20Guide.png)
 
 Cette application permet de regarder le ciel et d’observer les constellations. Comme l’application utilise la [réalité augmentée](https://fr.wikipedia.org/wiki/R%C3%A9alit%C3%A9_augment%C3%A9e), ce que l’on voit à travers l’appareil photo de l’iPad, c’est la réalité à laquelle s’ajoutent des éléments (du texte, des images, etc.).
 

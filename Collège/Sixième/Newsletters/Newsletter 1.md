@@ -44,6 +44,10 @@ Tous les travaux d’écriture (réalisés dans les séances 1, 4 et 5) doivent 
 
 ## Et maintenant ?
 
-Il nous reste donc la dernière séance, celle consacrée aux constellations. Nous la ferons à la rentrée.@
+Il nous reste donc la dernière séance, celle consacrée aux constellations. Nous la ferons à la rentrée.
+
+Pendant les vacances, les élèves doivent simplement lire un livre. Ils peuvent choisir ce qu’ils veulent tant que tant que le livre est en rapport avec la mythologie. [Une liste de lecture est à votre disposition à cette adresse](https://lecture.glideapp.io/).
+
+Tout un travail devra être fait sur cette lecture. Les consignes sont ici. Toutefois, ce travail n’est pas à rendre à la rentrée. Je ne saurais trop conseiller aux élèves d’en prendre connaissance dès maintenant et nous le ferons ensemble à la rentrée.
 
 

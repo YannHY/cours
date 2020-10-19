@@ -1,0 +1,44 @@
+# Histoire d'Orphée (suite)
+
+1. Qu’est-ce qu’une lyre ? Trouvez un mot de la même famille.  
+2. Faites des recherches, et dites qui est l’inventeur de la lyre ?
+3. Quand Orphée utilise-t-il sa lyre ? Pourquoi ?
+4. Quels sont les pouvoirs d’Orphée lorsqu’il joue de la lyre ? 
+5. Qu’arrive-t-il à Orphée ? Pourquoi ?  
+6. Qui le venge ? Comment ?
+
+/Orphée.jpeg
+
+Une colline s’élevait, et sur cette colline, le sol, mollement aplani, nourrissait une herbe verte et touffue : mais l’ombre manquait en ces lieux. Sitôt que, se reposant à cette place, le chantre fils des immortels[^1] toucha les cordes sonores, l’ombre y vint d’elle-même. Soudain parurent et l’arbre de Chaonie[^2], et les Héliades[^3] du bocage, et le chêne au feuillage superbe, et le gracieux tilleul, et le hêtre, et le laurier virginal[^4]. On vit paraître en même temps le coudrier fragile et le frêne guerrier, et le sapin sans nœuds, et l’yeuse courbée sous le poids de ses glands, et le platane ami de la joie, et l’érable aux nuances variées, et le saule des fleuves, et le lotus des eaux, et le buis toujours vert, et les bruyères timides, et les myrtes à deux couleurs, et le tinus aux baies d’azur. Vous accourûtes à l’envi, lierres dont les pieds se tordent ; vignes chargées de pampres, ormeaux que la vigne décore, frênes sauvages, arbres résineux. Puis vinrent l’arboisier couvert de fruits rouges, le palmier flexible, prix glorieux de la victoire, le pin, dont la tête se hérisse d’une âpre chevelure, le pin cher à Cybèle[^5], à la mère des dieux. Car son Attis, dépouillé de la forme humaine, est là enfermé dans sa prison d’écorce. On vit, au milieu de cette foule empressée, le cyprès pyramidal, arbre désormais, jadis enfant aimé du puissant dieu qui fait résonner à la fois la corde de l’arc et celles de la lyre[^6].
+
+[...] 
+
+Parmi ces arbres qu’il attire, parmi les habitants des bois et des airs, qui forment son cortège, le chantre était assis. Il essaie du doigt les cordes émues, et jugeant que de la variété des accords résulte une parfaite harmonie, il rompt le silence, il élève sa voix pure.
+
+[…]
+
+/Bacchantes.jpeg
+
+Tandis que, par ses accents, le chantre de Thrace[^7] entraîne sur ses pas les forêts, les bêtes féroces et les rochers émus, voici que, du haut d’une colline, les bacchantes[^8] furieuses, au sein couvert de sanglantes dépouilles, aperçoivent Orphée qui marie ses chants aux accords de sa lyre. Une d’elles, les cheveux épars et flottant dans les airs : «  Le voilà, s’écrie-t-elle, le voilà, celui qui nous méprise » ; et elle frappe de son thyrse[^9] la bouche harmonieuse du prêtre d’Apollon[^10]. Le trait enveloppé de feuillage laisse sans blesser une empreinte légère. Une autre s’arme d’un caillou qui, lancé dans les airs, est vaincu par les accords de la lyre et des chants, et comme pour implorer le pardon d’une si criminelle audace, vient tomber suppliant aux pieds du poète. La fureur des Ménades[^11] s’en accroît : elles ne connaissent plus de bornes : l’aveugle Erinnys les possède ; les chants divins auraient émoussé tous leurs traits ; mais une horrible clameur s’élève, la flûte de Phrygie, les tymbales, le bruit des mains frappées,les hurlements des bacchantes étouffent de leurs sons discordants les sons harmonieux de la lyre : alors seulement les rochers se teignirent du sang du chantre dont ils n’entendaient plus la voix. Les innombrables oiseaux, les serpents, les bêtes féroces qu’avait attirés la lyre, et qui semblaient être encore sous le charme de la voix d’Orphée, la troupe furieuse des Ménades les disperse. Puis elles tournent contre le chantre leurs mains criminelles. Tel l’oiseau de la nuit, si le jour l’a surpris dans la plaine, est entouré d’une foule d’oiseaux attirés par sa vue : ou tel, le matin, aux yeux des spectateurs, un cerf qui doit périr dans l’arène est livré en proie à une meute féroce : ainsi les Ménades entourent Orphée, le frappent de leurs thyrses verdoyants, faits pour un autre usage. Celles-ci s’arment de glèbes ; celles-là, de branches arrachées : d’autres lancent d’énormes cailloux. Tout sert d’arme à leur fureur. Non loin de là des bœufs traçaient avec le soc des sillons dans la plaine, et de robustes laboureurs confiaient à la terre l’espoir de la moisson et le prix de leurs sueurs. A la vue de la troupe furieuse, ils s’enfuient, abandonnant les instruments de leur travail ; de tous côtés demeurent dispersés dans les champs et les sarcloirs, et les longs hoyaux, et les râteaux pesants. Les bacchantes s’en emparent, arrachent jusqu’aux cornes des bœufs, et retournent, en furie, achever les destins du chantre de la Thrace. Il leur tendait ses mains suppliantes, et sa voix, pour la première fois impuissante, leur adressait des prières inutiles. Leurs mains sacrilèges lui donnent la mort, et cette bouche, ô Jupiter ! cette bouche dont les accents s’étaient fait entendre des rochers, et avaient ému les monstres des forêts, laisse passer son âme qui s’exhale dans les airs.
+
+/Bacchantes 1.jpeg
+
+Les oiseaux attristés, Orphée, les bêtes féroces, les durs rochers, les forêts, si souvent entraînées par tes chants, te pleurèrent ; les arbres dépouillèrent leur feuillage, et on dit que les fleuves s’accrurent de leurs larmes. Les Naïades, les Dryades[^12] se couvrirent de voiles funèbres, et laissèrent flotter leurs cheveux en signe de douleur.
+
+Les membres d’Orphée sont dispersés en divers lieux. Hèbre glacé, tu reçois sa tête et sa lyre, et, ô prodige ! tandis que le fleuve les entraîne, sa lyre fait entendre des plaintes, sa langue inanimée en murmure, et les échos du rivage y répondent. Déjà ces tristes débris ont quitté le fleuve, et la mer les dépose sur le rivage de Méthymne. Là, un serpent s’apprête à dévorer cette tête abandonnée sur un sable étranger : il lèche ses cheveux encore dégouttants de l’onde amère, et, la gueule ouverte, il va déchirer cette bouche harmonieuse. Mais enfin Apollon paraît, détourne la morsure et change en un dur rocher le serpent, dont la gueule s’arrête et se durcit béante. L’ombre descend dans la demeure des morts, et reconnaît ces lieux qu’elle a déjà visités : dans les champs réservés aux justes, elle cherche, elle trouve Eurydice, et la serre avec amour dans ses bras. Là, tantôt les deux ombres s’unissent dans leur marche ; tantôt Orphée suit son épouse, tantôt il la précède, et il peut regarder en arrière sans perdre son Eurydice. Mais Bacchus ne laisse pas le crime impuni : touché du sort de son ministre[^13], il attache soudain à la terre, au milieu des forêts, les pas des Ménades criminelles. Les doigts de leurs pieds s’allongent en noueuses racines, et s’enfoncent dans le sol, suivant le degré de fureur qui naguère anima les coupables. Tel, si son pied s’est engagé dans les lacs qu’a disposés un adroit chasseur, l’oiseau qui se sent retenu se débat, et par ses secousses, ne fait que resserrer ses liens. Ainsi ces femmes, saisies d’effroi, cherchent à fuir ; mais la racine tenace les arrête et retient leur élan. Elles cherchent où sont leurs pieds, leurs doigts, leurs ongles, et elles voient un tronc arrondi qui a pris la place de leurs jambes ; elles veulent frapper leurs cuisses en signe de douleur, et elles ne frappent qu’un bois insensible ; déjà leur sein, leurs épaules ne sont plus que bois : on prendrait leurs bras étendus pour des rameaux, et ce ne serait pas se méprendre.
+
+L'histoire d'Orphée provient d'extraits des chants X et XI des [Métamorphoses](https://secure.wikimedia.org/wikisource/fr/wiki/Les_M%C3%A9tamorphoses) d'Ovide.
+
+[^1]: Le chantre fils des immortels : Orphée est le fils du roi Œagre et de la Muse Calliope.
+[^2]: L’arbre de Chaonie : variété de chêne.
+[^3]: Les Héliades sont les sœurs de Phaéton transformées en arbres, peut-être des peupliers.
+[^4]: Le laurier virginal : le laurier est dit « virginal » parce qu'il cache Daphné restée vierge.
+[^5]: Cybèle : déesse représentant la nature sauvage. [Attis](https://secure.wikimedia.org/wikipedia/fr/wiki/Cyb%C3%A8le#Cyb.C3.A8le_et_Attis) fut son jeune époux malheureux...
+[^6]: Le puissant dieu qui fait résonner à la fois la corde de l’arc et celles de la lyre : Apollon.
+[^7]: Le chantre de Thrace : Orphée.
+[^8]: Les Bacchantes : femmes échevelées, à demi nues ou couvertes de peaux de tigres, la tête couronnée de lierre, dansant, remplissant l'air de cris discordants et célébrant le culte de Bacchus.
+[^9]: Son thyrse : bâton surmonté d'une pomme de pin. C'est l'un des attributs de Bacchus et de ses bacchantes.
+[^10]: Prêtre d'Apollon : Orphée.
+[^11]: Des Ménades : autre nom des Bacchantes.
+[^12]: Dryades : nymphes des forêts.
+[^13]: Son ministre : le mot est employé au sens premier (le serviteur, dans une religion).

@@ -1,0 +1,18 @@
+# Séance 7 Le dénouement
+
+
+LE MESSAGER
+Un mot suffit, aussi court à dire qu’à entendre : notre noble Jocaste est morte.
+
+LE CORYPHÉE
+La malheureuse ! Et qui causa sa mort ?
+
+LE MESSAGER
+Elle-même. Mais le plus douloureux de tout cela t’échappe : le spectacle du moins t’en aura été épargné. Malgré tout, dans la mesure où le permettra ma mémoire, tu vas savoir ce qu’a souffert l’infortunée. À peine a-t-elle franchi le vestibule que, furieuse, elle court vers le lit nuptial, en s’arrachant à deux mains les cheveux. Elle entre et violemment ferme la porte derrière elle. Elle appelle alors Laïos, déjà mort depuis tant d’années ; elle évoque « les enfants que jadis il lui donna et par qui il périt lui-même, pour laisser la mère à son tour donner à ses propres fils une sinistre descendance ». Elle gémit sur la couche « où, misérable, elle enfanta un époux de son époux et des enfants de ses enfants » ! Comment elle périt ensuite, je l’ignore, car à ce moment Œdipe, hurlant, tombe au milieu de nous, nous empêchant d’assister à sa fin : nous ne pouvons plus regarder que lui. Il fait le tour de notre groupe ; il va, il vient, nous suppliant de lui fournir une arme, nous demandant où il pourra trouver « l’épouse qui n’est pas son épouse, mais qui fut un champ maternel à la fois pour lui et pour ses enfants ». Sur quoi un dieu sans doute dirige sa fureur, car ce n’est certes aucun de ceux qui l’entouraient avec moi. Subitement, il poussa un cri terrible et, comme mené par un guide, le voilà qui se précipite sur les deux vantaux de la porte, fait fléchir le verrou qui saute de la gâche, se rue enfin au milieu de la pièce… La femme est pendue ! Elle est là, devant nous, étranglée par le nœud qui se balance au toit… Le malheureux à ce spectacle pousse un gémissement affreux. Il détache la corde qui pend, et le pauvre corps tombe à terre… C’est un spectacle alors atroce à voir. Arrachant les agrafes d’or qui servaient à draper ses vêtements sur elle, il les lève en l’air et il se met à en frapper ses deux yeux dans leurs orbites. « Ainsi ne verront-ils plus, dit-il, ni le mal que j’ai subi, ni celui que j’ai causé ; ainsi les ténèbres leur défendront-elles de voir désormais ceux que je n’eusse pas dû voir, et de manquer de reconnaître ceux que, malgré tout, j’eusse voulu connaître ! » Et tout en clamant ces mots, sans répit, les bras levés, il se frappait les yeux, et leurs globes en sang coulaient sur sa barbe. Ce n’était pas un suintement de gouttes rouges, mais une noire averse de grêle et de sang, inondant son visage !... Le désastre a éclaté, non par sa seule faute, mais par le fait de tous deux à la fois : c’est le commun désastre de la femme et de l’homme. Leur bonheur d’autrefois était hier encore un bonheur au sens vrai du mot : aujourd’hui, au contraire, sanglots, désastre, mort et ignominie, toute tristesse ayant un nom se rencontre ici désormais ; pas une qui manque à l’appel !
+
+LE CORYPHÉE
+Et, à présent, le misérable jouit-il de quelque relâche à sa peine ?
+
+LE MESSAGE Il demande à grands cris « qu’on ouvre les portes et qu’on fasse voir à tous les Cadméens celui qui tua son père et qui fit de sa mère… » — ses mots sont trop ignobles, je ne puis les redire. Il parle « en homme qui s’apprête à s’exiler lui-même du pays, qui ne peut plus y demeurer, puisqu’il se trouve sous le coup de sa propre imprécation ». Pourtant, il a besoin d’un appui étranger, il a besoin d’un guide. Le coup qui l’a frappé est trop lourd à porter. Tu vas en juger par toi-même. On pousse justement le verrou de sa porte. Tu vas contempler un spectacle qui apitoierait même un ennemi.
+
+_Œdipe apparaît, la face sanglante, cherchant sa route à tâtons._

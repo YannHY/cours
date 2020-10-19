@@ -1,0 +1,37 @@
+# Évaluation
+## Charles Baudelaire (2,5 points)
+1. Donnez les dates de vie et de mort de Charles Baudelaire. (0,5 point)
+2. En quelle année publie-t-il les *Fleurs du mal* ? Combien cette première édition continent-elle de poèmes ? (1 point)
+3. Quelle section est ajoutée lors de la deuxième publication des *Fleurs du mal* ? (0,5 point)
+4. Comment s’appelle le recueil publié en Belgique contenant les poèmes condamnés ? (0,5 point)
+
+## Le procès des *Fleurs du mal* (3,5 point)
+1. Quel journal écrivant « L’odieux y coudoie l’ignoble ; le repoussant s’y allie à l’infect » attire l’attention de la justice ? (0,5 point)
+2. Quelle œuvre célèbre est condamnée la même année que les *Fleurs du mal* ? (0,5 point)
+3. Quels sont précisément les deux chefs d’accusation formulés à propos de l’ouvrage de Baudelaire ? (1 point)
+4. Citez au moins trois poèmes condamnés. (1,5 point)
+
+## Les thèmes baudelairiens (5 points)
+1. Complétez cette phrase : « Il m'a paru plaisant, et d'autant plus agréable que la tâche était plus difficile, d'extraire la beauté du ... ». (0,5 point)
+2. Citez au moins deux poèmes dans lequel le thème de la ville apparait. (1 point)
+3. Complétez : « la forme d’une ... change plus vite, Hélas! que le cœur d’un mortel ». (0,5 point)
+4. Quels oiseaux donnent leur titre à des poèmes des *Fleurs du mal* ? Citez-en au moins deux. (2 points)
+5. Les femmes sont souvent évoquées dans la poésie de Baudelaire. Citez le nom de deux d’entre elles. (1 point)
+
+## La laideur dans l’art (2 points)
+1. Qui a écrit la préface de *Cromwell* ? (0,5 point)
+2. Quel mouvement — auquel appartient l’auteur de *Cromwell* — s’oppose au classicisme et entreprend de montrer aussi bien le laid que le beau ? (0,5 point)
+3. Qui a écrit la préface de *Mademoiselle de Maupin* ? (0,5 point)
+4. Complétez : « Il n'y a de vraiment beau que ce qui ne peut servir à rien ; tout ce qui est utile est ... ». (0,5 point)
+
+## Le spleen (4 points)
+1. De quelle langue le mot « spleen » vient-il ? Que signifie-t-il ? (1 point)
+2. Qu’est-ce que le spleen désigne dans *Les Fleurs du mal* ? (1 point)
+3. Citez trois poèmes évoquant le spleen (donnez, le cas échéant, le premier vers comme titre). (1,5 point)
+4. Quelle figure de style est fréquemment utilisée dans les poèmes du spleen ? (0,5 point)
+
+# Les principaux mouvements poétiques au XIXe (3 points)
+1. Citez les principaux mouvements poétiques en question. (1,5 point)
+2. Qui a écrit les *Méditation poétiques* ? (0,5 point)
+3. Dans la mythologie grecque, qu’est-ce que le mont Parnasse ? (0,5 point)
+4. À quel mouvement appartient le poète Stéphane Mallarmé ? (0,5 point)

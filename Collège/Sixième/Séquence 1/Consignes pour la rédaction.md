@@ -24,5 +24,3 @@ Au fur et à mesure, lors de trois séances que nous avons réalisées ensemble,
 ➡️ Vous pouvez rendre votre rédaction en utilisant l’application Pages ou BookCreator ou encore Google Docs. Si vous le préférez, vous pouvez aussi écrire votre texte sur du papier.
 
 ![](https://github.com/YannHY/cours/blob/master/Collège/Sixième/Séquence%201/Barème.jpeg)
-
-/Barème.jpeg

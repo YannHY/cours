@@ -20,7 +20,7 @@ Poursuivant ce travail dans [la séance 2](https://github.com/YannHY/cours/blob/
 
 ### La séance 3 sur L’Odyssée
 
-La séance 3 était une séance à faire entièrement en autonomie. Les élèves devaient lire *L’Odyssée*, consulter le site que j’ai consacré à ce livre et lire les explications sur l’épopée d’Homère. Ils devaient regarder un cours documentaire sur Homère et répondre à des questions dont certaines ont figuré dans la dernière évaluation ayant eu lieu vendredi dernier.
+[La séance 3](https://github.com/YannHY/cours/blob/master/Coll%C3%A8ge/Sixi%C3%A8me/S%C3%A9quence%201/S%C3%A9ance%203%20L%E2%80%99Odyss%C3%A9e.md) était une séance à faire entièrement en autonomie. Les élèves devaient lire *L’Odyssée*, consulter le site que j’ai consacré à ce livre et lire les explications sur l’épopée d’Homère. Ils devaient regarder un cours documentaire sur Homère et répondre à des questions dont certaines ont figuré dans la dernière évaluation ayant eu lieu vendredi dernier.
 
 ### La récitation
 
@@ -28,11 +28,11 @@ Nous avons étudié [un court extrait de *Phèdre*](https://github.com/YannHY/co
 
 ### La séance 4 sur le Minotaure
 
-Cette séance a consisté à étudier un texte (Ariane contre le Minotaure) et a servi de support à un premier exercice de rédaction. Nous avons montré comment créer le suspense en retardant l’arrivée du monstre. Par exemple en simplement décrivant les lieux et donc en retardant le moment où on fait intervenir le monstre.
+[Cette séance](https://github.com/YannHY/cours/blob/master/Coll%C3%A8ge/Sixi%C3%A8me/S%C3%A9quence%201/S%C3%A9ance%204%20L%E2%80%99arriv%C3%A9e%20du%20monstre.md) a consisté à étudier un texte (*Ariane contre le Minotaure*) et a servi de support à un premier exercice de rédaction. Nous avons montré comment créer le suspense en retardant l’arrivée du monstre. Par exemple en simplement décrivant les lieux et donc en retardant le moment où on fait intervenir le monstre.
 
 ### La séance 5 sur le combat
 
-Un extrait de bande dessinée racontant l’histoire de Persée affrontant Méduse nous a permis de comprendre quelles étaient les qualités d’un héros ou d’une héroïne permettant d’affronter la monstruosité. Cette dernier étude a été l’occasion d’un dernier travail d’écriture.
+[Un extrait de bande dessinée](https://github.com/YannHY/cours/blob/master/Coll%C3%A8ge/Sixi%C3%A8me/S%C3%A9quence%201/S%C3%A9ance%205%20Le%20combat.md) racontant l’histoire de Persée affrontant Méduse nous a permis de comprendre quelles étaient les qualités d’un héros ou d’une héroïne permettant d’affronter la monstruosité. Cette dernier étude a été l’occasion d’un dernier travail d’écriture.
 
 ### La séance 6 sur les dieux grecs et romains
 

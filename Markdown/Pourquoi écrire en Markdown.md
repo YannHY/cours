@@ -62,7 +62,7 @@ Le Markdown ayant été conçu comme un format de texte pour construire des docu
 
 Je vous explique. De nombreuses personnes écrivent un document, placent un titre, le mettent en gras et grossissent la police. On pourrait en fait dire que ceci n’est pas un titre. C’est du texte (le corps) qui fait office de titre, mais ce n’est pas un titre. Pas un vrai en tout cas. Même chose avec les sous-titres : un peu de gras, on saute une ligne, etc. Ça ressemble à un sous-titre, mais ça n’en est pas un. Pour que ça en soit, il faudrait aller faire un tour dans les styles et appliquer le style idoine (et c’est bien pratique. C’est même ça qui vous créent de facto une table des matières).
 
-Que ce soit en Markdown ou en HTML, les titres et les sous-titres présentent des différences. Le titre principale est précédé d’un `#` (en Markdown) ou encadré par les balises `<h1></h1>`. Un titre de niveau 2 aura `##` en Markdown ou `<h2></h2>` en HTML, etc. Ça va jusqu’à 6.
+Que ce soit en Markdown ou en HTML, les titres et les sous-titres présentent des différences. Le titre principal est précédé d’un `#` (en Markdown) ou encadré par les balises `<h1></h1>`. Un titre de niveau 2 aura `##` en Markdown ou `<h2></h2>` en HTML, etc. Ça va jusqu’à 6.
 
 Quelle différence ?
 
@@ -82,7 +82,7 @@ Reprenons depuis le début.
 
 ### La mort de mon disque dur
 
-Je pense que tout a commencé avec la mort de mon disque dur externe ou disons du dernier disque dur que j’ai acheté. Il semble que ces choses-là sont fragiles et j’ai décidé, il y a bien dix ans maintenant au moins, de n’en plus acheter. Jamais. Au lieu de ça, j’ai uploadé (désolé, *téléverser* ne me plait pas) l’ensemble de mes données sur le web. Au début, j’utilisais [iDrive](https://www.idrive.com/) puis j’ai utilisé [Hubic](https://hubic.com/en/) puis iCloud. On ne peut pas dire que ce dernier choix m’ait systématiquement paru satisfaisant tant le cloud d’Apple a pu parfois connaître quelques ratés particulièrement agaçants, mais les choses se sont (un peu) améliorés. 
+Je pense que tout a commencé avec la mort de mon disque dur externe ou disons du dernier disque dur que j’ai acheté. Il semble que ces choses-là sont fragiles et j’ai décidé, il y a bien dix ans maintenant au moins, de n’en plus acheter. Jamais. Au lieu de ça, j’ai uploadé (désolé, *téléverser* ne me plait pas) l’ensemble de mes données sur le web. Au début, j’utilisais [iDrive](https://www.idrive.com/) puis j’ai utilisé [Hubic](https://hubic.com/en/) puis iCloud. On ne peut pas dire que ce dernier choix m’ait systématiquement paru satisfaisant tant le cloud d’Apple a pu parfois connaître quelques ratés particulièrement agaçants, mais les choses se sont (un peu) améliorées. 
 
 Bref, depuis, mes données sont en ligne. Je peux quasiment effacer le contenu de mon iPad sans aucun remord. Tout est sauvegardé sans que j’aie à y penser, et je retrouve mes fichiers instantanément si je change de machine.
 

@@ -36,7 +36,14 @@
 
 - [Atom](https://atom.io/)
 - [Marked 2](https://marked2app.com/)
-- [Zettlr](https://www.zettlr.com) (mais aussi pour Windows, Debian, Fedora...) 
+- [The archive](https://zettelkasten.de/the-archive/)
+- [nvALT](https://brettterpstra.com/projects/nvalt/) (voir à propos de cette app [cette introduction](http://aya.io/blog/nvalt-prise-de-notes/))
+- [MultiMarkdown Composer](https://multimarkdown.com)
+
+### Multiplateformes
+
+- [Zettlr](https://www.zettlr.com)
+- [Typora](https://www.typora.io)
 
 ## Pourquoi utiliser le Markdown
 

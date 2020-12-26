@@ -36,6 +36,7 @@
 
 - [Atom](https://atom.io/)
 - [Marked 2](https://marked2app.com/)
+- [Zettlr](https://www.zettlr.com) (mais aussi pour Windows, Debian, Fedora...) 
 
 ## Pourquoi utiliser le Markdown
 

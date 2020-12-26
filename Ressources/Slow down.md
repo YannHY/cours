@@ -60,6 +60,29 @@ Regarder en direct les informations en ligne sur l’une de ces « chaînes »
 - [BBC](https://www.bbc.co.uk/news/video_and_audio/video_experience_headlines)
 - [Skynews](https://news.sky.com/story/watch-sky-news-live-10315632)
 - [BFM TV](https://www.bfmtv.com/mediaplayer/live-video/)
+- [1jour1actu](https://www.1jour1actu.com/)
+
+Vous trouverez, sur le dernier site, de nombreux et courts articles accompagnés d’une vidéo sur des sujets variés : sport, sciences, culture, etc. Voici quelques exemples :
+
+- [C’est quoi, le métier de danseur ?](https://www.1jour1actu.com/info-animee/cest-quoi-le-metier-de-danseur)
+- [Quand les animaux nous font rire](https://www.1jour1actu.com/monde/animaux-photos-comedy-wildlife-2020)
+- [Pourquoi s'intéresse-t-on autant à l'élection du président américain ?](https://www.1jour1actu.com/info-animee/pourquoi-sinteresse-t-on-autant-a-lelection-du-president-americain)
+- [Où en est-on du vaccin contre le Covid-19 ?](https://www.1jour1actu.com/info-animee/ou-en-est-on-du-vaccin-contre-le-covid-19)
+- [C’est quoi, Halloween ?](https://www.1jour1actu.com/info-animee/cest-quoi-halloween)
+- [Le Président annonce un nouveau confinement](https://www.1jour1actu.com/france/president-annonce-confinement)
+- [À 12 ans, Christophe nage 40 km en pleine mer](https://www.1jour1actu.com/france/christophe-nage-40-km-en-pleine-mer)
+- [Comment fait-on un dessin animé ?](https://www.1jour1actu.com/info-animee/comment-fait-on-un-dessin-anime)
+
+Regardez également [C dans l’air](https://www.france.tv/france-5/c-dans-l-air/replay-videos/), une émission d’informations très intéressante. Nous l’avions utilisé en classe pour apprendre à présenter un débat, annoncer des idées, construire son argumentation...
+
+- [Déconfinement : cette fois, on ouvre ?](https://www.france.tv/france-5/c-dans-l-air/1531395-emission-du-jeudi-28-mai-2020.html)
+- [Social : la crise est déjà là…](https://www.france.tv/france-5/c-dans-l-air/1531455-emission-du-mercredi-27-mai-2020.html)
+- [Covid, Hong Kong : la Chine voit rouge](https://www.france.tv/france-5/c-dans-l-air/1531511-emission-du-mardi-26-mai-2020.html)
+- [L’épidémie ralentit, la polémique Raoult repart](https://www.france.tv/france-5/c-dans-l-air/1531565-emission-du-lundi-25-mai-2020.html)
+- [Chloroquine, masques… la stratégie secrète de Trump](https://www.france.tv/france-5/c-dans-l-air/1529071-emission-du-samedi-23-mai-2020.html)
+- [Impôts, 35 heures... Qui va payer la dette du Covid ?](https://www.france.tv/france-5/c-dans-l-air/1502881-impots-35-heures-qui-va-payer-la-dette-du-covid.html)
+- [Déconfinement : un début de ras-le-bol ?](https://www.france.tv/france-5/c-dans-l-air/1503039-emission-du-jeudi-21-mai-2020.html)
+- [Épidémie : jusqu'ici tout va bien ?](https://www.france.tv/france-5/c-dans-l-air/1503129-emission-du-mercredi-20-mai-2020.html)
 
 ## 🎧 Podcasts
 
@@ -484,19 +507,6 @@ Vous connaissez tous l’émission [C’est pas sorcier](https://www.youtube.com
 - [Barrages](https://youtu.be/kNvmUQc45y8)
 - [Tour Eiffel](https://youtu.be/x1vHz1hh6Gs)
 - [Théorie de l’évalution : de Darwin à la génétique](https://youtu.be/ZNFN4t6iT9o)
-
-### C dans l’air
-
-[Une émission](https://www.france.tv/france-5/c-dans-l-air/replay-videos/) d’informations très intéressante. Nous l’avions utilisé en classe pour apprendre à présenter un débat, annoncer des idées, construire son argumentation...
-
-- [Déconfinement : cette fois, on ouvre ?](https://www.france.tv/france-5/c-dans-l-air/1531395-emission-du-jeudi-28-mai-2020.html)
-- [Social : la crise est déjà là…](https://www.france.tv/france-5/c-dans-l-air/1531455-emission-du-mercredi-27-mai-2020.html)
-- [Covid, Hong Kong : la Chine voit rouge](https://www.france.tv/france-5/c-dans-l-air/1531511-emission-du-mardi-26-mai-2020.html)
-- [L’épidémie ralentit, la polémique Raoult repart](https://www.france.tv/france-5/c-dans-l-air/1531565-emission-du-lundi-25-mai-2020.html)
-- [Chloroquine, masques… la stratégie secrète de Trump](https://www.france.tv/france-5/c-dans-l-air/1529071-emission-du-samedi-23-mai-2020.html)
-- [Impôts, 35 heures... Qui va payer la dette du Covid ?](https://www.france.tv/france-5/c-dans-l-air/1502881-impots-35-heures-qui-va-payer-la-dette-du-covid.html)
-- [Déconfinement : un début de ras-le-bol ?](https://www.france.tv/france-5/c-dans-l-air/1503039-emission-du-jeudi-21-mai-2020.html)
-- [Épidémie : jusqu'ici tout va bien ?](https://www.france.tv/france-5/c-dans-l-air/1503129-emission-du-mercredi-20-mai-2020.html)
 
 ### Arte
 

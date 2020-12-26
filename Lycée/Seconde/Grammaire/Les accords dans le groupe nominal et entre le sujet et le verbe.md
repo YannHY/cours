@@ -98,6 +98,6 @@ Ajoutez l’article défini « un » ou « une » selon que les mots sont f�
 
 Réécrivez ce texte en mettant les groupes « cet oiseau », « ce chien de chasse » et « le serin » au pluriel. Faites toutes les modifications nécessaires.
 
-*Quoi ! cet oiseau qui fait son nid en demi-cercle quand il l’attache à un mur, qui le bâtit en quart de cercle quand il est dans un angle, et en cercle sur un arbre ; cet oiseau fait tout de la même façon ? Ce chien de chasse que tu as discipliné pendant trois mois n’en sait-il pas plus au bout de ce temps qu’il n’en savait avant les leçons ? Le serin à qui tu apprends un air le répète-t-il dans l’instant ? n’emploies-tu pas un temps considérable à l’enseigner ? n’as-tu pas vu qu’il se méprend et qu’il se corrige ?* 
+*Quoi ! cet oiseau qui fait son nid en demi-cercle quand il l’attache à un mur, qui le bâtit en quart de cercle quand il est dans un angle, et en cercle sur un arbre ; cet oiseau fait tout de la même façon ? Ce chien de chasse que tu as discipliné pendant trois mois n’en sait-il pas plus au bout de ce temps qu’il n’en savait avant les leçons ? Le serin à qui tu apprends un air le répète-t-il dans l’instant ? n’emploies-tu pas un temps considérable à l’enseigner ? n’as-tu pas vu qu’il se méprend et qu’il se corrige ?* 
 
 Voltaire, *Dictionnaire philosophique*, article « BÊTES »

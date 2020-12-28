@@ -18,6 +18,11 @@ Pour moi, la solution la plus simple est donc alors d’écrire d’abord mes co
 
 Or le format txt ou md autorise cette **portabilité des données**. Par ailleurs le format [texte brut](https://fr.wikipedia.org/wiki/Texte_brut) (*plain text* en anglais) est pérenne. Aucune inquiétude. Il ne dépend pas du bon vouloir d’Apple ou de Microsoft. Le format texte brut est **indestructible**. Ajoutons enfin qu’une application comme [Pandoc](https://pandoc.org/help.html) fait du Markdown un format particulièrement « versatile » et exportable en à peu près tout ce que vous souhaitez (voir, à ce propos, la page [Liens](https://github.com/YannHY/cours/blob/master/Markdown/Liens.md)).
 
+Enfin, ça n'a pas été pour moi le moindre étonnement de découvrir que je pouvais « présenter », avec HackMD, mon texte comme je le ferai avec Keynote ou PowerPoint. Au prix de quelques petites adaptations, des portions de texte se transforment en diapositives (« slides » en anglais) Voici deux exemples :
+
+- [20 tips to learn how to better read and write with the iPad](https://hackmd.io/@YannYH/SJQm5-LpP#/)
+- [30 Useful Apps To Teach Online](https://hackmd.io/@YannYH/B1UyWdL6v#/)
+
 ## Les mains sur le clavier
 
 Il y a un autre point qui me plait beaucoup dans le Markdown, c’est la possibilité de **se concentrer sur l’écriture, les deux mains sur le clavier**. J’ai toujours détesté lâcher le clavier, parcourir l’écran pour chercher un menu, puis parfois un sous-menu afin de trouver le réglage nécessaire au formatage du texte. Avec le Markdown, tout est fait au clavier en insérant des balises ou des signes simples : mettre en gras se fait au clavier, créer un lien se fait au clavier, une liste à puces se fait au clavier, etc.
@@ -104,4 +109,3 @@ La plus-value est assez évidente pour qui connait ces applications (j’avoue a
 ![Les deux versions d’un même texte dans Working Copy](https://www.ralentirtravaux.com/github/working-copy.png)
 
 Au terme de cet article, on peut donc dire que le Markdown est un format simple, pratique, structuré, pérenne, sémantique, flexible et favorisant la collaboration. Que peut-on demander de plus ?
-

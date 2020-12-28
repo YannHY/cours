@@ -23,6 +23,8 @@ Enfin, ça n'a pas été pour moi le moindre étonnement de découvrir que je po
 - [20 tips to learn how to better read and write with the iPad](https://hackmd.io/@YannYH/SJQm5-LpP#/)
 - [30 Useful Apps To Teach Online](https://hackmd.io/@YannYH/B1UyWdL6v#/)
 
+![Un diaporama réalisé avec HackMD](https://www.ralentirtravaux.com/github/hackmdslides.png)
+
 ## Les mains sur le clavier
 
 Il y a un autre point qui me plait beaucoup dans le Markdown, c’est la possibilité de **se concentrer sur l’écriture, les deux mains sur le clavier**. J’ai toujours détesté lâcher le clavier, parcourir l’écran pour chercher un menu, puis parfois un sous-menu afin de trouver le réglage nécessaire au formatage du texte. Avec le Markdown, tout est fait au clavier en insérant des balises ou des signes simples : mettre en gras se fait au clavier, créer un lien se fait au clavier, une liste à puces se fait au clavier, etc.

@@ -50,7 +50,8 @@
 
 De la même façon que vous utiliseriez Keynote ou PowerPoint pour réaliser une présentation, vous pouvez utiliser l’une des ressources ci-dessous pour réaliser votre présentation en Markdown.
 
-- [HackMD](https://hackmd.io/?nav=overview)
+- [HackMD](https://hackmd.io/?nav=overview) (voir explications ci-dessous)
+- [Wunderpresentation](https://wunderpresentation.com) (si vous utilisez [Notion](https://apps.apple.com/gb/app/notion-notes-projects-docs/id1232780281), il vous suffit de copier et coller l’URL et d’appuyer sur `Convertir`).
 
 ### Pour mieux comprendre comment utiliser HackMD
 

@@ -31,6 +31,7 @@
 - [Pretext](https://apps.apple.com/gb/app/pretext/id1347707000)
 - [Bear](https://apps.apple.com/gb/app/bear/id1016366447)
 - [Ulysses](https://apps.apple.com/gb/app/ulysses/id1225571038)
+- [Notion](https://apps.apple.com/gb/app/notion-notes-projects-docs/id1232780281)
 
 ### Mac
 

@@ -1,0 +1,6 @@
+# Charlemagne, empereur à la barbe fleurie, 
+
+Charlemagne, empereur à la barbe fleurie,<br />  Revient d'Espagne ; il a le cœur triste, il s'écrie : <br /> « Roncevaux ! Roncevaux ! ô traître Ganelon ! » <br /> Car son neveu Roland est mort dans ce vallon <br /> Avec les douze pairs et toute son armée. <br /> Le laboureur des monts qui vit sous la ramée <br /> Est rentré chez lui, grave et calme, avec son chien ; <br /> Il a baisé sa femme au front, et dit : C'est bien.<br /> Il a lavé sa trompe et son arc aux fontaines ; <br /> Et les os des héros blanchissent dans les plaines.<br /><br />
+ Le bon roi Charle est plein de douleur et d'ennui ; <br /> Son cheval syrien est triste comme lui. <br /> Il pleure ; l'empereur pleure de la souffrance <br /> D'avoir perdu ses preux, ses douze pairs de France, <br /> Ses meilleurs chevaliers qui n'étaient jamais las, <br /> Et son neveu Roland, et la bataille, hélas ! <br /> Et surtout de songer, lui, vainqueur des Espagnes, <br /> Qu'on fera des chansons dans toutes ces montagnes <br /> Sur ses guerriers tombés devant des paysans, <br /> Et qu'on en parlera plus de quatre cents ans !<br /><br />
+
+Victor Hugo, *La légende des siècles*

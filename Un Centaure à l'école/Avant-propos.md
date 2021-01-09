@@ -1,4 +1,4 @@
-# Un Centaure à l'école
+# Avant-propos
 
 Comment le numérique change (et doit encore changer) l’école, l’élève et le professeur
 

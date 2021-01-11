@@ -116,6 +116,8 @@ Dont acte ?
 
 Si en dépit des plans qui se sont multipliés vainement, on parvient enfin vraiment à introduire le numérique, alors on ne se demandera plus si l'école a changé ou pas, mais on se dira, en plagiant Mallarmé, Telle qu'en Elle-même enfin l'éternité la change. Et alors l'école continuera de permettre à l'élève « de développer sa personnalité, d'élever son niveau de formation initiale et continue, de s'insérer dans la vie sociale et professionnelle, d'exercer sa citoyenneté ».
 
-Illustration de couverture : https://commons.wikimedia.org/wiki/File:Chiron_instructs_young_Achilles_-_Ancient_Roman_fresco.jpg?uselang=fr_
+---
+
+[Illustration de couverture](https://commons.wikimedia.org/wiki/File:Chiron_instructs_young_Achilles_-_Ancient_Roman_fresco.jpg?uselang=fr_)
 
 Merci à Ghislain Dominé pour sa relecture et dont la prose s’est si souvent mêlée à la mienne qu’il en reste des bouts çà ou là.

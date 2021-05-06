@@ -1,8 +1,8 @@
-# La syntaxe des propositions subordonnées relatives
+# La syntaxe des propositions subordonnées relatives et conjonctives
 
 Avant de commencer, testons vos connaissances avec un petit quiz.
 
-## Vrai ou faux
+## Vrai ou faux ?
 
 1. Une proposition contient toujours un verbe conjugué.
 2. La proposition subordonnée relative dans « Ô vie qui aspire le soleil matinal » est « qui ».
@@ -48,7 +48,7 @@ L’une d’elle est une proposition subordonnée relative :
 
 Une proposition subordonnée relative est
 
-1. **Introduite par un pronom relatif**. C’est pour cela qu’on l’appelle relative (« ve » au féminin).
+1. **Introduite par un pronom relatif**. C’est pour cela qu’on l’appelle relative (« -ve » au féminin).
 2. Elle est subordonnée en ceci qu’elle est **dépendante d’une autre proposition** dite principale.
 3. On dit que c’est une proposition parce qu’**elle contient un verbe conjugué**. C’est un peu comme une phrase. D’ailleurs, rappelons qu’une phrase simple est aussi appelée *proposition indépendante*.
 
@@ -74,7 +74,7 @@ Les principaux pronoms relatifs sont :
 
 *qui*, *que*, *quoi*, *dont*, *où*.
 
-Parmi les pronoms relatifs, on trouve également le pronom *lequel* qui, contrairement aux autres, s’accordent en genre et en nombre : *laquelle*, *lesquels*, *lesquelles*.
+Parmi les pronoms relatifs, on trouve également le pronom *lequel* qui, contrairement aux autres, s’accorde en genre et en nombre : *laquelle*, *lesquels*, *lesquelles*.
 
 Par ailleurs, le pronom *lequel* se combine avec diverses prépositions comme *à* ou *de*, etc. : *à laquelle*, *auquel*, *de laquelle*, *duquel*, etc.
 

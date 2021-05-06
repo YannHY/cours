@@ -1,6 +1,6 @@
 # ⚫️ Évaluation sur le présent de l’indicatif
 
-## Relever uniquement les verbes conjugués au présent de l’indicatif. (5 points)
+## 1. Relever uniquement les verbes conjugués au présent de l’indicatif. (5 points)
 
 ⚠️ *Attention un total de quatre erreurs vous vaudra une pénalité d’un point.*
 
@@ -20,11 +20,11 @@
 
 *Les aventures de Tom Sawyer* de Mark Twain
 
-## Conjuguer les verbes ci-dessous au présent. (6 points)
+## 2. Conjuguer les verbes ci-dessous au présent. (6 points)
 
 *Crier - obéir - prendre - vouloir - avoir - venir*
 
-## Recopiez ce petit texte en conjuguant les verbes au présent. (5 points)
+## 3. Recopiez ce petit texte en conjuguant les verbes au présent. (5 points)
 
 Germain ne **répondit** pas. il **était** blessé de ce que la jeune fille ne lui **demandait** pas de la mener jusqu’aux Ormeaux, et il ne **s’apercevait** pas qu’il le lui **avait** offert d’un ton qui semblait provoquer un refus.
 
@@ -34,7 +34,7 @@ Puis quand ils eurent remercié et dépassé le bûcheron, celui-ci les **rappel
 
 *La Mare au diable* de George Sand
 
-## Donnez les valeurs du présent. (4 points)
+## 4. Donnez les valeurs du présent. (4 points)
 
 1. La terre **tourne** autour du soleil.
 2. La vérité **est** comme le soleil. Elle fait tout voir et ne se laisse pas regarder.

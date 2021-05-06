@@ -1,6 +1,6 @@
-# ⚫️ Évaluation sur le passé composé 2
+# ⚫️🔴 Évaluation sur le passé composé 2
 
-## Relevez uniquement les verbes conjugués au passé composé (4 points)
+## 1. Relevez uniquement les verbes conjugués au passé composé (4 points)
 
 ⚠️ *Attention un total de quatre erreurs vous vaudra une pénalité d’un point.*
 
@@ -14,7 +14,7 @@
 
 D’après *Aventures d’Alice au pays des merveilles* de Lewis Carroll
 
-## Conjuguez les verbes en gras au passé composé (4 points)
+## 2. Conjuguez les verbes en gras au passé composé (4 points)
 
 Le roi **reconnut** bien à cette façon de parler que c’était encore là une fée ; il la **pria** donc de lui donner d’autres moyens pour retrouver sa charmante Aimée ; mais pour toute réponse, elle lui **fit** une grimace avec un grand éclat de rire.
 

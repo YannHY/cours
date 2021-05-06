@@ -20,6 +20,7 @@ Harassé, n’en pouvant plus, je me décidai à descendre de cheval ; j’att
 2. **La reine, qui régnait** alors, **était devenue** vers la fin de **sa vie** à charge à **elle-même**.
 
 ## Quelles phrases sont correctes ? Recopiez-les. (2 points)
+
 - Je les regardes.
 - Tu as emporté leurs affaires avec toi.
 - Le professeur leur demande d’écouter.

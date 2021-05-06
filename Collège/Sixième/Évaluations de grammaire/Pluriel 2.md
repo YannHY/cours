@@ -1,8 +1,9 @@
 # 🔴🟢 Le pluriel
 
-## Réécrivez les phrases ci-dessous au pluriel. (points)
+## Réécrivez ce petit texte en remplaçant « je » par « nous ». (9 points)
 
-### Exercice 1
+## Mettez ces groupes nominaux au pluriel. (3 points)
 
-### Exercice 2
+## Réécrivez les phrases ci-dessous en mettant au pluriel les mots en gras. (6 points)
 
+## Quelles phrases sont correctes ? Recopiez-les. (2 points)

@@ -1,25 +1,26 @@
-# Séance 2 Rédiger
-## Apprendre à construire un dialogue
+# Apprendre à construire un dialogue
 
-### Exercice 1
+## Exercice 1
+
 **Ce dialogue, extrait du *Comte de Monte-Cristo* d’Alexandre Dumas, a été mal recopié. Il manque des tirets et il faut aller parfois à la ligne.**
 
 Mais vous savez donc plusieurs langues ?
-Je parte cinq langues vivantes, l’allemand, le français, l’italien, l’anglais et l’espagnol ; à l’aide du grec ancien, je comprends le grec moderne ; seulement je le parle mal, mais je l’étudie en ce moment.
+Je parle cinq langues vivantes, l’allemand, le français, l’italien, l’anglais et l’espagnol ; à l’aide du grec ancien, je comprends le grec moderne ; seulement je le parle mal, mais je l’étudie en ce moment.
 Vous l’étudiez ? dit Dantès.
 Oui, je me suis fait un vocabulaire des mots que je sais, je les ai arrangés, combinés, tournés et retournés, de façon à ce qu’ils puissent me suffire pour exprimer ma pensée. Je sais à peu près mille mots, c’est tout ce qu’il me faut à la rigueur, quoiqu’il y en ait cent mille, je crois, dans les dictionnaires.
 De plus en plus émerveillé, Edmond commençait à trouver presque surnaturelles les facultés de cet homme étrange. Il voulut le trouver en défaut sur un point quelconque, il continua :
 Mais si l’on ne vous a pas donné de plumes, dit-il, avec quoi avez-vous pu écrire ce traité si volumineux ?
 Je m’en suis fait d’excellentes, et que l’on préférerait aux plumes ordinaires si la matière était connue, avec les cartilages des têtes de ces énormes merlans que l’on nous sert quelquefois pendant les jours maigres.
 Mais de l’encre ? dit Dantès ; avec quoi vous êtes-vous fait de l’encre ?
-Il y avait autrefois une cheminée dans mon cachot, dit Faria ; cette cheminée a été bouchée quelque temps avant mon arrivée, mais pendant longues années on y avait fait du feu : tout l’intérieur en est donc tapissé de suie. Je fais dissoudre cette suie dans une portion du vin qu’on me donne tous les dimanches, cela me fournit de l’encre excellente.
+Il y avait autrefois une cheminée dans mon cachot, dit Faria ; cette cheminée a été bouchée quelque temps avant mon arrivée, mais pendant de longues années on y avait fait du feu : tout l’intérieur en est donc tapissé de suie. Je fais dissoudre cette suie dans une portion du vin qu’on me donne tous les dimanches, cela me fournit de l’encre excellente.
 Et quand pourrai-je voir tout cela ? demanda Dantès.
 Quand vous voudrez, répondit Faria.
 Oh ! tout de suite ! s’écria le jeune homme.
 Suivez-moi donc, dit l’abbé.
 Et il rentra dans le corridor souterrain où il disparut ; Dantès le suivit.
 
-### Exercice 2
+## Exercice 2
+
 **Lisez ce dialogue et surlignez tous les verbes qui indiquent qu’un personnage parle.**
 **Que remarquez-vous (les verbes sont-ils nombreux ? Sont-ils différents ? Pourquoi ?) ?**
 

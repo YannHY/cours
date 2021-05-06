@@ -94,7 +94,7 @@ Accordez les sujets dans les phrases ci-dessous et justifiez votre réponse.
 
 Remplacez par et faites toutes les modifications nécessaires.
 
-
+(L’exercice sera bientôt en ligne.)
 
 [^1]: En fait, il existe de très nombreux cas où le sujet est inversé et pas seulement dans la phrase interrogative. Que l’on songe aux verbes de paroles dans un dialogue (*« Où vas-tu ? » demanda-t-il.*). Parfois la place du sujet est libre (La voiture que mon père a achetée est superbe. / La voiture qu’a achetée mon père est superbe.)
 [^2]: C’est ce qu’on appelle l’inversion complexe : quand le sujet est un groupe nominal ou un pronom autre que personnel ou démonstratif, il reste placé avant le verbe mais il est repris après le verbe par un pronom personnel sujet de troisième personne qui s’accorde avec lui. ([Voir le cours sur la phrase interrogative](https://www.ralentirtravaux.com/lettres/lycee/premiere/grammaire/interrogation.php))

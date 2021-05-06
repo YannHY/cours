@@ -5,6 +5,7 @@
 ### L’alphabet
 
 #### 1. Combien y a-t-il de voyelles ? Citez-les. (1 point)
+Rédigez votre réponse.
 
 #### 2. Qu’est-ce qu’une voyelle ? (1 point)
 
@@ -24,6 +25,8 @@ Pour décoder ce texte, remplacez chaque lettre par celle qui suit dans l’ordr
 
 #### 1. Qu’est-ce qu’une syllabe ? (1 point)
 
+Donnez une définition (celle que vous avez apprise dans la leçon. Vous pouvez aussi donner une exemple.)
+
 #### 2. Séparez les syllabes des mots ci-dessous par des traits d’union. (4 points)
 
 Stylo - expliquer - malheureux - absolument- pourtant - consonne - incroyablement- piscine.
@@ -31,4 +34,3 @@ Stylo - expliquer - malheureux - absolument- pourtant - consonne - incroyablemen
 #### 3. Recopiez les mots ci-dessous en ajoutant les accents aigus ou graves qui manquent. (6 points)
 
 General - levre - kilometre - medecin - mechancete - eleve - liberte - secheresse - difference - desagreable - arrivee - deuxieme.
-

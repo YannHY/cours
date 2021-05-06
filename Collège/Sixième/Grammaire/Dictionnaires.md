@@ -19,6 +19,8 @@
 - [Reverso](http://www.reverso.net/orthographe/correcteur-francais/)
 - [Le bon patron](https://bonpatron.com/)
 - [Language tool](https://languagetool.org/fr/)
+- [Merci App](https://www.merci-app.com)
+- [Antidote](https://www.antidote.info/fr)
 
 ## Autre
 

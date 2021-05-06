@@ -11,7 +11,7 @@ Ainsi, le verbe « marcher » conjugué à l’imparfait prend ces six formes 
 > vous marchiez
 > ils, elles marchaient
 
-Ces six personnes peuvent être divisées en deux catégories : singulier (je, tu, il, elle, on) et pluriel (nous, vous, ils, elles) qui recoupent l’opposition masculin/singulier, de façon parfois indifférenciée puisque le pronom « je », par exemple peut aussi bien désigner un homme ou une femme.
+Ces six personnes peuvent être divisées en deux catégories : **singulier** (je, tu, il, elle, on) et **pluriel** (nous, vous, ils, elles) qui recoupent l’opposition **masculin**/**féminin**, de façon parfois indifférenciée puisque le pronom « je », par exemple, peut aussi bien désigner un homme ou une femme.
 
 Ainsi, on voit que la forme du verbe varie en fonction de la **personne**, du **nombre** et du **temps**. Mais on voit bien aussi que cette description est incomplète. Si vous avez suivi attentivement vos cours de grammaire au collège, vous vous êtes certainement exclamé : « Mais il oublie le mode ! »
 
@@ -29,7 +29,7 @@ Une sixième notion s’est invitée dans les programmes scolaires il y a quelqu
 
 ## L’aspect
 
-Pour bien comprendre ce qu’est l’aspect, commençons par rappeler très brièvement ce qu’on appelle le temps. Dans la grammaire française, le mot « temps » est employé pour désigner les formes de la conjugaison du verbe. Malheureusement, on ne différencie pas la notion de temps alors qu’on le fait en anglais (*time* vs *tense*). En effet, en anglais, le temps (*time*) désigne le présent, le passé et le futur. Alors que *tense* désigne le temps grammatical (present simple, past simple, past continuous, pas perfect, etc.). En somme, en français, si on voulait bien faire, on ferait la différence entre le temps chronologique et le temps grammatical.
+Pour bien comprendre ce qu’est l’aspect, commençons par rappeler très brièvement ce qu’on appelle le temps. Dans la grammaire française, le mot « temps » est employé pour désigner les formes de la conjugaison du verbe. Malheureusement, on ne différencie pas la notion de temps alors qu’on le fait en anglais (*time* vs *tense*). En effet, en anglais, le temps (*time*) désigne le présent, le passé et le futur. Alors que *tense* désigne le temps grammatical (present simple, past simple, past continuous, past perfect, etc.). En somme, en français, si on voulait bien faire, on ferait la différence entre le temps chronologique et le temps grammatical.
 
 Nous, en français, nous n’avons qu’un seul mot pour dire tout cela, ce qui n’est pas sans entraîner quelques confusions. Sans entrer dans les détails, voyez simplement que dans le mode de l’indicatif, la plupart des temps sont des temps du passé :
 
@@ -42,17 +42,17 @@ Nous, en français, nous n’avons qu’un seul mot pour dire tout cela, ce qui 
 
 Vous vous doutez bien que si on a tant de façons de dire le passé, c’est que cette richesse n’est pas purement accidentelle. Ce n’est pas une diversité grammaticale gratuite. Et c’est là que la notion d’aspect peut rentrer en ligne et nous aider à comprendre les choses.
 
-Prenons un exemple avec le verbe « marcher » :
+Prenons un exemple avec le verbe « marcher » :
 
 | Imparfait | Plus-que-parfait |
 |:--|:--|
 | je marchais | j’avais marché |
 
-Vous serez d’accord pour reconnaître que ces deux temps sont des temps du passé (l’action de marcher appartient au passé). Mais pouvez-vous percevoir une différence de signification dans l’emploi de ces deux temps qui ne sont pas équivalents ? Ils ne signifient pas tout à fait la même chose. D’accord, ils sont conjugués à deux temps différents, ce qui implique une différence de forme (on dira une différence morphologique), mais aussi une différence de sens. Quelle est cette différence ?
+Vous serez d’accord pour reconnaître que ces deux temps sont des temps du passé (l’action de marcher appartient au passé). Mais pouvez-vous percevoir une différence de signification dans l’emploi de ces deux temps qui ne sont pas équivalents ? Ils ne signifient pas tout à fait la même chose. D’accord, ils sont conjugués à deux temps différents, ce qui implique une différence de forme (on dira une différence **morphologique**), mais aussi une différence de sens. Quelle est cette différence ?
 
-Vous me voyez certainement venir avec mes gros sabots. La différence est ici une différence d’aspect. Et c’est probablement l’aspect le plus simple à comprendre dans la conjugaison puisque l’aspect recouvre une simple opposition **accompli/inaccompli**. En effet, quand je dis « j’avais marché », l’action de « marcher » est achevée, terminée. C’est fini. On ne marche plus. L’aspect du verbe est accompli. Imaginez une phrase du genre : « J’avais marché pendant des heures et j’arrivai enfin à l’auberge Machin chose... ». La personne désignée par le pronom « je » est arrivée à sa destination et a donc fini de marcher. Imaginons maintenant une phrase où nous dirions « Je marchais depuis des heures, et alors que je croyais être arrivé, je n’avais pas d’autre solution que de continuer ». Certes, le verbe est conjugué au passé et notre première réaction serait de dire que le fait de marcher a rencontré un terme (ce qui est fort probable), mais rien ne dit que c’est terminé. Notre personnage est peut-être toujours en train de marcher. On n’en sait rien. On dira alors que l’aspect du verbe est inaccompli.
+Vous me voyez certainement venir avec mes gros sabots. La différence est ici une différence d’aspect. Et c’est probablement l’aspect le plus simple à comprendre dans la conjugaison puisque l’aspect recouvre une simple opposition **accompli/inaccompli**. En effet, quand je dis « j’avais marché », l’action de « marcher » est achevée, terminée. C’est fini. On ne marche plus. L’aspect du verbe est **accompli**. Imaginez une phrase du genre : « J’avais marché pendant des heures et j’arrivai enfin à l’auberge Machin chose... ». La personne désignée par le pronom « je » est arrivée à sa destination et a donc fini de marcher. Imaginons maintenant une phrase où nous dirions « Je marchais depuis des heures, et alors que je croyais être arrivé, je n’avais pas d’autre solution que de continuer ». Certes, le verbe est conjugué au passé et notre première réaction serait de dire que le fait de marcher a rencontré un terme (ce qui est fort probable), mais rien en fait ne dit que c’est terminé. Notre personnage est peut-être toujours en train de marcher. On n’en sait rien. On dira alors que l’aspect du verbe est **inaccompli**.
 
-En fait, ce qu’on appelle l’aspect du verbe, c’est la façon dont l’action est envisagée : Quelle durée a-t-elle ? Est-on au début de cette action ou à la fin ? Cette action est-elle achevée ou non ? Se répète-t-elle ? Quelles sont les bornes de son déroulement ? Voilà ce qu’on appelle l’aspect. Il faut reconnaître que ce n’est pas très facile à trouver. Le  temps présente une marque permettant aisément son identification. En effet, un verbe en « -ais » est un imparfait (il y a en tout cas de grandes chances pour que ce soit le cas), mais pour reconnaître l’aspect, c’est plus difficile.
+En fait, ce qu’on appelle l’aspect du verbe, c’est la façon dont l’action est envisagée : Quelle durée a-t-elle ? Est-on au début de cette action ou à la fin ? Cette action est-elle achevée ou non ? Se répète-t-elle ? Quelles sont les bornes de son déroulement ? Voilà ce qu’on appelle l’aspect. Il faut reconnaître que ce n’est pas très facile à trouver. Le temps présente une marque permettant aisément son identification. En effet, un verbe en « -ais » est un imparfait (il y a en tout cas de grandes chances pour que ce soit le cas), mais pour reconnaître l’aspect, c’est plus difficile.
 
 Résumons. Il y a donc le temps (le passé, le présent et le futur) qui prend différentes formes grammaticales et il y a l’aspect. Ainsi, « je mange », c’est du présent (c’est le temps). Et l’aspect est inaccompli, car l’action, le fait de manger n’est pas terminé. Alors que le même verbe conjugué au passé composé (« j’ai mangé ») possède un aspect accompli.
 
@@ -109,7 +109,7 @@ L’aspect inchoatif saisit l’action du verbe à son début, son commencement.
 
 Des verbes comme « s’endormir » ont un aspect inchoatif. Pour exprimer l’aspect inchoatif, il faut le plus souvent recourir à des périphrases verbales : « se mettre à », « commencer à », etc.
 
-> [...] et c’était aussi à ces moments-là qu’il **se mettait à parler** du « vain songe de la vie » [...].
+> [...] et c’était aussi à ces moments-là qu’il **se mettait à parler** du « vain songe de la vie » [...].
 
 Inversement, l’aspect terminatif saisit l’action juste avant sa fin. On trouve des verbes comme « finir de », « cesser de », « terminer de », « achever »...
 
@@ -125,7 +125,7 @@ Certains verbes comme « répéter » ou « radoter » contiennent dans leur
 
 Ce couple est parfois baptisé sécant/global et ressemble à s’y méprendre à l’opposition imperfectif/perfectif.
 
-Le mot « sécant » vient du latin « secare » qui signifie « couper ». On parle d’aspect sécant quand l’action du verbe est coupée en deux parties : la première partie est achevée, mais la deuxième ne l’est pas. On n’en connaît pas la limite. L’imparfait est, par excellence, le temps sécant. 
+Le mot « sécant » vient du latin « secare » qui signifie « couper ». On parle d’aspect sécant quand l’action du verbe est coupée en deux parties : la première partie est achevée, mais la deuxième ne l’est pas. On n’en connaît pas la limite. L’imparfait est, par excellence, le temps sécant. 
 
 > Au lieu de surveiller attentivement l’action de tout le mécanisme, Julien **lisait**.
 

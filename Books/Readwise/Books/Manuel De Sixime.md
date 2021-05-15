@@ -1,0 +1,262 @@
+# Manuel De Sixième
+
+![](https://is5-ssl.mzstatic.com/image/thumb/Publication3/v4/6e/d5/d5/6ed5d54d-8f63-4c56-16eb-96dc2804540c/manuelsixieme.jpg/1536x2008bb.jpeg)
+
+### Metadata
+
+- Author: Yann Houry
+- Full Title: Manuel De Sixième
+- Category: #books
+
+### Highlights
+
+- maux
+- trouble
+- désolation
+- À quel moment de la journée les Achéens sortent-ils du cheval ? Relevez au moins quatre exemples dans le texte.
+    - **Note:** Ils sortent la nuit :
+      - "Tout dort"
+      - "C'est l'heure où Morphée"...
+- cimaise
+    - **Tags:** #green
+- Cigale
+    - **Tags:** #green
+- Bise
+    - **Tags:** #green
+- bixacée
+    - **Tags:** #green
+- Été
+    - **Tags:** #green
+- éternueur
+    - **Tags:** #green
+- mouche
+    - **Tags:** #green
+- moufette
+    - **Tags:** #green
+- vermisseau
+    - **Tags:** #green
+- verrat
+    - **Tags:** #green
+- saison
+    - **Tags:** #green
+- salanque
+    - **Tags:** #green
+- morceau
+    - **Tags:** #green
+- morio
+    - **Tags:** #green
+- grain
+    - **Tags:** #green
+- gramen
+    - **Tags:** #green
+- Fourmi
+    - **Tags:** #green
+- fraction
+    - **Tags:** #green
+- voisine
+    - **Tags:** #green
+- volcanique
+    - **Tags:** #green
+- petit
+    - **Tags:** #blue
+- chanté
+    - **Tags:** #pink
+- trouva
+    - **Tags:** #pink
+- tuba
+    - **Tags:** #pink
+- chaponné
+    - **Tags:** #pink
+- succomber
+    - **Tags:** #pink
+- subsister
+    - **Tags:** #pink
+- fut
+    - **Tags:** #pink
+- fut
+    - **Tags:** #pink
+- crier
+    - **Tags:** #pink
+- alla
+    - **Tags:** #pink
+- prêter
+    - **Tags:** #pink
+- primer
+    - **Tags:** #pink
+- venue
+    - **Tags:** #pink
+- verdie
+    - **Tags:** #pink
+- alla
+    - **Tags:** #pink
+- crocher
+    - **Tags:** #pink
+- ayant
+    - **Tags:** #pink
+- ayant
+    - **Tags:** #pink
+- priant
+    - **Tags:** #pink
+- processionnant
+    - **Tags:** #pink
+- dépourvue
+    - **Tags:** #blue
+- dépurative
+    - **Tags:** #blue
+- pétrographique
+    - **Tags:** #blue
+- nouvelle
+    - **Tags:** #blue
+- nucléaire
+    - **Tags:** #blue
+- seul
+    - **Tags:** #blue
+- sexué
+    - **Tags:** #blue
+- famine
+    - **Tags:** #green
+- frange
+    - **Tags:** #green
+- Loups
+    - **Tags:** #green
+- frairie
+    - **Tags:** #green
+- Loup
+    - **Tags:** #green
+- Loup
+    - **Tags:** #green
+- vie
+    - **Tags:** #green
+- Cigogne
+    - **Tags:** #green
+- os
+    - **Tags:** #green
+- gosier
+    - **Tags:** #green
+- bonheur
+    - **Tags:** #green
+- mangent
+    - **Tags:** #blue
+- dit
+    - **Tags:** #blue
+- pressa
+    - **Tags:** #blue
+- pouvait
+    - **Tags:** #blue
+- pensa
+    - **Tags:** #blue
+- demeura
+    - **Tags:** #blue
+- perdre
+    - **Tags:** #blue
+- crier
+    - **Tags:** #blue
+- passe
+    - **Tags:** #blue
+- étant
+    - **Tags:** #blue
+- Corbeau
+- perché
+- Tenait
+- fromage
+- Renard
+- odeur
+- langage
+- bonjour
+- Monsieur
+- Corbeau
+- joli
+- semblez
+- mentir
+- rapporte
+- plumage
+- Corbeau
+- montrer
+- tomber
+- Renard
+- saisit
+- Monsieur
+- flatteur
+- écoute
+- dépens
+- leçon
+- confus
+- fromage
+- Corbeau
+- honteux
+- Jura
+- prendrait
+- celui
+- ans
+    - **Tags:** #green
+- pesants
+    - **Tags:** #green
+- douleur
+    - **Tags:** #pink
+- malheur
+    - **Tags:** #pink
+- ramée
+    - **Tags:** #blue
+- enfumée
+    - **Tags:** #blue
+- monde
+- ronde
+- repos
+    - **Tags:** #green
+- impôts
+    - **Tags:** #green
+- corvée
+    - **Tags:** #purple
+- achevée
+    - **Tags:** #purple
+- faire
+    - **Tags:** #blue
+- guère
+    - **Tags:** #blue
+- tarder
+- aider
+- guérir
+    - **Tags:** #green
+- mourir
+    - **Tags:** #green
+- sommes
+    - **Tags:** #pink
+- hommes
+    - **Tags:** #pink
+- voici cela était très bon.
+- mangerez
+- mangerez
+- toucherez
+- mourrez
+- mangerez
+- s’ouvriront
+- serez
+- marcheras
+- mangeras
+- mettrai
+- meurtrira
+- multiplierai
+- meurtriras
+- désespoir.Les
+- III
+- n’est pas être employé seul
+- le retour d’Ulysse
+- de son père
+    - **Tags:** #green
+- qu’il est d’accord
+- lui
+    - **Tags:** #green
+- à Calypso
+    - **Tags:** #green
+- la décision des dieux
+- message
+- s.
+- Spartes
+- victoire.
+- Quand
+- Pour
+    - **Note:** Il offre du...
+- Il parla ainsi, et il dit à Hermès, son cher fils :
+  « Hermès, toi qui es le messager des dieux, va dire à la nymphe aux beaux cheveux que nous avons résolu le retour d’Ulysse. Qu’elle le laisse partir. Sans qu’aucun dieu ou qu’aucun homme le conduise, sur un radeau, seul, et subissant de nouvelles douleurs, il parviendra le vingtième jour à la fertile Schérie, la terre des Phéaciens qui descendent des Dieux. Les Phéaciens l’honoreront comme un dieu, et le ramèneront chez lui sur une nef. Ils lui donneront plus d’airain, d’or et de vêtements qu’il n’en eût rapporté de Troie, s’il était revenu sain et sauf, en ayant reçu sa part du butin. Ainsi sa destinée est de revoir ses amis et de rentrer dans sa haute demeure et dans la terre de sa patrie. »
+  Il parla ainsi, et le messager obéit. Il attacha aussitôt à ses pieds de belles sandales d’or, qui le portaient soit au-dessus de la mer, soit au-dessus de la terre immense, aussi vite que le souffle du vent. Et il prit aussi la baguette avec laquelle il ferme les yeux des hommes ou les réveille, quand il le veut. Tenant cette baguette dans ses mains, le puissant tueur d’Argos, s’envolant vers la Piérie, tomba des cieux sur la mer et s’élança, rasant les flots, semblable à la mouette qui chasse les poissons et plonge ses ailes robustes dans l’écume salée. Semblable à cet oiseau, Hermès rasait les flots innombrables.
+  Quand il fut arrivé à l’île lointaine, il passa de la mer bleue sur la terre, jusqu’à la vaste grotte que la nymphe aux beaux cheveux habitait, et où il la trouva. Un grand feu brûlait au foyer, et l’odeur du cèdre et du thuya ardents parfumait toute l’île. La nymphe chantait d’une belle voix en tissant une toile. Une forêt verdoyante environnait la grotte. Une jeune vigne, dont les grappes mûrissaient, entourait la grotte, et quatre

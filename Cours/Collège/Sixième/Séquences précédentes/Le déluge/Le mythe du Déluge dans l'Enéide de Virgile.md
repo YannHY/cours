@@ -1,0 +1,37 @@
+# Le mythe du Déluge dans l'Enéide de Virgile
+ 
+Il vint un jour aux oreilles de Zeus que les hommes étaient devenus tout à fait corrompus et commettaient beaucoup de crimes. Aussi pensa-t-il qu'il devait descendre sur la terre : il voulait voir de ses propres yeux si réellement les hommes volaient, tuaient, se moquaient des dieux et disaient des mensonges au lieu de la vérité.
+
+Il vit avec peine et irritation que les hommes étaient encore pires que dans les récits qu'on lui avait faits. Un individu volait un autre en lui mentant, les hôtes attaquaient et massacraient leurs invités endormis, les enfants impatients d'hériter attendaient la mort de leurs parents, les femmes donnaient du poison à leurs maris et les frères s'entre-tuaient. Zeus se sentit soulagé lorsqu'il atteignit des régions rocailleuses où il n'y avait aucun signe de vie : pas d'hommes, pas de villes ni de villages.
+
+Une nuit, il parvint au palais d'un roi arcadien nommé Lycaon. Le peuple, s'étant rendu compte de la présence d'un dieu, se mit à prier. Mais le roi Lycaon se moqua de son peuple : « Nous verrons bien, » pensa-t-il, « si ce passant est un dieu : je vais l'éprouver. » Et, comme il avait au palais des otages de la race des Molosses, il en tua un et le fit cuire. Il allait offrir un festin au voyageur, et lorsque celui-ci se serait gavé de chair humaine et aurait sombré dans le sommeil, il le tuerait aussi.
+
+Les serviteurs déposèrent des plats fumants devant Zeus qui, comprenant l'atrocité du festin qu'on avait préparé pour lui, se mit dans une violente colère. Il envoya sa foudre sur le palais de Lycaon et un vacarme assourdissant se répandit dans tout le royaume. Des flammes s'élevèrent de toutes parts et brûlèrent avec avidité tout ce que le roi possédait. Saisi d'une terreur mortelle, Lycaon, lui-même, s'échappa du palais et s'enfuit loin de la colère de Zeus. Il ouvrait la bouche, mais l'horreur l'avait rendu muet et quand enfin il retrouva la voix, il ne put qu'hurler. Il tomba à genoux et sentit ses membres et son corps se couvrir de poils et sa tête s'allonger. Il était transformé en loup, toujours assoiffé de sang. Depuis ce jour, il décima les troupeaux paissant dans les prairies ; ses yeux étincelaient avec autant de férocité que lorsqu'il était encore un homme.
+
+Zeus retourna dans les cieux et convoqua les dieux à un conseil. Tous se pressèrent de rejoindre, par la Voie Lactée, le palais de marbre où Zeus trônait, préoccupé et furieux. Dès qu'ils furent rassemblés, la voix du dieu suprême tonna, décrivant les horreurs de la terre.
+
+« J'ai déjà foudroyé un palais, » dit-il, « mais tous les mortels, sans exception, doivent être punis. Je voudrais brûler toute la terre par la foudre, mais je crains qu'un tel incendie atteigne les cieux. Nous connaissons tous la prophétie selon laquelle le monde entier périra par les flammes. C'est pourquoi j'ai choisi le déluge pour laver la surface de la terre des démons et de l'indigne race humaine qui l'habitent. »
+
+Alors Zeus enferma dans une caverne le vent du Nord ainsi que les rafales qui dispersent les nuages et libéra le vent du Sud. Celui-ci déploya ses ailes ruisselantes et s'élança, un épais brouillard au front, sa barbe grise dégoulinante de pluie. De sa main droite il pressait et tordait des nuages noirs, exprimant des torrents d'eau. Poséidon, dieu des flots, aidait son frère Zeus dans sa tâche : il appela les dieux de toutes les rivières et de tous les fleuves et leur ordonna de laisser les cours d'eau sortir de leurs lits, briser les digues et inonder les habitations. Les eaux envahirent les villages et les villes, recouvrant les champs, les buissons et les arbres. Bientôt, le niveau atteignit les toits et même le sommet des tours. Les gens essayaient de se sauver en nageant mais la pluie les assommait. Quelques-uns parvinrent à gagner le sommet des montagnes, mais bientôt l'eau les submergea, entraînant leurs corps dans les profondeurs infinies de la mer nouvelle. Ceux qui montèrent dans des barques et des bateaux pour essayer de sauver leur vie firent naufrage sur les anciennes montagnes transformées en récifs. Des poissons étranges nageaient dans les profondeurs - au sommet des arbres -, passaient çà et là à travers les maisons et les temples dont les fenêtres et les portes avaient été arrachées par la tempête. Les cerfs, les loups et les sangliers luttaient en vain contre les vagues et les forêts étaient peuplées de dauphins. La terre devint une mer immense. Même les oiseaux, épuisés par leur vol, finissaient par tomber dans l'eau faute de pouvoir se percher. Celui qui ne fut pas englouti par les vagues, mourut de faim.
+
+Dans le pays de Phocide, le Mont Parnasse s'élevait encore au-dessus de l'eau. Un petit bateau, dans lequel s'étaient réfugiés Deucalion, fils de Prométhée, et Pyrrha, sa femme, s'avançait dans sa direction. Prométhée les avait prévenus à temps et leur avait donné une robuste embarcation.
+
+Lorsque Zeus vit que les seuls rescapés étaient Deucalion et Pyrrha, tous deux honnêtes, justes et pieux, il dispersa les nuages, montrant les cieux à la terre et la terre au ciel. De même, Poséidon posa son trident qui avait soulevé la mer, appela son fils Triton et lui demanda de souffler dans sa conque. Triton sut souffler avec une telle force que le bruit emplit toute l'atmosphère. Il souffla et les eaux se mirent à refluer, les rivières retournèrent dans leurs lits et la mer revint à ses anciens rivages.
+
+Deucalion et Pyrrha arrivèrent au Mont Parnasse, se mirent à genoux et remercièrent les dieux de les avoir laissés en vie. Puis ils regardèrent autour d'eux et ne virent qu'un désert. Les forêts retenaient encore dans les branches des arbres quelques parcelles de terre ; tout était silencieux et privé de vie. Deucalion soupira doucement :
+
+« Chère Pyrrha, » dit-il, « nous sommes les seuls survivants ; qu'allons-nous faire ? Si seulement je pouvais comme mon père créer un homme avec l'argile ! » Les yeux pleins de larmes, Deucalion et Pyrrha se mirent à prier sur les marches pleines de mousse du temple de Zeus. Ils l'implorèrent de les aider à rendre la vie à la terre et le maître des dieux, ému, leur donna ce conseil :
+
+« Quittez ce temple, voilez vos têtes et jetez derrière vous les ossements de votre grand-mère. »
+
+Perdus dans leurs pensées, ils quittèrent le temple sans parvenir à comprendre pourquoi ils devaient ainsi troubler la paix de leurs ancêtres. Ils réfléchirent longtemps quand soudain Deucalion comprit que la, grand-mère dont parlait le dieu était la Terre.
+
+« La Terre est notre grand-mère à tous », dit Deucalion, « et ses ossements ne peuvent être que les pierres. »
+
+Il doutait que des cailloux puissent faire revenir la vie sur terre. Pourtant, aidé de Pyrrha, il en ramassa et les jeta par-dessus son épaule. C'est alors que le miracle se produisit : à peine touchaient-elles la terre que les pierres perdaient leur dureté et qu'elles se transformaient en corps humains. La partie la plus dure devenait les os, quant aux veines de la pierre, elles sont à l'origine des veines du corps humain. Les pierres que Deucalion jetait se transformaient en hommes, celles que jetait Pyrrha se transformaient en femmes.
+ 
+C'est ainsi que vint au monde une nouvelle race d'hommes, actifs et résistants au travail et à la souffrance, race issue de la pierre et dure comme elle.
+
+## Tags
+
+#Texte #Collège 

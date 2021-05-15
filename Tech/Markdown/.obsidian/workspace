@@ -1,0 +1,97 @@
+{
+  "main": {
+    "id": "a19191f6a3182df1",
+    "type": "split",
+    "children": [
+      {
+        "id": "914143f258a90c9c",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Le guide du Markdown.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ecc0b5435348279d",
+    "type": "split",
+    "children": [
+      {
+        "id": "6dc39b739101e360",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cf9beb59dabf9830",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "d5a89754bf81f5a0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "70164c1be7c11abc",
+    "type": "split",
+    "children": [
+      {
+        "id": "739ebfcc39036d5e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "156bf455192c8ec9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Le guide du Markdown.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "914143f258a90c9c",
+  "lastOpenFiles": [
+    "Le guide du Markdown.md",
+    "Apprendre le Markdown.md",
+    "Pourquoi écrire en Markdown.md",
+    "Markdown et automatisation.md",
+    "Liens.md"
+  ]
+}

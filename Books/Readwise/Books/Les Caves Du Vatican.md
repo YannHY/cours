@@ -1,0 +1,82 @@
+# Les Caves Du Vatican
+
+![](https://m.media-amazon.com/images/I/71OcNs16d3L._SY160.jpg)
+
+### Metadata
+
+- Author: André Gide
+- Full Title: Les Caves Du Vatican
+- Category: #books
+
+### Highlights
+
+- bréhaigne, ([Location 62](https://readwise.io/to_kindle?action=open&asin=B008DMD5SQ&location=62))
+- sternutatoire, ([Location 112](https://readwise.io/to_kindle?action=open&asin=B008DMD5SQ&location=112))
+- cicer ([Location 154](https://readwise.io/to_kindle?action=open&asin=B008DMD5SQ&location=154))
+- cagotine ([Location 286](https://readwise.io/to_kindle?action=open&asin=B008DMD5SQ&location=286))
+- ingambe ([Location 394](https://readwise.io/to_kindle?action=open&asin=B008DMD5SQ&location=394))
+- qui sait de quelle éclaboussure sordide la misère tachera son front ([Location 417](https://readwise.io/to_kindle?action=open&asin=B008DMD5SQ&location=417))
+- Saul de Tarse, ([Location 521](https://readwise.io/to_kindle?action=open&asin=B008DMD5SQ&location=521))
+- bonheur-du-jour ([Location 629](https://readwise.io/to_kindle?action=open&asin=B008DMD5SQ&location=629))
+- ce vêtement de chair était décidément solide, imperméable. ([Location 871](https://readwise.io/to_kindle?action=open&asin=B008DMD5SQ&location=871))
+- malgré qu'il ([Location 909](https://readwise.io/to_kindle?action=open&asin=B008DMD5SQ&location=909))
+- mais ce que d'autres ont fait pour voler, aucun ici, pour sauver des enfants, n'ose le faire. ([Location 919](https://readwise.io/to_kindle?action=open&asin=B008DMD5SQ&location=919))
+- touche ([Location 924](https://readwise.io/to_kindle?action=open&asin=B008DMD5SQ&location=924))
+    - **Note:** parfait exemple de présent de narration 
+- Monsieur, je dois vous avertir d'abord : j'ai grande horreur de la reconnaissance ; autant que des dettes ; et quoi que vous fassiez pour moi, vous ne pourrez m'amener à me sentir votre obligé. ([Location 1119](https://readwise.io/to_kindle?action=open&asin=B008DMD5SQ&location=1119))
+- c'est là ce qui me paraît si beau dans la vie ; c'est qu'il faut peindre dans le frais. La rature y est défendue. ([Location 1156](https://readwise.io/to_kindle?action=open&asin=B008DMD5SQ&location=1156))
+- Ah ! que je vous dise d'abord que j'ai flanqué à la porte la fille qui hier vous l'avait ouverte. ([Location 1168](https://readwise.io/to_kindle?action=open&asin=B008DMD5SQ&location=1168))
+- il me répondit que, dans ce monde, il importait de n'avoir pas trop l'air de ce qu'on était. ([Location 1276](https://readwise.io/to_kindle?action=open&asin=B008DMD5SQ&location=1276))
+- l'ex-maîtresse à ([Location 1304](https://readwise.io/to_kindle?action=open&asin=B008DMD5SQ&location=1304))
+- Rien ne m'empêche autant que le besoin ; je n'ai jamais recherché que ce qui ne peut pas me servir. ([Location 1311](https://readwise.io/to_kindle?action=open&asin=B008DMD5SQ&location=1311))
+- Il vous plaît d'appeler paradoxes ce qui rebute au vôtre... ([Location 1313](https://readwise.io/to_kindle?action=open&asin=B008DMD5SQ&location=1313))
+- Pour moi je me laisserais mourir de faim devant ce ragoût de logique dont j'ai vu que vous alimentez vos personnages. ([Location 1314](https://readwise.io/to_kindle?action=open&asin=B008DMD5SQ&location=1314))
+- je suis un être d'inconséquence. ([Location 1318](https://readwise.io/to_kindle?action=open&asin=B008DMD5SQ&location=1318))
+- dogcar ([Location 1344](https://readwise.io/to_kindle?action=open&asin=B008DMD5SQ&location=1344))
+- face-à-main. ([Location 1367](https://readwise.io/to_kindle?action=open&asin=B008DMD5SQ&location=1367))
+- par-devers ([Location 1385](https://readwise.io/to_kindle?action=open&asin=B008DMD5SQ&location=1385))
+- Pauvre Arnica ! la vie n'apparaissait déjà plus devant elle que comme une morne avenue bordée de quolibets et d'avanies. ([Location 1599](https://readwise.io/to_kindle?action=open&asin=B008DMD5SQ&location=1599))
+- inéclose ([Location 1617](https://readwise.io/to_kindle?action=open&asin=B008DMD5SQ&location=1617))
+- Leur amitié semblait à chacun l'arche unique, l'oasis dans l'impitoyable désert de la vie. ([Location 1633](https://readwise.io/to_kindle?action=open&asin=B008DMD5SQ&location=1633))
+    - **Note:** métaphores
+- s'obombra, ([Location 1642](https://readwise.io/to_kindle?action=open&asin=B008DMD5SQ&location=1642))
+- empoiler ([Location 1642](https://readwise.io/to_kindle?action=open&asin=B008DMD5SQ&location=1642))
+- dépuratifs, ([Location 1643](https://readwise.io/to_kindle?action=open&asin=B008DMD5SQ&location=1643))
+- s'obérassent. ([Location 1690](https://readwise.io/to_kindle?action=open&asin=B008DMD5SQ&location=1690))
+- l'entregent, ([Location 1699](https://readwise.io/to_kindle?action=open&asin=B008DMD5SQ&location=1699))
+- – Je n'ai jamais trahi la confiance de personne, dit dolemment Arnica, à qui personne encore n'avait jamais confié aucun secret. ([Location 1712](https://readwise.io/to_kindle?action=open&asin=B008DMD5SQ&location=1712))
+    - **Note:** point de vue zéro 
+- plutôt des convictions que des compétences), ([Location 1817](https://readwise.io/to_kindle?action=open&asin=B008DMD5SQ&location=1817))
+- Je consens que l'Église vous enseigne à les mépriser, mais non point qu'elle vous en frustre. ([Location 1845](https://readwise.io/to_kindle?action=open&asin=B008DMD5SQ&location=1845))
+- Dans jobard il y a Job, mon ami. ([Location 1851](https://readwise.io/to_kindle?action=open&asin=B008DMD5SQ&location=1851))
+- capucinades ([Location 1853](https://readwise.io/to_kindle?action=open&asin=B008DMD5SQ&location=1853))
+- quelqu'un ([Location 1907](https://readwise.io/to_kindle?action=open&asin=B008DMD5SQ&location=1907))
+- en chavirant la chevillette d'un interrupteur de courant.) ([Location 1979](https://readwise.io/to_kindle?action=open&asin=B008DMD5SQ&location=1979))
+- Ainsi parfois, au sein même de l'abjection, tout à coup se découvrent d'étranges délicatesses sentimentales, comme croît une fleur azurée au milieu d'un tas de fumier. ([Location 2146](https://readwise.io/to_kindle?action=open&asin=B008DMD5SQ&location=2146))
+    - **Note:** comparaison 
+- écornifla ([Location 2390](https://readwise.io/to_kindle?action=open&asin=B008DMD5SQ&location=2390))
+- onction ([Location 2418](https://readwise.io/to_kindle?action=open&asin=B008DMD5SQ&location=2418))
+- aigrefins ([Location 2497](https://readwise.io/to_kindle?action=open&asin=B008DMD5SQ&location=2497))
+- Circonvenus ([Location 2544](https://readwise.io/to_kindle?action=open&asin=B008DMD5SQ&location=2544))
+- buciloque ([Location 2654](https://readwise.io/to_kindle?action=open&asin=B008DMD5SQ&location=2654))
+- marmiteux. ([Location 2663](https://readwise.io/to_kindle?action=open&asin=B008DMD5SQ&location=2663))
+- d'une manière qui eût dû être pathétique et n'était que bouffonne ([Location 2665](https://readwise.io/to_kindle?action=open&asin=B008DMD5SQ&location=2665))
+- et désormais, coquin de marquis, je te débarque de mon cœur. ([Location 2864](https://readwise.io/to_kindle?action=open&asin=B008DMD5SQ&location=2864))
+- ce claquemuré de Julius ([Location 2883](https://readwise.io/to_kindle?action=open&asin=B008DMD5SQ&location=2883))
+- Tant de gens qui écrivent et si peu de gens qui lisent ([Location 2884](https://readwise.io/to_kindle?action=open&asin=B008DMD5SQ&location=2884))
+- C'est un fait : on lit de moins en moins... si j'en juge par moi, comme disait l'autre. ([Location 2885](https://readwise.io/to_kindle?action=open&asin=B008DMD5SQ&location=2885))
+- “Que tout ce qui peut être soit !” c'est comme ça que je m'explique la Création... ([Location 2890](https://readwise.io/to_kindle?action=open&asin=B008DMD5SQ&location=2890))
+- pariétales, ([Location 2977](https://readwise.io/to_kindle?action=open&asin=B008DMD5SQ&location=2977))
+- falote ([Location 2992](https://readwise.io/to_kindle?action=open&asin=B008DMD5SQ&location=2992))
+- Tel se croit capable de tout, qui, devant que d'agir, recule... ([Location 3001](https://readwise.io/to_kindle?action=open&asin=B008DMD5SQ&location=3001))
+- cligne-musette, ([Location 3091](https://readwise.io/to_kindle?action=open&asin=B008DMD5SQ&location=3091))
+- Ce vieillard est un carrefour. ([Location 3110](https://readwise.io/to_kindle?action=open&asin=B008DMD5SQ&location=3110))
+- d'entrechat ([Location 3143](https://readwise.io/to_kindle?action=open&asin=B008DMD5SQ&location=3143))
+- se mit à fourchon ([Location 3173](https://readwise.io/to_kindle?action=open&asin=B008DMD5SQ&location=3173))
+- questure, ([Location 3302](https://readwise.io/to_kindle?action=open&asin=B008DMD5SQ&location=3302))
+- plantigrade, ([Location 3414](https://readwise.io/to_kindle?action=open&asin=B008DMD5SQ&location=3414))
+- Tout ce bétail s'acquitte comme d'une corvée monotone de ce divertissement qu'est la vie, ([Location 3424](https://readwise.io/to_kindle?action=open&asin=B008DMD5SQ&location=3424))
+- trantran ([Location 3641](https://readwise.io/to_kindle?action=open&asin=B008DMD5SQ&location=3641))
+- soulas ([Location 3660](https://readwise.io/to_kindle?action=open&asin=B008DMD5SQ&location=3660))
+- J'avais suffisamment éprouvé par moi-même, et donné à entendre aux autres dans tout le cours de ma carrière, qu'on peut être parfait chrétien sans pourtant faire fi des légitimes avantages que nous offre le rang où Dieu a trouvé sage de nous placer. ([Location 3680](https://readwise.io/to_kindle?action=open&asin=B008DMD5SQ&location=3680))
+- Ne comprenez-vous pas que j'ai l'impunité en horreur ([Location 3880](https://readwise.io/to_kindle?action=open&asin=B008DMD5SQ&location=3880))

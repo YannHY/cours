@@ -1,0 +1,255 @@
+# Le Comte de Monte-Cristo (XL) (French Edition)
+
+* Author: [Alexandre Dumas](https://www.amazon.com/Alexandre-Dumas/e/B00KAMUM9M/ref=dp_byline_cont_ebooks_1)
+* ASIN: B08P5MYZP1
+* ISBN: 2072895642
+* Pages: 1246 pages
+* Publication: November 27, 2020
+* Publisher: Editions Gallimard (November 27, 2020)
+* Reference: [[https://www.amazon.com/dp/B08P5MYZP1]]
+* [Kindle link](kindle://book?action=open&asin=B08P5MYZP1)
+
+
+---
+le langage et la mise en scène passent du drame au roman ; le rideau tombe sur le feuilleton quotidien. — location: [134](kindle://book?action=open&asin=B08P5MYZP1&location=134)
+
+---
+À Faust, il emprunte le savoir universel et la toute-puissance ; mais le Méphisto du comte est intérieur. — location: [147](kindle://book?action=open&asin=B08P5MYZP1&location=147)
+
+---
+Les Mystères de Paris viennent de connaître un triomphe en 1843. On a rapproché le comte de Monte-Cristo du prince Rodolphe des Mystères de Paris. Dans les deux romans, un aristocrate masqué joue un rôle de vengeur. Mais à Sue manquent le style, la poésie, la puissance de l’imagination : c’est un réaliste. — location: [150](kindle://book?action=open&asin=B08P5MYZP1&location=150)
+
+---
+Cette structure en cache d’autres, jusqu’à celle du mythe. C’est la carrière du héros épique. Un navire amène le héros à la première page, à la dernière un autre le remporte, comme le cygne de Lohengrin. — location: [204](kindle://book?action=open&asin=B08P5MYZP1&location=204)
+
+---
+Le caractère et les tourments de Dantès sont vus de l’intérieur, par nous, avec lui. Il n’en sera plus de même après son évasion, qui, dans le linceul de l’abbé Faria et les flots, est une mort et une résurrection. Pourvu de la puissance que donne un immense trésor, le comte de Monte-Cristo est, après quatorze ans, littéralement un autre homme, en qui l’on ne reconnaît plus le charmant Dantès. Et il est impénétrable, parce qu’il est vu de l’extérieur, par les autres personnages du roman. Ce remarquable changement technique est lié à un trait important du héros : le secret. — location: [217](kindle://book?action=open&asin=B08P5MYZP1&location=217)
+
+---
+L’ancienne fiancée d’Edmond, Mercédès, dit à son fils : « Croyez-vous que le comte soit ce qu’il paraît réellement être27 ? » Ni Danglars, ni Morcerf, ni Villefort ne sont ce qu’ils paraissent être. — location: [226](kindle://book?action=open&asin=B08P5MYZP1&location=226)
+
+---
+Le visage blafard, la main glacée : signes de la mort qu’il a subie, qu’il porte en lui que l’on croit mort, mort qu’il va donner à ses bourreaux. — location: [270](kindle://book?action=open&asin=B08P5MYZP1&location=270)
+
+---
+Proche de Satan, il assiste avec une joie sombre à une horrible exécution publique37 : tenant des propos sadiques38, « le comte était debout et triomphant comme le mauvais ange39 ». — location: [274](kindle://book?action=open&asin=B08P5MYZP1&location=274)
+
+---
+passe ainsi de la loi du talion à celle du pardon. — location: [319](kindle://book?action=open&asin=B08P5MYZP1&location=319)
+
+---
+La progression dramatique a ses sommets : les coups de théâtre. Dantès, d’abord cru mort, s’évade ; Mme de Villefort empoisonne la belle-mère de son mari, le mariage de Valentine de Villefort avec Franz d’Épinay échoue grâce à un paralytique muet. Les gendarmes viennent arrêter un futur marié, Dantès au début du roman, Andrea à la fin. — location: [499](kindle://book?action=open&asin=B08P5MYZP1&location=499)
+
+---
+Cherchez, dit l’Évangile, et vous trouverez4. — location: [1461](kindle://book?action=open&asin=B08P5MYZP1&location=1461)
+
+---
+Quand on pense, dit Caderousse en laissant tomber sa main sur le papier, qu’il y a là de quoi tuer un homme plus sûrement que si on l’attendait au coin d’un bois pour l’assassiner ! J’ai toujours eu plus peur d’une plume, d’une bouteille d’encre et d’une feuille de papier que d’une épée ou d’un pistolet. — location: [1522](kindle://book?action=open&asin=B08P5MYZP1&location=1522)
+
+---
+Danglars était un de ces hommes de calcul qui naissent avec une plume derrière l’oreille et un encrier à la place du cœur ; tout était pour lui dans ce monde soustraction ou — location: [2560](kindle://book?action=open&asin=B08P5MYZP1&location=2560)
+
+---
+multiplication, et un chiffre lui paraissait bien plus précieux qu’un homme, quand ce chiffre pouvait augmenter le total que cet homme pouvait diminuer. — location: [2561](kindle://book?action=open&asin=B08P5MYZP1&location=2561)
+
+---
+Canimus surdis14 — location: [2585](kindle://book?action=open&asin=B08P5MYZP1&location=2585)
+
+---
+l’air satisfait d’un homme qui croit avoir eu une idée lorsqu’il a commenté l’idée d’un autre. — location: [2595](kindle://book?action=open&asin=B08P5MYZP1&location=2595)
+
+---
+En politique, mon cher, vous le savez comme moi, il n’y a pas d’hommes, mais des idées ; pas de sentiments, mais des intérêts ; en politique, on ne tue pas un homme : on supprime un obstacle, voilà tout. — location: [2931](kindle://book?action=open&asin=B08P5MYZP1&location=2931)
+
+---
+le dévouement ; c’est ainsi qu’on appelle, en termes honnêtes, l’ambition qui espère. » — location: [2962](kindle://book?action=open&asin=B08P5MYZP1&location=2962)
+
+---
+ils ne sentent plus la supériorité de leur essence divine ; ils sont des hommes couronnés, voilà tout. — location: [3377](kindle://book?action=open&asin=B08P5MYZP1&location=3377)
+
+---
+Tantale volontaire, — location: [3503](kindle://book?action=open&asin=B08P5MYZP1&location=3503)
+
+---
+il était si faible que son esprit flottait comme une vapeur, et ne pouvait se condenser autour d’une pensée. — location: [3543](kindle://book?action=open&asin=B08P5MYZP1&location=3543)
+
+---
+Rien, peut-être : ce trop-plein de mon cerveau se fût évaporé en futilités. Il faut le malheur pour creuser certaines mines mystérieuses cachées dans l’intelligence humaine ; il faut la pression pour faire éclater la poudre. La captivité a réuni sur un seul point toutes mes facultés flottantes çà et là ; elles se sont heurtées dans un espace étroit ; et, vous le savez, du choc des nuages résulte l’électricité, de l’électricité l’éclair, de l’éclair la lumière. — location: [3997](kindle://book?action=open&asin=B08P5MYZP1&location=3997)
+
+---
+La foudre, tombée aux pieds de Dantès et lui creusant un abîme au fond duquel s’ouvrait l’enfer, lui eût produit un effet moins prompt, moins électrique, moins écrasant, que ces paroles inattendues ; — location: [4127](kindle://book?action=open&asin=B08P5MYZP1&location=4127)
+
+---
+apprendre n’est pas savoir ; il y a les sachants et les savants : c’est la mémoire qui fait les uns, c’est la philosophie qui fait les autres. — location: [4161](kindle://book?action=open&asin=B08P5MYZP1&location=4161)
+
+---
+l’histoire des nations et des grands hommes qui laissent de temps en temps derrière eux une de ces traces lumineuses qu’on appelle la gloire. — location: [4213](kindle://book?action=open&asin=B08P5MYZP1&location=4213)
+
+---
+Mercure, ce dieu des commerçants et des voleurs, classes que nous avons faites séparées, sinon distinctes, et que l’Antiquité, à ce qu’il paraît, rangeait dans la même catégorie. — location: [5195](kindle://book?action=open&asin=B08P5MYZP1&location=5195)
+
+---
+Au moment où Caderousse rentrait, la grande route dont nous avons parlé, et que parcouraient ses regards, était aussi nue et aussi solitaire que le désert à midi ; elle s’étendait, blanche et infinie, entre deux rangées d’arbres maigres, et l’on comprenait parfaitement qu’aucun voyageur, libre de choisir une autre heure du jour, ne se hasardât dans cet effroyable Sahara. Cependant, malgré toutes les probabilités, s’il fût resté à son poste, Caderousse aurait pu voir poindre, du côté de Bellegarde, un cavalier et un cheval venant de cette allure honnête et amicale qui indique les meilleures relations entre le cheval et le cavalier ; le cheval était un cheval hongre, marchant agréablement l’amble ; le cavalier était un prêtre vêtu de noir et coiffé d’un chapeau à trois cornes, malgré la chaleur dévorante du soleil alors à son midi ; ils n’allaient tous deux qu’à un trot fort raisonnable. — location: [5707](kindle://book?action=open&asin=B08P5MYZP1&location=5707)Narrateur omniscient 
+
+---
+Dans les affaires, monsieur, dit-il, on n’a point d’amis, vous le savez bien, on n’a que des correspondants. — location: [6386](kindle://book?action=open&asin=B08P5MYZP1&location=6386)
+
+---
+« Venez, mon ami, lui dit-il, — location: [6543](kindle://book?action=open&asin=B08P5MYZP1&location=6543)
+
+---
+C’est comme cette phrase turque de Molière, qui étonnait si fort le bourgeois gentilhomme par la quantité de choses qu’elle contenait — location: [7034](kindle://book?action=open&asin=B08P5MYZP1&location=7034)
+
+---
+Au marchand du bonheur, le monde reconnaissant. — location: [7248](kindle://book?action=open&asin=B08P5MYZP1&location=7248)
+
+---
+vomitorium — location: [8094](kindle://book?action=open&asin=B08P5MYZP1&location=8094)
+
+---
+Ce que disait le comte est donc vrai : ce qu’il y a de plus curieux dans la vie est le spectacle de la mort. — location: [8704](kindle://book?action=open&asin=B08P5MYZP1&location=8704)
+
+---
+un rendez-vous sous l’horloge, — location: [8866](kindle://book?action=open&asin=B08P5MYZP1&location=8866)
+
+---
+contadine ; — location: [10077](kindle://book?action=open&asin=B08P5MYZP1&location=10077)
+
+---
+et voilà que du jour où vous mettez le pied à Paris vous possédez d’instinct le plus grand mérite ou le plus grand défaut de nos excentriques Parisiens, c’est-à-dire que vous usurpez les vices que vous n’avez pas et que vous cachez les vertus que vous avez ! — location: [10110](kindle://book?action=open&asin=B08P5MYZP1&location=10110)
+
+---
+C’était une honnête figure de deuxième clerc de Paris, élevé à la dignité infranchissable de tabellion de la banlieue. — location: [10528](kindle://book?action=open&asin=B08P5MYZP1&location=10528)
+
+---
+“À tous maux il est deux remèdes : le temps et le silence”. — location: [11361](kindle://book?action=open&asin=B08P5MYZP1&location=11361)
+
+---
+cette langue sonore que le vieil Homère a mise dans la bouche de ses dieux. — location: [11393](kindle://book?action=open&asin=B08P5MYZP1&location=11393)
+
+---
+je vous demande la permission de vous faire voir ma galerie : tous tableaux anciens, tous tableaux de maîtres garantis comme tels ; je n’aime pas les modernes. — Vous avez raison, monsieur, car ils ont en général un grand défaut : c’est celui de n’avoir pas encore eu le temps de devenir des anciens. — location: [11608](kindle://book?action=open&asin=B08P5MYZP1&location=11608)
+
+---
+tu sais bien que ce n’est jamais moi qui te quitterai. Ce n’est point l’arbre qui quitte la fleur, c’est la fleur qui quitte l’arbre. — location: [12129](kindle://book?action=open&asin=B08P5MYZP1&location=12129)
+
+---
+À quoi donc voulez-vous que servent le temps, les encouragements, les médailles, les croix, les prix Montyon, si ce n’est pour mener la société vers sa plus grande perfection ? Or, l’homme ne sera parfait que lorsqu’il saura créer et détruire comme Dieu ; il sait déjà détruire, c’est la moitié du chemin de fait. — location: [12716](kindle://book?action=open&asin=B08P5MYZP1&location=12716)
+
+---
+Que dites-vous de la musique ? — De quelle musique ? — Mais de celle que vous venez d’entendre. — Je dis que c’est de fort belle musique pour de la musique composée par un compositeur humain, et chantée par des oiseaux à deux pieds et sans plumes, comme disait feu Diogène. — Ah çà ! mais, mon cher comte, il semblerait que vous pourriez entendre à votre caprice les sept chœurs du paradis ? — Mais c’est un peu de cela. Quand je veux entendre d’admirable musique, vicomte, de la musique comme jamais l’oreille mortelle n’en a entendu, je dors. — Eh bien ! mais vous êtes à merveille ici ; dormez, mon cher comte, dormez, l’Opéra n’a pas été inventé pour autre chose. — Non, en vérité, votre orchestre fait trop de bruit. Pour que je dorme du sommeil dont je vous parle, il me faut le calme et le silence, et puis une certaine préparation… — Ah ! le fameux hachisch ? — location: [13050](kindle://book?action=open&asin=B08P5MYZP1&location=13050)
+
+---
+mais, ma parole, au contraire, je ne dirais pas un mot de toutes ces aventures, c’est un roman que votre histoire, et le monde, qui adore les romans serrés entre deux couvertures de papier jaune, se défie étrangement de ceux qu’il voit reliés en vélin vivant, fussent-ils dorés comme vous pouvez l’être. — location: [13601](kindle://book?action=open&asin=B08P5MYZP1&location=13601)
+
+---
+la déesse Lucine, — location: [14962](kindle://book?action=open&asin=B08P5MYZP1&location=14962)
+
+---
+Un capitaliste chagrin est comme les comètes, il présage toujours quelque grand malheur au monde. — location: [15401](kindle://book?action=open&asin=B08P5MYZP1&location=15401)
+
+---
+À la bonne heure, je retrouve l’homme qui veut trouer l’amour-propre d’autrui à coups de hache, et qui crie quand on troue le sien avec une aiguille. — location: [15882](kindle://book?action=open&asin=B08P5MYZP1&location=15882)
+
+---
+pendant quatre jours nous n’avons parlé que de vous. — De moi ? En vérité vous me comblez ! — Écoutez, c’est le privilège de votre emploi, quand on est un problème vivant. — location: [15906](kindle://book?action=open&asin=B08P5MYZP1&location=15906)
+
+---
+rien n’effraye tant les vieillards que lorsque la mort quitte un instant leur côté pour aller frapper un autre vieillard. — location: [16464](kindle://book?action=open&asin=B08P5MYZP1&location=16464)
+
+---
+Je ne pense pas que ce soit le moment de s’abandonner à une douleur stérile : cela est bon pour ceux qui veulent souffrir à l’aise et boire leurs larmes à loisir. Il y a des gens comme cela, et Dieu sans doute leur tiendra compte au ciel de leur résignation sur la terre ; mais quiconque se sent la volonté de lutter ne perd pas un temps précieux et rend immédiatement à la fortune le coup qu’il en a reçu. — location: [16658](kindle://book?action=open&asin=B08P5MYZP1&location=16658)
+
+---
+Il a parié contre la mort, — location: [17196](kindle://book?action=open&asin=B08P5MYZP1&location=17196)
+
+---
+Ah ! c’est vrai, dit Monte-Cristo, j’ai appris cela ; mais, comme dit Clodius à Hamlet, c’est une loi de la nature : leurs pères étaient morts avant eux, et ils les avaient pleurés ; ils mourront avant leurs fils, et leurs fils les pleureront. — location: [17667](kindle://book?action=open&asin=B08P5MYZP1&location=17667)
+
+---
+Trois semaines ! s’écria Albert ; mais trois semaines, c’est trois siècles pendant lesquels je suis déshonoré ! — Si vous étiez resté mon ami, je vous eusse dit : “Patience, ami” ; vous vous êtes fait mon ennemi et je vous dis : “Que m’importe, à moi, monsieur !” — Eh bien, dans trois semaines, soit, dit Morcerf. Mais, songez-y, dans trois semaines il n’y aura plus ni délai, ni subterfuge qui puisse vous dispenser… — Monsieur Albert de Morcerf, dit Beauchamp en se levant à son tour, je ne puis vous jeter par les fenêtres que dans trois semaines, c’est-à-dire dans vingt-quatre jours, et vous, vous n’avez le droit de me pourfendre qu’à cette époque. Nous sommes le 29 du mois d’août, donc au 21 du mois de septembre. Jusque-là, croyez-moi, et c’est un conseil de gentilhomme que je vous donne, épargnons-nous les aboiements de deux dogues enchaînés à distance. » — location: [18539](kindle://book?action=open&asin=B08P5MYZP1&location=18539)
+
+---
+les cœurs enflammés par les obstacles se refroidissent dans la sécurité !), — location: [18587](kindle://book?action=open&asin=B08P5MYZP1&location=18587)
+
+---
+Ô homme ! murmura d’Avrigny ; le plus égoïste de tous les animaux, la plus personnelle de toutes les créatures, qui croit toujours que la terre tourne, que le soleil brille, que la mort fauche pour lui tout seul ; fourmi maudissant Dieu du haut d’un brin d’herbe ! — location: [18799](kindle://book?action=open&asin=B08P5MYZP1&location=18799)
+
+---
+Dame ! fit Caderousse, on ne peut pas toujours travailler, on n’est pas des chiens. — Heureusement pour les chiens, dit Monte-Cristo. — location: [19402](kindle://book?action=open&asin=B08P5MYZP1&location=19402)
+
+---
+Il y a des mots qui ferment la conversation comme une porte de fer. Le oui du comte était un de ces mots-là. — location: [19901](kindle://book?action=open&asin=B08P5MYZP1&location=19901)
+
+---
+Les blessures morales ont cela de particulier qu’elles se cachent, mais ne se referment pas ; toujours douloureuses, toujours prêtes à saigner quand on les touche, elles restent vives et béantes dans le cœur. — location: [20031](kindle://book?action=open&asin=B08P5MYZP1&location=20031)
+
+---
+Les hommes vraiment généreux sont toujours prêts à devenir compatissants, lorsque le malheur de leur ennemi dépasse les limites de leur haine. — location: [20040](kindle://book?action=open&asin=B08P5MYZP1&location=20040)
+
+---
+Quant au comte, il n’eût pas été plus anéanti, si la foudre, en tombant, eût ouvert un abîme à ses pieds. — location: [20157](kindle://book?action=open&asin=B08P5MYZP1&location=20157)
+
+---
+Vous le savez, ma mère, M. de Monte-Cristo est presque un homme d’Orient, et les Orientaux, pour conserver toute liberté de vengeance, ne mangent ni ne boivent jamais chez leurs ennemis. — location: [20411](kindle://book?action=open&asin=B08P5MYZP1&location=20411)
+
+---
+je ne veux point vous rendre esclave de votre piété filiale. » — location: [20429](kindle://book?action=open&asin=B08P5MYZP1&location=20429)
+
+---
+La foudre, tombée au milieu des spectateurs de cette scène inattendue, ne les eût pas plus étonnés que cette déclaration d’Albert. — location: [20923](kindle://book?action=open&asin=B08P5MYZP1&location=20923)
+
+---
+depuis hier j’ai appris ce que peut la volonté. Hélas ! ma mère, il y a des gens qui ont tant souffert, et qui non seulement ne sont pas morts, mais qui encore ont édifié une nouvelle fortune sur la ruine de toutes les promesses de bonheur que le ciel leur avait faites, sur les débris de toutes les espérances que Dieu leur avait données ! — location: [21022](kindle://book?action=open&asin=B08P5MYZP1&location=21022)
+
+---
+Certes, pour être moins expansive, la joie de Monte-Cristo n’était pas moins grande ; la joie pour les cœurs qui ont longtemps souffert est pareille à la rosée pour les terres desséchées par le soleil : cœur et terre absorbent cette pluie bienfaisante qui tombe sur eux, et rien n’en apparaît au-dehors. — location: [21127](kindle://book?action=open&asin=B08P5MYZP1&location=21127)
+
+---
+lazaret — location: [22466](kindle://book?action=open&asin=B08P5MYZP1&location=22466)
+
+---
+L’exaltation d’un devoir peut-être exagéré les avait soutenus jusque-là dans les sphères supérieures. L’exaltation est presque l’enthousiasme, et l’enthousiasme rend insensible aux choses de la terre. Mais l’enthousiasme s’était calmé, et il avait fallu redescendre peu à peu du pays des rêves au monde des réalités. Il fallait causer du positif, après avoir épuisé tout l’idéal. — location: [23832](kindle://book?action=open&asin=B08P5MYZP1&location=23832)
+
+---
+Eh bien ! il m’a dit que Benedetto, qu’on regarde comme un phénix de subtilité, comme un géant d’astuce, n’est qu’un filou très subalterne, très niais, et tout à fait indigne des expériences qu’on fera après sa mort sur ses organes phrénologiques. — location: [24331](kindle://book?action=open&asin=B08P5MYZP1&location=24331)
+
+---
+En vérité, disait Julie, ne dirait-on pas, Emmanuel, que tous ces gens riches, si heureux hier, avaient oublié, dans le calcul sur lequel ils avaient établi leur fortune, leur bonheur et leur considération, la part du mauvais génie, et que celui-ci, comme les méchantes fées des contes de Perrault qu’on a négligé d’inviter à quelque noce ou à quelque baptême, est apparu tout à coup pour se venger de ce fatal oubli ? — location: [24742](kindle://book?action=open&asin=B08P5MYZP1&location=24742)
+
+---
+Peppino s’arrêta devant une roche surmontée d’un épais buisson ; cette roche, entrouverte comme une paupière, livra passage au jeune homme, qui y disparut comme disparaissent dans leurs trappes les diables de nos féeries. — location: [25399](kindle://book?action=open&asin=B08P5MYZP1&location=25399)
+
+---
+Mais Danglars avait beau faire, et les secrets de la nature sont incompréhensibles, il y a bien de l’éloquence dans certaines invitations matérielles qu’adressent les plus grossières substances aux estomacs à jeun. — location: [25483](kindle://book?action=open&asin=B08P5MYZP1&location=25483)
+
+---
+Dites », s’écria Danglars avec une amertume qu’Harpagon seul eût pu noter dans le diapason de la voix humaine, « dites que vous voulez me dépouiller, — location: [25605](kindle://book?action=open&asin=B08P5MYZP1&location=25605)
+
+---
+Comme vous voudrez, dit-il ; la mort est toujours la mort, c’est-à-dire l’oubli, c’est-à-dire le repos, c’est-à-dire l’absence de la vie et par conséquent de la douleur. » — location: [25794](kindle://book?action=open&asin=B08P5MYZP1&location=25794)
+
+---
+Morrel avait tout regardé vaguement, et il était probable qu’il n’avait rien vu. — location: [25798](kindle://book?action=open&asin=B08P5MYZP1&location=25798)
+
+---
+je ne fais pas de la poésie à froid ; — location: [25834](kindle://book?action=open&asin=B08P5MYZP1&location=25834)
+
+---
+Dites à l’ange qui va veiller sur votre vie, Morrel, de prier quelquefois pour un homme qui, pareil à Satan, s’est cru un instant l’égal de Dieu, et qui a reconnu, avec toute l’humilité d’un chrétien, qu’aux mains de Dieu seul sont la suprême puissance et la sagesse infinie. Ces prières adouciront peut-être le remords qu’il emporte au fond de son cœur. — location: [25958](kindle://book?action=open&asin=B08P5MYZP1&location=25958)
+
+---
+il n’y a ni bonheur ni malheur en ce monde, il y a la comparaison d’un état à un autre, voilà tout. — location: [25962](kindle://book?action=open&asin=B08P5MYZP1&location=25962)
+
+---
+Si Dumas écrit incomparablement mieux que Maquet, dont les romans sont faibles, et d’ailleurs oubliés, ce dernier sait écrire dans le style de Dumas, le pasticher par avance : « Dumas peut écrire un feuilleton la veille, Maquet peut écrire le feuilleton du lendemain, on sera incapable de dire le nom de l’auteur8. » Mais, comme l’a écrit Maquet lui-même : « Sur le plan donné par Maquet, Dumas fait une amplification — location: [26170](kindle://book?action=open&asin=B08P5MYZP1&location=26170)
+
+---
+Hélas ! Dumas n’ayant pas honoré ses dettes à l’égard de son meilleur collaborateur, cette belle amitié finira par des procès, en 1858-1859, mais Maquet n’a jamais obtenu des tribunaux (ni ses héritiers en 1921) de cosigner les romans (alors qu’il l’a obtenu pour le théâtre) auxquels il avait collaboré. Le paradoxe est que Maquet est mort riche, et châtelain, son maître a dû vendre son château de Monte-Cristo et mourut misérable. — location: [26186](kindle://book?action=open&asin=B08P5MYZP1&location=26186)
+
+---
+Théophile Gautier consacra un feuilleton plein d’esprit et de gaîté à cette double représentation3. Après avoir décrit la salle, les habitudes prises d’une représentation à l’autre, après avoir rapporté des mots et tracé quelques portraits de spectateurs, il compare Monte-Cristo aux mystères du Moyen Âge, en partant de cette remarque que les personnages des mystères étaient connus de tous et faisaient pour ainsi dire partie de la vie quotidienne des spectateurs. « Maintenant – commente Gautier – on ne lit guère autre chose que les feuilletons d’Alexandre Dumas ; leurs longs développements, leurs suites et les suites des suites arrivent à se graver dans les mémoires populaires comme des faits contemporains… Les héros de Dumas ont remplacé pour nous les personnages légendaires ; et ce qui nous a surtout frappé dans la salle, c’est la parfaite et facile compréhension d’un drame qui ne serait pas sans obscurité pour quelqu’un qui n’aurait pas lu le livre ; mais ce quelqu’un n’existe pas et la pièce est comprise par tout le monde, de même qu’autrefois le mystère de La Passion était compris aisément des intelligences les plus bornées. » — location: [26243](kindle://book?action=open&asin=B08P5MYZP1&location=26243)
+
+---
+Nous avons déjà parlé de l’argent introduit dans le roman ou le drame, comme idéal, comme but à poursuivre. Autrefois, c’était la Toison d’or, la demeure inconnue d’Arthus dans la forêt de Brocéliande, le pourchas du Saint-Graal, qui symbolisaient l’inquiétude et l’aspiration humaines. Plus tard, une femme parée de toutes les grâces et de toutes les perfections et dont il fallait conquérir l’amour, a été le motif des poèmes, des drames et des romans. Maintenant, l’idéal qui émeut le plus vivement l’imagination des lecteurs, de quelque classe, de quelque sexe et de quelque âge qu’ils soient, est la conquête d’une somme énorme, fabuleuse, au-dessus des désirs et des espérances. Dix millions font de l’effet, mais vingt-cinq millions frappent un coup irrésistible… Si à la possession de richesses invraisemblables, vous joignez la puissance secrète de récompenser et de punir en dehors de l’action des lois, vous aurez la réalisation de l’idéal du roman moderne. » — location: [26252](kindle://book?action=open&asin=B08P5MYZP1&location=26252)
+

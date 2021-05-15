@@ -1,2 +1,0 @@
-# Barème de la rédaction
-

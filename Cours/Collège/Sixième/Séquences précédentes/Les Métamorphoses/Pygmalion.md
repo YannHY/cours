@@ -1,0 +1,20 @@
+# Pygmalion
+
+Pygmalion vivait seul, sans épouse, et, longtemps, aucune femme ne partagea sa couche.
+Il arriva cependant qu’un jour, guidé par un art merveilleux, il réalisa une statue d’ivoire éblouissante. Elle représentait une femme comme il n’en exista jamais, et l’artiste devint amoureux de son œuvre. On dirait même qu’elle respire ! Ébloui, le cœur brûlant d’amour, Pygmalion se prend de passion pour les charmes dont il est l’auteur. Plus d’une fois, il avance la main vers sa statue, il la touche. Est-ce un corps ? Est-ce de l’ivoire ? De l’ivoire ! Non, il ne peut pas, il ne veut pas l’accepter. Il lui donne des baisers, et s’imagine que ces baisers lui sont rendus. Tour à tour, il lui parle, il l’étreint. Il s’imagine que la chair cède à la pression de ses doigts. Il tremble qu’ils ne laissent leur empreinte sur les membres de la statue. Tantôt il la comble de caresses, tantôt il lui prodigue les dons chers aux jeunes filles : coquillages, pierres brillantes, petits oiseaux, fleurs de mille couleurs, lis, larmes tombées du tronc des Héliades (1). Ce n’est pas tout, il la revêt de tissus précieux. À ses doigts, étincellent des diamants ; à son cou, de superbes colliers ; à ses oreilles, de légers anneaux, et sur sa gorge, des chaînes d’or qui pendent. Tout lui convient, et nue, elle semble encore plus belle. Il la couche sur des tapis de pourpre. Il l’appelle son épouse. Il la contemple étendue sur un duvet moelleux. Il croit qu’elle y est sensible.
+C’était la fête de Vénus. Chypre tout entière célébrait cette fameuse journée. L’or éclate sur les cornes recourbées des génisses sacrifiées pour la déesse. L’encens fume. Pygmalion dépose son offrande sur l’autel, et debout, d’une voix timide : «Grands dieux, si tout vous est possible, donnez-moi une épouse… (il n’ose pas nommer la vierge d’ivoire) semblable à ma statue d’ivoire ».
+Vénus l’entend. La blonde déesse, présente elle-même à cette fête, comprend les vœux qu’il a formés, et lui envoie un heureux présage : trois fois, une flamme  brillante s’élève vers le ciel. Pygmalion revient, il vole à l’objet de sa flamme imaginaire. Il se penche sur le lit, il couvre la statue de baisers. Dieux ! ses lèvres sont tièdes. Il approche de nouveau la bouche. D’une main tremblante, il interroge le cœur : l’ivoire ému s’attendrit, il a perdu sa dureté première. Il cède sous les doigts. Pygmalion s’étonne. Il se réjouit timidement de son bonheur, il craint de se tromper. Sa main presse et presse encore l’objet de son amour. Elle existe. La veine s’enfle et repousse le doigt qui la cherche. Alors, seulement alors, Pygmalion, transporté de joie, rend grâces à Vénus. Enfin ce n’est plus sur une froide bouche que sa bouche se pose. La jeune femme sent les baisers qu’il lui donne. Elle les sent, car elle a rougi. Ses yeux timides s’ouvrent à la lumière, et d’abord elle voit le ciel et son amant.
+Quand la lune eut rempli neuf fois son croissant, Paphos vit le jour et donna son nom à l’île sur laquelle il naquit.
+
+http://fr.wikisource.org/wiki/Métamorphoses/Livre_10
+
+http://gallica.bnf.fr/ark:/12148/bpt6k6138851t/f400.image.r=métamorphoses%20ovide.langFR
+
+http://gallica.bnf.fr/ark:/12148/btv1b8617144h/f281.image.r=métamorphoses%20ovide.langFR
+
+Notes :
+1 - Larmes tombées du tronc des Héliades : l’ambre qui coule des peupliers. http://fr.wikipedia.org/wiki/Héliades
+
+## Tags
+
+#Texte #Collège 

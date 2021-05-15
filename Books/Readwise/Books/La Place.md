@@ -1,0 +1,60 @@
+# La Place
+
+![](https://m.media-amazon.com/images/I/81PTm5ifLXL._SY160.jpg)
+
+### Metadata
+
+- Author: Annie Ernaux
+- Full Title: La Place
+- Category: #books
+
+### Highlights
+
+- place ([Location 53](https://readwise.io/to_kindle?action=open&asin=B00B8QRQU2&location=53))
+- déplacé ([Location 82](https://readwise.io/to_kindle?action=open&asin=B00B8QRQU2&location=82))
+- haut placées ([Location 85](https://readwise.io/to_kindle?action=open&asin=B00B8QRQU2&location=85))
+- Une distance de classe, mais particulière, qui n'a pas de nom. Comme de l'amour séparé. ([Location 112](https://readwise.io/to_kindle?action=open&asin=B00B8QRQU2&location=112))
+- je n'ai pas le droit de prendre d'abord le parti de l'art, ([Location 116](https://readwise.io/to_kindle?action=open&asin=B00B8QRQU2&location=116))
+- Aucune poésie du souvenir, ([Location 119](https://readwise.io/to_kindle?action=open&asin=B00B8QRQU2&location=119))
+- L'écriture plate ([Location 119](https://readwise.io/to_kindle?action=open&asin=B00B8QRQU2&location=119))
+- L'histoire commence quelques mois avant le vingtième siècle, ([Location 121](https://readwise.io/to_kindle?action=open&asin=B00B8QRQU2&location=121))
+- Ceux qui n'avaient pas de terre se louaient ([Location 122](https://readwise.io/to_kindle?action=open&asin=B00B8QRQU2&location=122))
+- Elle était propre sur elle et dans son ménage, qualité la plus importante au village, où les voisins surveillaient la blancheur et l'état du linge en train de sécher sur la corde et savaient si le seau de nuit était vidé tous les jours. Bien que les maisons soient isolées les unes des autres par des haies et des talus, rien n'échappait au regard des gens, ni l'heure à laquelle l'homme était rentré du bistrot, ni la semaine où les serviettes hygiéniques auraient dû se balancer au vent. ([Location 135](https://readwise.io/to_kindle?action=open&asin=B00B8QRQU2&location=135))
+- Son cadre à lui c'est le Moyen Âge. ([Location 154](https://readwise.io/to_kindle?action=open&asin=B00B8QRQU2&location=154))
+- Le sublime à l'usage des enfants pauvres ([Location 169](https://readwise.io/to_kindle?action=open&asin=B00B8QRQU2&location=169))
+- sauvée de sa place. ([Location 179](https://readwise.io/to_kindle?action=open&asin=B00B8QRQU2&location=179))
+- Ce serait facile de faire quelque chose dans ce genre. ([Location 189](https://readwise.io/to_kindle?action=open&asin=B00B8QRQU2&location=189))
+- Tout le monde lisait à haute voix le texte sous l'image, beaucoup n'avaient pas le temps d'arriver au bout. ([Location 193](https://readwise.io/to_kindle?action=open&asin=B00B8QRQU2&location=193))
+- un cornet de miettes de gâteaux chez le pâtissier. ([Location 214](https://readwise.io/to_kindle?action=open&asin=B00B8QRQU2&location=214))
+- une place ([Location 232](https://readwise.io/to_kindle?action=open&asin=B00B8QRQU2&location=232))
+- retomber ouvriers. ([Location 238](https://readwise.io/to_kindle?action=open&asin=B00B8QRQU2&location=238))
+- Pour faire face, surtout pas de désirs. ([Location 252](https://readwise.io/to_kindle?action=open&asin=B00B8QRQU2&location=252))
+- Des épaisseurs de silence me tombaient dessus. ([Location 257](https://readwise.io/to_kindle?action=open&asin=B00B8QRQU2&location=257))
+- Mi-commerçant, mi-ouvrier, des deux bords à la fois, voué donc à la solitude et à la méfiance. ([Location 263](https://readwise.io/to_kindle?action=open&asin=B00B8QRQU2&location=263))
+- Ils ne sont plus ici du bord le plus humilié. ([Location 269](https://readwise.io/to_kindle?action=open&asin=B00B8QRQU2&location=269))
+- gobergée. ([Location 283](https://readwise.io/to_kindle?action=open&asin=B00B8QRQU2&location=283))
+- Il cherchait à tenir sa place. Paraître plus commerçant qu'ouvrier. ([Location 285](https://readwise.io/to_kindle?action=open&asin=B00B8QRQU2&location=285))
+- L'épure tend à prendre toute la place, ([Location 288](https://readwise.io/to_kindle?action=open&asin=B00B8QRQU2&location=288))
+- place ([Location 298](https://readwise.io/to_kindle?action=open&asin=B00B8QRQU2&location=298))
+- Voie étroite, en écrivant, entre la réhabilitation d'un mode de vie considéré comme inférieur, et la dénonciation de l'aliénation qui l'accompagne. ([Location 358](https://readwise.io/to_kindle?action=open&asin=B00B8QRQU2&location=358))
+- haut placé ([Location 422](https://readwise.io/to_kindle?action=open&asin=B00B8QRQU2&location=422))
+- Toujours parler avec précaution, peur indicible du mot de travers, d'aussi mauvais effet que de lâcher un pet. ([Location 428](https://readwise.io/to_kindle?action=open&asin=B00B8QRQU2&location=428))
+- Sûrement pas ([Location 430](https://readwise.io/to_kindle?action=open&asin=B00B8QRQU2&location=430))
+- Faire paysan signifie qu'on n'est pas évolué, toujours en retard sur ce qui se fait, en vêtements, langage, allure. ([Location 481](https://readwise.io/to_kindle?action=open&asin=B00B8QRQU2&location=481))
+- une mémoire humiliée ([Location 504](https://readwise.io/to_kindle?action=open&asin=B00B8QRQU2&location=504))
+- diorama, ([Location 541](https://readwise.io/to_kindle?action=open&asin=B00B8QRQU2&location=541))
+- J'émigre doucement vers le monde petit-bourgeois, ([Location 554](https://readwise.io/to_kindle?action=open&asin=B00B8QRQU2&location=554))
+- Le bonheur est un dieu qui marche les mains vides »... (Henri de Régnier). ([Location 560](https://readwise.io/to_kindle?action=open&asin=B00B8QRQU2&location=560))
+- Mais que j'aime me casser la tête lui paraissait suspect. Une absence de vie à la fleur de l'âge. ([Location 568](https://readwise.io/to_kindle?action=open&asin=B00B8QRQU2&location=568))
+- J'écris peut-être parce qu'on n'avait plus rien à se dire. ([Location 594](https://readwise.io/to_kindle?action=open&asin=B00B8QRQU2&location=594))
+- ma place ([Location 634](https://readwise.io/to_kindle?action=open&asin=B00B8QRQU2&location=634))
+- Ils auraient ressenti toute recherche de style comme une manière de les tenir à distance. ([Location 640](https://readwise.io/to_kindle?action=open&asin=B00B8QRQU2&location=640))
+- Instantané de la mémoire. ([Location 687](https://readwise.io/to_kindle?action=open&asin=B00B8QRQU2&location=687))
+- Je me sentais séparée de moi-même. ([Location 705](https://readwise.io/to_kindle?action=open&asin=B00B8QRQU2&location=705))
+- La mémoire résiste. ([Location 723](https://readwise.io/to_kindle?action=open&asin=B00B8QRQU2&location=723))
+- je ne retrouve que moi-même, ([Location 724](https://readwise.io/to_kindle?action=open&asin=B00B8QRQU2&location=724))
+- J'ai retrouvé dans des êtres anonymes rencontrés n'importe où, porteurs à leur insu des signes de force ou d'humiliation, la réalité oubliée de sa condition. ([Location 726](https://readwise.io/to_kindle?action=open&asin=B00B8QRQU2&location=726))
+- Ils ont cherché de quel côté il était. ([Location 739](https://readwise.io/to_kindle?action=open&asin=B00B8QRQU2&location=739))
+- Un beau soir calme, un moment qui ressemblait à un rachat. ([Location 743](https://readwise.io/to_kindle?action=open&asin=B00B8QRQU2&location=743))
+- J'ai fini de mettre au jour l'héritage que j'ai dû déposer au seuil du monde bourgeois et cultivé quand j'y suis entrée. ([Location 810](https://readwise.io/to_kindle?action=open&asin=B00B8QRQU2&location=810))
+- Peut-être sa plus grande fierté, ou même, la justification de son existence : que j'appartienne au monde qui l'avait dédaigné. ([Location 821](https://readwise.io/to_kindle?action=open&asin=B00B8QRQU2&location=821))

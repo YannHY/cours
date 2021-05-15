@@ -1,0 +1,105 @@
+# L'Alphabet expliqué aux enfants (EXPLIQUE A...) (French Edition)
+
+* Author: [Marc-Alain Ouaknin and Jean-Louis Schlegel](https://www.amazon.com/Marc-Alain-Ouaknin/e/B001K1U9YK/ref=dp_byline_cont_ebooks_1)
+* ASIN: B00I5NOLR2
+* ISBN: 2021035778
+* Pages: 118 pages
+* Publication: January 31, 2014
+* Publisher: Le Seuil (January 31, 2014)
+* Reference: [[https://www.amazon.com/dp/B00I5NOLR2]]
+* [Kindle link](kindle://book?action=open&asin=B00I5NOLR2)
+
+
+---
+On l’appelle « phénicienne ». Mais, dans sa propre langue, cette civilisation, qui regroupait plusieurs peuples différents, utilisait le terme « cananéenne ». — location: [150](kindle://book?action=open&asin=B00I5NOLR2&location=150)
+
+---
+contrairement à ce que tu entendras ou liras souvent, ce ne sont pas les Phéniciens qui ont inventé l’alphabet. — location: [165](kindle://book?action=open&asin=B00I5NOLR2&location=165)
+
+---
+Au VIIIe siècle avant notre ère, pour les échanges commerciaux, les Grecs empruntèrent cet alphabet aux Phéniciens ; il s’est ensuite transmis aux Étrusques, le peuple qui était présent en Italie avant les Latins. — location: [174](kindle://book?action=open&asin=B00I5NOLR2&location=174)
+
+---
+Cette première écriture, qui notait le grec ancien ou une forme ancienne du grec, a été retrouvée en Crète. Et comme dans toutes les civilisations que nous avons rencontrées, elle était « pictographique », c’est-à-dire formée d’images. — location: [186](kindle://book?action=open&asin=B00I5NOLR2&location=186)
+
+---
+Les fouilles de Cnossos mirent au jour quelque trois mille tablettes d’argile portant des inscriptions en deux écritures, en plus des écritures pictographiques ou hiéroglyphes crétois. On appela ces écritures « linéaire A » (écriture « minoenne ») et « linéaire B » (dialecte du « grec primitif »). — location: [195](kindle://book?action=open&asin=B00I5NOLR2&location=195)
+
+---
+J’aimerais que tu retiennes cette idée : l’invention de l’alphabet est le fruit de la rencontre d’au moins deux civilisations, la cananéenne et l’égyptienne. — location: [208](kindle://book?action=open&asin=B00I5NOLR2&location=208)
+
+---
+En effet, la région de Canaan est située entre les deux grandes civilisations de l’époque, l’Égypte et la Mésopotamie, comme un trait d’union entre elles ; — location: [217](kindle://book?action=open&asin=B00I5NOLR2&location=217)
+
+---
+alphabet protosinaïtique ». — location: [231](kindle://book?action=open&asin=B00I5NOLR2&location=231)
+
+---
+alphabet protocananéen », — location: [233](kindle://book?action=open&asin=B00I5NOLR2&location=233)
+
+---
+alphabet cananéen », — location: [234](kindle://book?action=open&asin=B00I5NOLR2&location=234)
+
+---
+on peut dire qu’il est le « conservatoire » du cananéen/phénicien — location: [254](kindle://book?action=open&asin=B00I5NOLR2&location=254)
+
+---
+En fait, au moment où les Égyptiens inventèrent leur première écriture, trois mille cinq cents ans avant notre ère, les Mésopotamiens inventèrent aussi la leur. Ce qui donna chez les premiers les « hiéroglyphes » et chez les seconds l’écriture dite « cunéiforme4 — location: [258](kindle://book?action=open&asin=B00I5NOLR2&location=258)
+
+---
+la naissance de l’écriture est un phénomène si bouleversant pour l’homme et son devenir que les savants la considèrent comme la coupure même entre la préhistoire et l’histoire proprement dite. — location: [301](kindle://book?action=open&asin=B00I5NOLR2&location=301)
+
+---
+un alphabet consiste en peu de signes, mais qu’on peut combiner selon certaines règles pour écrire des dizaines de milliers de mots. Tandis qu’une écriture peut compter des milliers de signes ou de dessins différents, qui ne sont pas un alphabet. — location: [314](kindle://book?action=open&asin=B00I5NOLR2&location=314)
+
+---
+Attention ! Il ne faut pas dire qu’il n’y a pas de voyelles, mais que les voyelles ne sont pas « notées ». S’il n’y avait pas de voyelles, on ne pourrait pas parler ! L’alphabet écrit cananéen est consonantique, mais la langue cananéenne a des consonnes et des voyelles ! — location: [361](kindle://book?action=open&asin=B00I5NOLR2&location=361)
+
+---
+Les juifs, dispersés après la destruction du deuxième Temple (en 70 de notre ère), adoptèrent aussi cet alphabet carré (ktav achouri/assyrien) pour écrire l’arabe, l’espagnol ou l’allemand, qu’ils parlaient dans des versions judéo-arabe, judéo-espagnole et judéo-allemande ; cette dernière est bien connue sous le nom de langue yiddish. — location: [387](kindle://book?action=open&asin=B00I5NOLR2&location=387)
+
+---
+bicaméral ». — location: [568](kindle://book?action=open&asin=B00I5NOLR2&location=568)
+
+---
+Ce sont les « polices » de caractères, qu’il ne faut pas confondre avec les « fontes », qui constituent les variantes de la même police de caractères : ainsi le gras, l’italique, les « corps » (10, 12, 14…). — location: [581](kindle://book?action=open&asin=B00I5NOLR2&location=581)
+
+---
+le mot « alphabet » que nous utilisons porte la mémoire du nom des lettres quand elles étaient encore appelées alpha (en grec) et bèt (en grec et en cananéen/phénicien). — location: [609](kindle://book?action=open&asin=B00I5NOLR2&location=609)
+
+---
+Les historiens et les philologues, c’est-à-dire les spécialistes de la filiation des langues, pensent que ce nom, Ευρώπη en grec ancien, est formé de ευρύς (« large ») et ωψ (« œil ») : Europè serait la fille « aux grands yeux ». Aujourd’hui, les Grecs prononcent Évropi. Mais certains chercheurs pensent que c’est un mot et un nom d’origine cananéenne/phénicienne, et qu’il signifie le « soir », le « couchant », « là où le soleil se couche », c’est-à-dire l’« ouest » et l’« occident ». C’est donc le nom d’une direction, celle que les marins phéniciens suivaient pour leur commerce tout autour de la Méditerranée. — location: [684](kindle://book?action=open&asin=B00I5NOLR2&location=684)
+
+---
+circulation des femmes ». — location: [692](kindle://book?action=open&asin=B00I5NOLR2&location=692)
+
+---
+Les deux lettres aleph et bèt associées écrivent un mot qui, en cananéen/phénicien et dans toutes les langues qui appartiennent à la famille des langues sémitiques du Nord-Ouest, signifie « père » ! Ainsi, à chaque fois que nous disons « alphabet », nous disons « père », et à chaque fois que nous disons « père », nous disons « alphabet » ! — location: [726](kindle://book?action=open&asin=B00I5NOLR2&location=726)
+
+---
+Ainsi aleph signifie « taureau » et « apprendre », lamèd a le sens de « crochet » du bouvier et aussi… d’« apprendre » ! — location: [805](kindle://book?action=open&asin=B00I5NOLR2&location=805)
+
+---
+Ces derniers témoignent d’ailleurs de la structure en deux colonnes, puisqu’ils étaient disposés sur deux tables de cinq commandements chacune (la forme arrondie des deux tables, telle qu’on la voit souvent, n’est pas du tout dans la Bible, mais se retrouve sur de très nombreuses stèles égyptiennes ou autres). De plus, les dix commandements portent aussi la trace de cet alphabet en deux parties : en effet, la première table de la Loi commence par un aleph, première lettre du mot anokhi/« je suis »1, et la seconde table par un lamèd, première lettre du mot lo/« ne… pas »2. — location: [820](kindle://book?action=open&asin=B00I5NOLR2&location=820)
+
+---
+La seconde commence par LMN et il semble que ces trois lettres, dans leur prononciation d’èl, èm, èn, ne sont pas étrangères au mot « élément », — location: [829](kindle://book?action=open&asin=B00I5NOLR2&location=829)
+
+---
+mais ici c’est le nom des lettres qui appuie cette hypothèse. Dans la première série des 1 + 10 premières lettres, la dernière lettre se dit kaph, un mot qui signifie « paume de la main » et correspond au moment où les paumes apparaissent ouvertes entièrement pour que l’élève les montre au maître. — location: [859](kindle://book?action=open&asin=B00I5NOLR2&location=859)
+
+---
+les lettres sont encore des images et elles restent d’ailleurs en majorité inspirées directement des hiéroglyphes. — location: [889](kindle://book?action=open&asin=B00I5NOLR2&location=889)
+
+---
+On peut trouver un indice que ton intuition est juste car la onzième lettre de la première colonne, celle qui fait la transition avec la seconde colonne, est justement cette lettre kaf qui signifie « plateau de la balance », comme je viens de te le dire ! Les deux colonnes sont en équilibre comme deux plateaux d’une même balance. — location: [1274](kindle://book?action=open&asin=B00I5NOLR2&location=1274)
+
+---
+Certains chercheurs disent que les « Alpes » sont directement dérivées du mot aleph/« taureau » car c’est le lieu de pâturage des bovins. — location: [1376](kindle://book?action=open&asin=B00I5NOLR2&location=1376)
+
+---
+Le « mont Liban » est littéralement un « mont blanc », comme son cousin français. — location: [1378](kindle://book?action=open&asin=B00I5NOLR2&location=1378)
+
+---
+L’aleph/A comme première lettre de l’alphabet nous invite à l’étude, à l’apprentissage des choses, à leur organisation, à tout ce que nous avons dit précédemment. Mais que ces termes soient portés par un mot qui désigne un animal ruminant a aussi une signification intéressante. Celle de la rumination du sens, de la reprise, toujours et encore, des lectures, pour empêcher que les signes meurent sous le poids d’une vérité définitive. — location: [1395](kindle://book?action=open&asin=B00I5NOLR2&location=1395)
+

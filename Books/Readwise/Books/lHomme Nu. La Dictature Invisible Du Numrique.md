@@ -1,0 +1,115 @@
+# l'Homme Nu. La Dictature Invisible Du Numérique
+
+![](https://m.media-amazon.com/images/I/71sKCGL6KZL._SY160.jpg)
+
+### Metadata
+
+- Author: Marc DUGAIN and Christophe LABBE
+- Full Title: l'Homme Nu. La Dictature Invisible Du Numérique
+- Category: #books
+
+### Highlights
+
+- Malgré tout, sous François Hollande, l’appareil d’État s’est entêté à renforcer le renseignement électronique au détriment du renseignement humain et de l’infiltration des réseaux terroristes. Chaque échec devient un argument – voire un prétexte – à agrandir toujours plus le filet, à en resserrer les mailles sans vraiment se préoccuper de la qualité de la pêche. ([Location 148](https://readwise.io/to_kindle?action=open&asin=B01CKJZ2DI&location=148))
+- Sans les réseaux sociaux, Daech n’aurait pas recruté, comme il l’a fait, des milliers de combattants aux quatre coins du monde, en utilisant le pouvoir hypnotique d’Internet pour aimanter en Occident des jeunes en perte de repères, ([Location 170](https://readwise.io/to_kindle?action=open&asin=B01CKJZ2DI&location=170))
+- une transaction « gagnant/gagnant ». ([Location 176](https://readwise.io/to_kindle?action=open&asin=B01CKJZ2DI&location=176))
+- Depuis 2010, l’humanité produit autant d’informations en deux jours qu’elle ne l’a fait depuis l’invention de l’écriture il y a cinq mille trois cents ans. 98 % de ces informations sont aujourd’hui consignées sous forme numérique. ([Location 199](https://readwise.io/to_kindle?action=open&asin=B01CKJZ2DI&location=199))
+- Ce gisement constitue le nouvel or noir. ([Location 205](https://readwise.io/to_kindle?action=open&asin=B01CKJZ2DI&location=205))
+- Ceux auxquels l’État américain a délégué l’exploitation, le stockage et le raffinage des gisements numériques. ([Location 221](https://readwise.io/to_kindle?action=open&asin=B01CKJZ2DI&location=221))
+    - **Note:** ???
+- l’État dans sa forme actuelle est l’obstacle à abattre, leur crainte, ce n’est pas Big Brother, mais Big Father. ([Location 255](https://readwise.io/to_kindle?action=open&asin=B01CKJZ2DI&location=255))
+- Mais sans que l’on s’en rende compte, la numérisation du monde a déclenché, elle, une extraction du réel. ([Location 342](https://readwise.io/to_kindle?action=open&asin=B01CKJZ2DI&location=342))
+    - **Note:** Rapport avec le CERN ?
+- Quand le fantôme devient réel, c’est le réel qui devient fantomatique ([Location 345](https://readwise.io/to_kindle?action=open&asin=B01CKJZ2DI&location=345))
+- Ce qui prime est donc l’hologramme de la vie. ([Location 349](https://readwise.io/to_kindle?action=open&asin=B01CKJZ2DI&location=349))
+    - **Note:** Mais c'est faux !
+- Pourquoi perdre du temps à faire la queue pour entrer dans un musée, puisque l’Art Projet de Google propose d’accéder, en un seul clic, à 40 000 chefs-d’œuvre numérisés en haute résolution ([Location 353](https://readwise.io/to_kindle?action=open&asin=B01CKJZ2DI&location=353))
+    - **Note:** N'importe quoi
+- Quand on va sur le détail d’une toile, on découvre que ce n’est pas prédictif, modélisable, ce n’est pas du pixel basé sur des 0 et des 1. Le musée virtuel de Google, ce n’est pas de vrais tableaux, on peut certes zoomer de façon incroyable jusqu’au cent cinquantième coup de peinture mais cela n’a pas de cohérence », déplorait ainsi le rédacteur en chef de Beaux Arts magazine, ([Location 359](https://readwise.io/to_kindle?action=open&asin=B01CKJZ2DI&location=359))
+    - **Note:** ???
+- La virtualisation de la société grignote peu à peu notre réel. ([Location 376](https://readwise.io/to_kindle?action=open&asin=B01CKJZ2DI&location=376))
+    - **Note:** Non
+- La réalité est une illusion. ([Location 383](https://readwise.io/to_kindle?action=open&asin=B01CKJZ2DI&location=383))
+    - **Note:** Ce qui est vrai
+- une sorte de pacte avec le diable ([Location 394](https://readwise.io/to_kindle?action=open&asin=B01CKJZ2DI&location=394))
+    - **Note:** Bah voyons
+- Notre double numérique est simplifié, il subit une opération de réduction afin de pouvoir être avalé et digéré par la Matrice. ([Location 405](https://readwise.io/to_kindle?action=open&asin=B01CKJZ2DI&location=405))
+    - **Note:** On est donc en pleine fiction
+- création d’un droit des algorithmes ([Location 419](https://readwise.io/to_kindle?action=open&asin=B01CKJZ2DI&location=419))
+- Contrairement aux apparences, le réseau n’a pas fait naître une nouvelle solidarité. ([Location 431](https://readwise.io/to_kindle?action=open&asin=B01CKJZ2DI&location=431))
+    - **Note:** ???
+- Petit à petit l’individu se recroqueville, il s’effondre sur lui-même comme un trou noir où se désintégrerait l’empathie. Avec un effet monstrueux. Nous risquons de perdre une part de notre humanité. ([Location 438](https://readwise.io/to_kindle?action=open&asin=B01CKJZ2DI&location=438))
+    - **Note:** N'importe quoi
+- Déjà nombre de professeurs remarquent l’isolement d’élèves toujours plus nombreux qui déambulent dans un monde imaginaire, ([Location 443](https://readwise.io/to_kindle?action=open&asin=B01CKJZ2DI&location=443))
+    - **Note:** Source ?
+- On le constate de plus en plus souvent aux États-Unis avec ces carnages à répétition, perpétrés par des « enfermés » sur eux-mêmes. ([Location 448](https://readwise.io/to_kindle?action=open&asin=B01CKJZ2DI&location=448))
+    - **Note:** Je croyais que c'étaient les armes qui causaient des morts, pas le numérique.
+- Un peuple prêt à sacrifier un peu de liberté pour un peu de sécurité ne mérite ni l’une ni l’autre, et finit par perdre les deux. ([Location 461](https://readwise.io/to_kindle?action=open&asin=B01CKJZ2DI&location=461))
+    - **Note:** Toutes ces citations qui fleurissent sur le web…
+- la Matrice ([Location 503](https://readwise.io/to_kindle?action=open&asin=B01CKJZ2DI&location=503))
+    - **Note:** Sérieusement…
+- doit accepter ([Location 524](https://readwise.io/to_kindle?action=open&asin=B01CKJZ2DI&location=524))
+    - **Note:** Non. Les révélations de Snowden ont justement créé un scandale.
+- L’assassinat de JFK en 1963 en est une conséquence directe. Le fait qu’il soit le fruit d’une conjuration de services secrets, d’intérêts militaires et accessoirement mafieux est quasiment acquis aujourd’hui. Mais, en dépit du temps passé, l’omertà continue sur cette affaire, pour une raison simple : elle apporte la preuve de la limite de la démocratie en Amérique, dont les intérêts sont au-dessus des institutions. ([Location 541](https://readwise.io/to_kindle?action=open&asin=B01CKJZ2DI&location=541))
+    - **Note:** Eh ben…
+- La Souveraineté numérique, ([Location 569](https://readwise.io/to_kindle?action=open&asin=B01CKJZ2DI&location=569))
+- Google a, dans ce cadre, surveillé entre 1 000 et 2 000 comptes par an à la demande des agences gouvernementales. ([Location 575](https://readwise.io/to_kindle?action=open&asin=B01CKJZ2DI&location=575))
+    - **Note:** Google avait-il le choix ?
+- Certains croient savoir pourquoi Apple a fabriqué des smartphones dont la batterie est très compliquée à retirer ([Location 577](https://readwise.io/to_kindle?action=open&asin=B01CKJZ2DI&location=577))
+    - **Note:** "certains"… Complot…
+- Certains ([Location 585](https://readwise.io/to_kindle?action=open&asin=B01CKJZ2DI&location=585))
+    - **Note:** Encore !
+- diversion en mettant en scène de pseudo-bras de fer avec l’appareil sécuritaire américain, ([Location 594](https://readwise.io/to_kindle?action=open&asin=B01CKJZ2DI&location=594))
+- peut-être ([Location 598](https://readwise.io/to_kindle?action=open&asin=B01CKJZ2DI&location=598))
+- Vinton Cerf, ([Location 671](https://readwise.io/to_kindle?action=open&asin=B01CKJZ2DI&location=671))
+- Pour reprendre l’analogie de Frank Pasquale, les big data sont, avec les agences de renseignements qu’elles alimentent, comme le roi de Lydie dans le deuxième livre de La République de Platon : elles ont récupéré l’anneau de Gygès qui permet de devenir invisible et ainsi de voir sans être vu soi-même. ([Location 786](https://readwise.io/to_kindle?action=open&asin=B01CKJZ2DI&location=786))
+- Mieux qu’un conseil municipal encombré par le débat politique, la cité radieuse s’autogère sans idéologie. ([Location 869](https://readwise.io/to_kindle?action=open&asin=B01CKJZ2DI&location=869))
+    - **Note:** Quelle surprenante vision de la ville connectée !
+- La marque de vêtements Gémo commercialise déjà pour les petits des manteaux avec traceur GPS intégré. ([Location 880](https://readwise.io/to_kindle?action=open&asin=B01CKJZ2DI&location=880))
+- Que dire de ce bracelet baptisé « Pavlok » (sic) proposé par une start-up américaine ? Connecté à votre smartphone, il vous envoie une décharge électrique plus ou moins forte si vous n’atteignez pas le but que vous vous êtes fixé, comme arrêter de fumer, de se ronger les ongles ou de se coucher tard. ([Location 914](https://readwise.io/to_kindle?action=open&asin=B01CKJZ2DI&location=914))
+    - **Note:** Comme le GPS de Gemo, ça n'a pas marché.
+- L’État américain s’est adapté, en opérant un transfert de pouvoir du politique vers les Gafa. ([Location 1020](https://readwise.io/to_kindle?action=open&asin=B01CKJZ2DI&location=1020))
+    - **Note:** A vérifier mais c'est sujet à caution
+- ses dirigeants n’attendent de la classe politique qu’un laisser-faire absolu ([Location 1023](https://readwise.io/to_kindle?action=open&asin=B01CKJZ2DI&location=1023))
+    - **Note:** Mais ce n'est pas ce qui se passe
+- En 2014, grâce à d’habiles montages financiers, Facebook a versé au fisc français 319 167 euros pour des bénéfices estimés à 266 millions d’euros, soit 109 fois moins que l’impôt dont elle aurait dû s’acquitter ([Location 1025](https://readwise.io/to_kindle?action=open&asin=B01CKJZ2DI&location=1025))
+- Margaret O’Mara, spécialiste de l’industrie de la hi-Tech américaine ([Location 1046](https://readwise.io/to_kindle?action=open&asin=B01CKJZ2DI&location=1046))
+- La Silicon Valley, la haute sphère financière de New York et le sommet du renseignement militaire de Washington forment un bloc de plus en plus unifié. ([Location 1070](https://readwise.io/to_kindle?action=open&asin=B01CKJZ2DI&location=1070))
+    - **Note:** On n'est pas loin du complot
+- assoupli ([Location 1118](https://readwise.io/to_kindle?action=open&asin=B01CKJZ2DI&location=1118))
+    - **Note:** ???
+- Le lecteur numérique est le prolongement de l’individu hyperconnecté qui, comme une abeille devenue folle, se livre à un butinage compulsif, sautant constamment d’un sujet à un autre. ([Location 1136](https://readwise.io/to_kindle?action=open&asin=B01CKJZ2DI&location=1136))
+- On a récemment découvert ([Location 1141](https://readwise.io/to_kindle?action=open&asin=B01CKJZ2DI&location=1141))
+    - **Note:** C'est trop d'infos à la fois ! "on", c'est qui ?
+- La vérité est considérée de facto comme objective car elle est issue du traitement de masses gigantesques d’informations. ([Location 1284](https://readwise.io/to_kindle?action=open&asin=B01CKJZ2DI&location=1284))
+- Les services ou les produits n’ont plus à être adaptés, ou si peu, parce qu’ils sont destinés à un consommateur universel. ([Location 1349](https://readwise.io/to_kindle?action=open&asin=B01CKJZ2DI&location=1349))
+- Or c’est une réduction numérique qui s’est opérée. En convertissant le réel en 0 et en 1, on nous a fabriqué un monde binaire ([Location 1370](https://readwise.io/to_kindle?action=open&asin=B01CKJZ2DI&location=1370))
+- 2054, dans Minority Report, ([Location 1415](https://readwise.io/to_kindle?action=open&asin=B01CKJZ2DI&location=1415))
+    - **Note:** Sans cesse des références à la science-fiction
+- la pythie du Web ([Location 1476](https://readwise.io/to_kindle?action=open&asin=B01CKJZ2DI&location=1476))
+- des big data qui collaborent avec le Pentagone ([Location 1519](https://readwise.io/to_kindle?action=open&asin=B01CKJZ2DI&location=1519))
+    - **Note:** Rien que la formulation…
+- Après avoir vu se concentrer une grande partie des richesses de l’humanité entre les mains d’une poignée, on assistera à l’effondrement de la dernière égalité qui reste, celle des humains face à la mort. Et ce sera alors l’inégalité totale. ([Location 1577](https://readwise.io/to_kindle?action=open&asin=B01CKJZ2DI&location=1577))
+- Jacques Ellul, ([Location 1595](https://readwise.io/to_kindle?action=open&asin=B01CKJZ2DI&location=1595))
+- annoncé vers 2040, ([Location 1625](https://readwise.io/to_kindle?action=open&asin=B01CKJZ2DI&location=1625))
+- la firme de Mountain View a également avalé un fabricant de robots militaires, Boston Dynamics, qui travaille main dans la main avec le Pentagone. ([Location 1718](https://readwise.io/to_kindle?action=open&asin=B01CKJZ2DI&location=1718))
+- destruction créatrice ([Location 1733](https://readwise.io/to_kindle?action=open&asin=B01CKJZ2DI&location=1733))
+- sera ([Location 1770](https://readwise.io/to_kindle?action=open&asin=B01CKJZ2DI&location=1770))
+    - **Note:** Que des futurs simples. Pure spéculation.
+- on a déjà transgressé l’article premier de la charte d’Asimov ([Location 1814](https://readwise.io/to_kindle?action=open&asin=B01CKJZ2DI&location=1814))
+    - **Note:** On continue avec la fiction.
+- serait ([Location 1825](https://readwise.io/to_kindle?action=open&asin=B01CKJZ2DI&location=1825))
+    - **Note:** Et maintenant des conditionnels !
+- La Planète des singes. ([Location 1829](https://readwise.io/to_kindle?action=open&asin=B01CKJZ2DI&location=1829))
+- Leur étude a montré qu’au-delà de quatre heures hebdomadaires de pornographie apparaissait à l’imagerie médicale une détérioration de l’activité cérébrale dans la zone liée au processus de décision. ([Location 1923](https://readwise.io/to_kindle?action=open&asin=B01CKJZ2DI&location=1923))
+- Des chercheurs britanniques ont même découvert une modification de la structure cérébrale chez les personnes qui utilisent massivement et simultanément plusieurs terminaux électroniques. En l’occurrence, un important déficit de matière grise dans la zone qui traite les émotions. Une altération qui, d’après les scientifiques, serait corrélée avec des dysfonctionnements émotionnels tels que la dépression et les bouffées d’anxiété. ([Location 2003](https://readwise.io/to_kindle?action=open&asin=B01CKJZ2DI&location=2003))
+- Jamais aussi connectés, jamais aussi seuls ([Location 2050](https://readwise.io/to_kindle?action=open&asin=B01CKJZ2DI&location=2050))
+- notre mémoire n’est pas une clé USB. ([Location 2058](https://readwise.io/to_kindle?action=open&asin=B01CKJZ2DI&location=2058))
+- Comme on l’a souligné, plusieurs études menées par des psychologues américains ont montré que le simple fait de savoir qu’une information est conservée quelque part dissuade le cerveau de la retenir, parce qu’il considère alors cet effort comme superflu. ([Location 2082](https://readwise.io/to_kindle?action=open&asin=B01CKJZ2DI&location=2082))
+- Barrett Brown ([Location 2119](https://readwise.io/to_kindle?action=open&asin=B01CKJZ2DI&location=2119))
+- Bradley ([Location 2133](https://readwise.io/to_kindle?action=open&asin=B01CKJZ2DI&location=2133))
+    - **Note:** Soyez à jour
+- La communauté des hackers libertaires ([Location 2136](https://readwise.io/to_kindle?action=open&asin=B01CKJZ2DI&location=2136))
+    - **Note:** ?
+- La version numérique des catacombes où se réfugiaient les premiers chrétiens persécutés par l’Empire romain. ([Location 2185](https://readwise.io/to_kindle?action=open&asin=B01CKJZ2DI&location=2185))
+- Raymond Forni, ([Location 2188](https://readwise.io/to_kindle?action=open&asin=B01CKJZ2DI&location=2188))

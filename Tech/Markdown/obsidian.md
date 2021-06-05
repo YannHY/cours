@@ -136,7 +136,7 @@ C'est en tout cas bien agréable de pouvoir personnaliser son environnement de t
 
 La possibilité de lier des notes entre elles est la première chose qui m'a séduite quand j'ai découvert ce genre d'apps. Je jouissais déjà de cette possibilité dans Bear et depuis que j'ai eu un aperçu de la méthode [Zettelkasten](https://zettelkasten.de), c'est là quelque chose qui m'est désormais essentiel. Ce sont ce qu'on appelle des « wikilinks ».
 
-![](https://www.ralentirtravaux.com/github/obsidian/liens.GIF)
+![](https://github.com/YannHY/cours/blob/master/Tech/images/liens2.GIF)
 
 Je l'utilise, entre autres, pour créer une table des matières ou pour rassembler des notes éparses (par exemple, toutes les notes que je prends, disons, quand je lis un livre de Jules Verne, sont ainsi « connectées » à la façon d'un lien wiki).
 
@@ -165,7 +165,7 @@ Autre possibilité intéressante : `Copy Obsidian url`. On obtient quelque chose
 
 Toujours à propos de lien, en mode Preview, c'est assez agréable d'avoir cette petite fenêtre de prévisualisation du contenu d'un lien, un peu comme sur Wikipédia, quand on passe la souris au-dessus de ce lien.
 
-![](https://www.ralentirtravaux.com/github/obsidian/preview.gif)
+![](https://github.com/YannHY/cours/blob/master/Tech/images/preview.GIF)
 
 ## 6.  Tags
 
@@ -188,7 +188,7 @@ Pour avoir cette carte mentale, ouvrez la commande (`cmd + P`) et tapez « mind
 
 Ce [Graph View](https://help.obsidian.md/Plugins/Graph+view) est peut-être la plus jolie chose que j'ai vue. C'est comme un ciel étoilé ou plutôt une constellation qui donne à voir une réprésentation graphique de vos notes. Toutes celles qui sont liées entre elles sont reliées par un trait. Celles qui ont le plus de références sont plus grosses. Ces points sont tous cliquables et vous permettent de naviguer aisément à travers ce labyrinthe constitué de vos notes. Tout est modifiable. On peut changer le CSS. On peut filtrer ou ne faire apparaitre que certaines choses (les notes orphelines, les images ou autres documents, etc.). C'est merveilleux.
 
-![](https://www.ralentirtravaux.com/github/obsidian/graph-view.gif)
+![](https://github.com/YannHY/cours/blob/master/Tech/images/graphview.GIF)
 
 ## 9. Plugins
 

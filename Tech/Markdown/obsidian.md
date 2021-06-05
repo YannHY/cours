@@ -136,7 +136,7 @@ C'est en tout cas bien agréable de pouvoir personnaliser son environnement de t
 
 La possibilité de lier des notes entre elles est la première chose qui m'a séduite quand j'ai découvert ce genre d'apps. Je jouissais déjà de cette possibilité dans Bear et depuis que j'ai eu un aperçu de la méthode [Zettelkasten](https://zettelkasten.de), c'est là quelque chose qui m'est désormais essentiel. Ce sont ce qu'on appelle des « wikilinks ».
 
-![](https://www.ralentirtravaux.com/github/obsidian/liens.gif)
+![](https://www.ralentirtravaux.com/github/obsidian/liens.GIF)
 
 Je l'utilise, entre autres, pour créer une table des matières ou pour rassembler des notes éparses (par exemple, toutes les notes que je prends, disons, quand je lis un livre de Jules Verne, sont ainsi « connectées » à la façon d'un lien wiki).
 

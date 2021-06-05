@@ -96,46 +96,54 @@ On a donc la possibilité d'insérer du HTML. Ainsi, on peut insérer différent
 </table>
 ````
 
-![[tables.png]]
+![](https://www.ralentirtravaux.com/github/obsidian/tables.png)
+
 Mais évidemment, vous pouvez insérer aussi des iframes dans vos notes. Cela veut dire que vous pouvez insérer des pages web entières, des tweets, une liste provenant de Dynalist, un Genially, un Google Calendar voire un Pomodoro...
 
 `````
 <iframe src="https://pomofocus.io/" height="700" width="700"></iframe>
 `````
 
-![[pomodoro.png]]
+![](https://www.ralentirtravaux.com/github/obsidian/pomodoro.png)
+
 Il y a même une console comme dans un navigateur (`alt + cmd + i`).
 
-![[console.png]]
+![](https://www.ralentirtravaux.com/github/obsidian/console.png)
+
 ## 3. CSS Snippets
 
 Vous pouvez modifier la feuille de style d'Obsidian et adapter l'affichage de vos textes à vos moindres souhaits. Mais le coup de génie est de permettre de créer de petits « snippets » qui remplacent les éléments modifiés dans le CSS principal. Ainsi, vous n'avez pas à modifier le fichier principal, mais pouvez activer ou désactiver à la volée certaines portions de CSS.
 
-![[css.png]]
+![](https://www.ralentirtravaux.com/github/obsidian/css.png)
+
 Pour l'instant, je me suis contenté de modifier l'apparence des tags et des citations en reprenant le code ici et là. Mais la prochaine fois que je veux proposer des cours à mes élèves, je serai en mesure d'élaborer un template qui m'est propre.
 
 En tout cas, c'est assez simple. Il suffit de créer un fichier `.css` avec votre éditeur préféré. Quand vous avez terminé, placez ce fichier dans le dossier `snippets` (`.obsidian > snippets`).
 
-![[css snippets.png]]
+![](https://www.ralentirtravaux.com/github/obsidian/snippets.png)
+
 Allez faire un tour sur [Meta Post - CSS Themes - Share & showcase - Obsidian Forum](https://forum.obsidian.md/t/meta-post-css-themes/76). Vous trouvez de jolies choses prêtes à l'emploi.
 
 ## 4. Thèmes
 
 Pas grand-chose à dire. La chose est assez explicite en soi : vous pouvez télécharger différents « templates ». Choisissez celui à votre goût. Pour ma part, j'ai opté pour Cybertron. Direction `Settings > Appearance > Themes`.
 
-![[thèmes.png]]
+![](https://www.ralentirtravaux.com/github/obsidian/thèmes.png)
+
 C'est en tout cas bien agréable de pouvoir personnaliser son environnement de travail. C'est, soit dit en passant, un domaine que j'ai bien peu exploré, mais la flexibilité d'Obsidian en la matière est grande.
 
 ## 5. Liens
 
 La possibilité de lier des notes entre elles est la première chose qui m'a séduite quand j'ai découvert ce genre d'apps. Je jouissais déjà de cette possibilité dans Bear et depuis que j'ai eu un aperçu de la méthode [Zettelkasten](https://zettelkasten.de), c'est là quelque chose qui m'est désormais essentiel. Ce sont ce qu'on appelle des « wikilinks ».
 
-![[liens.gif]]
+![](https://www.ralentirtravaux.com/github/obsidian/liens.gif)
 
 Je l'utilise, entre autres, pour créer une table des matières ou pour rassembler des notes éparses (par exemple, toutes les notes que je prends, disons, quand je lis un livre de Jules Verne, sont ainsi « connectées » à la façon d'un lien wiki).
 
-![[liens-lecture.png]]
-![[table-des-matières.png]]
+![](https://www.ralentirtravaux.com/github/obsidian/liens-lecture.png)
+
+![](https://www.ralentirtravaux.com/github/obsidian/table-des-matières.png)
+
 Il suffit simplement d'ouvrir de doubles crochets et de taper le nom de la note.
 
 ````
@@ -157,7 +165,7 @@ Autre possibilité intéressante : `Copy Obsidian url`. On obtient quelque chose
 
 Toujours à propos de lien, en mode Preview, c'est assez agréable d'avoir cette petite fenêtre de prévisualisation du contenu d'un lien, un peu comme sur Wikipédia, quand on passe la souris au-dessus de ce lien.
 
-![[preview.gif]]
+![](https://www.ralentirtravaux.com/github/obsidian/preview.gif)
 
 ## 6.  Tags
 
@@ -170,15 +178,17 @@ Ils ne sont pas spécifiques à Obsidian, mais j'aurais du mal à m'en passer. C
 
 La fonction n'est pas indispensable, mais j'aime bien l'idée de l'avoir : on peut exporter un fichier texte au format image et ainsi avoir une carte mentale.
 
-![[mindmap.png]]
+![](https://www.ralentirtravaux.com/github/obsidian/mindmap.png)
+
 Pour avoir cette carte mentale, ouvrez la commande (`cmd + P`) et tapez « mind map ». Pour exporter l'image, cliquez sur les trois petits points à droite au-dessus de la carte mentale et cliquez sur « Copy screenshot ».
 
-![[mindmap2.png]]
+![](https://www.ralentirtravaux.com/github/obsidian/mindmap2.png)
+
 ## 8. Graph View
 
 Ce [Graph View](https://help.obsidian.md/Plugins/Graph+view) est peut-être la plus jolie chose que j'ai vue. C'est comme un ciel étoilé ou plutôt une constellation qui donne à voir une réprésentation graphique de vos notes. Toutes celles qui sont liées entre elles sont reliées par un trait. Celles qui ont le plus de références sont plus grosses. Ces points sont tous cliquables et vous permettent de naviguer aisément à travers ce labyrinthe constitué de vos notes. Tout est modifiable. On peut changer le CSS. On peut filtrer ou ne faire apparaitre que certaines choses (les notes orphelines, les images ou autres documents, etc.). C'est merveilleux.
 
-![[graph-view.gif]]
+![](https://www.ralentirtravaux.com/github/obsidian/graph-view.gif)
 
 ## 9. Plugins
 
@@ -212,13 +222,14 @@ Voici, très rapidement, ce que l'on peut dire de ces plugins.
 ### Better Word Count
 Un plugin très simple qui permet de compter le nombre de mots d'une page bien sûr (comme tous les compteurs de ce type), mais aussi en sélectionnant une portion de texte uniquement. Très pratique si vous devez remplir un document avec un nombre de mots réduits ou si vous écrivez vos tweets d'abord sur Obsidian.
 
-![[word-count.gif]]
+![](https://www.ralentirtravaux.com/github/obsidian/word-count.gif)
 
 ### Ozan's Image in Editor Plugin
 
 Ce plugin permet de voir les images y compris en mode éditeur tout en gardant cependant l'affichage du lien de l'image. Précisons au passage qu'il y a une option dans Obsidian qui permet de mettre à jour automatiquement ce lien si vous déplacez ou renommez ce lien.
 
-![[Markdown/Images/image.png]]
+![](https://www.ralentirtravaux.com/github/obsidian/image.png)
+
 ### Kindle Plugin
 
 Certainement, avec  le plugin suivant, celui qui m'a donné envie d'adopter Obsidian.
@@ -229,13 +240,13 @@ Et vous vous souvenez qu'on peut lier des notes entre elles ? Mais on peut aussi
 
 Vous pouvez ainsi insérer votre citation assez facilement.
 
-![[link-block.gif]]
+![](https://www.ralentirtravaux.com/github/obsidian/link-block.gif)
 
 ### Readwise
 
 Évidemment, il n'y a pas que la Kindle dans la vie. C'est pour ça que j'utilise [Readwise](https://readwise.io/). Kindle Hightlights ne fonctionne qu'avec les livres achetés sur Amazon (encore que vous pouvez importer le fichier `My Clippings.txt` de votre Kindle), mais Readwise propose de collecter à peu près tout ce que vous avez souligné et annoté : tweets, articles sauvegardés sur Instapaper, Pocket, Books, Feedly, Medium, etc.
 
-![[readwise.png]]
+![](https://www.ralentirtravaux.com/github/obsidian/readwise.png)
 
 Si le sujet vous intéresse, faites un tour sur [le forum](https://forum.obsidian.md/t/new-plugin-readwise/16006).
 
@@ -253,7 +264,7 @@ L'idée est de définir un mot-clef (dans l'exemple ci-dessous, le mot « je �
 
 Vous définissez un « snippet » et ça insère le texte automatiquement.
 
-![[snippets.gif]]
+![](https://www.ralentirtravaux.com/github/obsidian/snippets.gif)
 
 ### Pandoc
 En parcourant les possibilités d'export, j'ai eu un sentiment de déception. Seul le PDF est possible de base (comme disent mes filles). Heureusement, un aimable développeur a créé un plugin permettant de tirer partie de Pandoc dont j'ai parlé déjà [en ces lieux](https://github.com/YannHY/cours/blob/master/Tech/Markdown/Liens.md#à-propos-de-pandoc).
@@ -262,7 +273,7 @@ Bref, vous installez le plugin et pour convoquer Pandoc, lancez la commande (uti
 
 Au départ, ça ne marchait pas. J’ai dû changer le chemin `/usr/local/bin/pandoc`  dans les réglages (après avoir tapé `which pandoc`  dans le Terminal). Pas trop sûr d'avoir compris pourquoi, mais ça marche et je peux à présent exporter au format Word, odt, ePub, HTML, etc.
 
-![[pandoc.gif]]
+![](https://www.ralentirtravaux.com/github/obsidian/pandoc.gif)
 
 ### Natural language Dates & Review
 
@@ -270,13 +281,14 @@ On écrit `@Today` (entre autres) et ça insère la date d'aujourd'hui.
 
 À utiliser combiné avec Review (`cmd + p`). Par exemple, on sélectionne une note ou une portion de texte, on lance [Review](https://github.com/ryanjamurphy/review-obsidian), on choisit une date et le texte sélectionné nous sera rappelé à la date fixée. Je ne suis plus très sûr, mais je crois qu'il faut l'utiliser avec le plugin [Calendar](https://github.com/liamcain/obsidian-calendar-plugin).
 
-![[date.gif]]
+![](https://www.ralentirtravaux.com/github/obsidian/date.gif)
 
 ### Editor Syntax Highlight
 
 Probablement pas le plugin qui me sera le plus utile, encore que je l'utilise volontiers pour stocker quelques bouts de code que j'utilise pour [Ralentir travaux](https://www.ralentirtravaux.com). Mais je pense surtout à mes collègues de NSI qui vont pouvoir insérer des portions de code dans leurs cours avec la coloration syntaxique.
 
-![[javascript.png]]
+![](https://www.ralentirtravaux.com/github/obsidian/javascript.png)
+
 ## Conclusion
 
 Comme je l'ai dit en début d'article, je suis probablement, forcément passé à côté de beaucoup, beaucoup de choses. Je n'utilise pas vraiment les Hotkeys ni [Vim](https://www.jamierubin.net/2021/03/23/obsidian-and-vim-mode/). Mais cette impression permanente d'avoir à découvrir une vaste terra incognita est un vrai plaisir dans l'utilisation quotidienne d'Obsidian. On sait qu'on a toujours un truc à explorer.

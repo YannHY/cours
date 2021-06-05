@@ -301,7 +301,7 @@ Mais si les élèves avaient Obsidian ? Imaginez la richesse de certains cours. 
 
 Reste qu'Obsidian peut un peu dérouter, si vous avez besoin de renseignements supplémentaires, les sites suivants m'ont considérablement aidé.
 
-- [Obsidian Help](https://help.obsidian.md/Index) (-> [Obsidian Mobile](https://help.obsidian.md/Obsidian/Obsidian+Mobile))
+- [Obsidian Help](https://help.obsidian.md/Index) ([Obsidian Mobile](https://help.obsidian.md/Obsidian/Obsidian+Mobile))
 - [A Guide to Obsidian: Local, Markdown-Powered Networked Notes](https://www.sitepoint.com/obsidian-beginner-guide/)
 - [The Beginner’s Guide to Obsidian Notes Step-by-Step](https://theproductiveengineer.net/the-beginners-guide-to-obsidian-notes-step-by-step/)
 - [Your Beginner’s Guide to Obsidian](https://www.keepproductive.com/blog/obsidian-beginners-guide)

@@ -222,7 +222,7 @@ Voici, très rapidement, ce que l'on peut dire de ces plugins.
 ### Better Word Count
 Un plugin très simple qui permet de compter le nombre de mots d'une page bien sûr (comme tous les compteurs de ce type), mais aussi en sélectionnant une portion de texte uniquement. Très pratique si vous devez remplir un document avec un nombre de mots réduits ou si vous écrivez vos tweets d'abord sur Obsidian.
 
-![](https://www.ralentirtravaux.com/github/obsidian/word-count.gif)
+![](https://www.ralentirtravaux.com/github/obsidian/word-count.GIF)
 
 ### Ozan's Image in Editor Plugin
 
@@ -240,7 +240,7 @@ Et vous vous souvenez qu'on peut lier des notes entre elles ? Mais on peut aussi
 
 Vous pouvez ainsi insérer votre citation assez facilement.
 
-![](https://www.ralentirtravaux.com/github/obsidian/link-block.gif)
+![](https://www.ralentirtravaux.com/github/obsidian/link-block.GIF)
 
 ### Readwise
 
@@ -264,7 +264,7 @@ L'idée est de définir un mot-clef (dans l'exemple ci-dessous, le mot « je �
 
 Vous définissez un « snippet » et ça insère le texte automatiquement.
 
-![](https://www.ralentirtravaux.com/github/obsidian/snippets.gif)
+![](https://www.ralentirtravaux.com/github/obsidian/snippets.GIF)
 
 ### Pandoc
 En parcourant les possibilités d'export, j'ai eu un sentiment de déception. Seul le PDF est possible de base (comme disent mes filles). Heureusement, un aimable développeur a créé un plugin permettant de tirer partie de Pandoc dont j'ai parlé déjà [en ces lieux](https://github.com/YannHY/cours/blob/master/Tech/Markdown/Liens.md#à-propos-de-pandoc).
@@ -273,7 +273,7 @@ Bref, vous installez le plugin et pour convoquer Pandoc, lancez la commande (uti
 
 Au départ, ça ne marchait pas. J’ai dû changer le chemin `/usr/local/bin/pandoc`  dans les réglages (après avoir tapé `which pandoc`  dans le Terminal). Pas trop sûr d'avoir compris pourquoi, mais ça marche et je peux à présent exporter au format Word, odt, ePub, HTML, etc.
 
-![](https://www.ralentirtravaux.com/github/obsidian/pandoc.gif)
+![](https://www.ralentirtravaux.com/github/obsidian/pandoc.GIF)
 
 ### Natural language Dates & Review
 
@@ -281,7 +281,7 @@ On écrit `@Today` (entre autres) et ça insère la date d'aujourd'hui.
 
 À utiliser combiné avec Review (`cmd + p`). Par exemple, on sélectionne une note ou une portion de texte, on lance [Review](https://github.com/ryanjamurphy/review-obsidian), on choisit une date et le texte sélectionné nous sera rappelé à la date fixée. Je ne suis plus très sûr, mais je crois qu'il faut l'utiliser avec le plugin [Calendar](https://github.com/liamcain/obsidian-calendar-plugin).
 
-![](https://www.ralentirtravaux.com/github/obsidian/date.gif)
+![](https://www.ralentirtravaux.com/github/obsidian/date.GIF)
 
 ### Editor Syntax Highlight
 

@@ -2,7 +2,7 @@
 
 Depuis que j'ai découvert le Markdown, plusieurs applications m'ont successivement séduit et j'ai tout d'abord adopté  [1Writer](https://1writerapp.com) puis [Ulysses](https://ulysses.app) en passant entre autres par [Editorial](http://omz-software.com/editorial/). Plus récemment [iA Writer](https://ia.net/fr/writer) et [Bear](https://bear.app) ont fait mon bonheur et depuis que je suis un peu revenu au Mac, j'ai entendu parler d'[Obsidian](https://obsidian.md).
 
-[](https://www.ralentirtravaux.com/github/obsidian/obsidian.png)
+![](https://www.ralentirtravaux.com/github/obsidian/obsidian.png)
 
 Le coup de foudre est tel que cela mérite une section à part dans [ce petit dossier consacré au Markdown](https://github.com/YannHY/cours/tree/master/Tech/Markdown). Ce que j'aurais à dire ici pourrait se résumer en très peu de mots : ne passez pas à côté d'une telle application. C'est une merveille comme je n'en ai pas vu depuis 10 ans.
 

@@ -246,7 +246,7 @@ Vous pouvez ainsi insérer votre citation assez facilement.
 
 Évidemment, il n'y a pas que la Kindle dans la vie. C'est pour ça que j'utilise [Readwise](https://readwise.io/). Kindle Hightlights ne fonctionne qu'avec les livres achetés sur Amazon (encore que vous pouvez importer le fichier `My Clippings.txt` de votre Kindle), mais Readwise propose de collecter à peu près tout ce que vous avez souligné et annoté : tweets, articles sauvegardés sur Instapaper, Pocket, Books, Feedly, Medium, etc.
 
-![](https://www.ralentirtravaux.com/github/obsidian/readwise.png)
+![](https://www.ralentirtravaux.com/github/obsidian/readwise.PNG)
 
 Si le sujet vous intéresse, faites un tour sur [le forum](https://forum.obsidian.md/t/new-plugin-readwise/16006).
 

@@ -256,7 +256,7 @@ Je suis devenu un fan absolu de ce genre de choses.
 
 François Jourde m'avait fait découvrir [Text Blaze](https://blaze.today). Je connaissais aussi [Text Expander](https://textexpander.com/). J'utilise énormément, sur l'iPad, l'iPhone ou le Mac, la fonction Text Replacement, mais cela est aussi disponible sur Obsidian grâce à ce plugin.
 
-<blockquote class="twitter-tweet"><p lang="fr" dir="ltr">On n’y pense pas assez, mais la fonction Text Replacement pour insérer des émojis plus rapidement est vraiment pratique. <a href="https://t.co/CjChbTExyF">pic.twitter.com/CjChbTExyF</a></p>&mdash; Yann (@yannhoury) <a href="https://twitter.com/yannhoury/status/1101188101131653120?ref\_src=twsrc%5Etfw">February 28, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="fr" dir="ltr">On n’y pense pas assez, mais la fonction Text Replacement pour insérer des émojis plus rapidement est vraiment pratique. <a href="https://t.co/CjChbTExyF">pic.twitter.com/CjChbTExyF</a></p>&mdash; Yann (@yannhoury) <a href="https://twitter.com/yannhoury/status/1101188101131653120?ref\_src=twsrc%5Etfw">February 28, 2019</a></blockquote>
 
 L'idée est de définir un mot-clef (dans l'exemple ci-dessous, le mot « je ») et quand on actionne le racourcci clavier idoine, ça insère toute une portion de texte qu'on a défini à l'avance. C'est extrêmement pratique quand vous corrigez des copies numériques par exemple. Ainsi, au lieu de taper tout le temps :
 

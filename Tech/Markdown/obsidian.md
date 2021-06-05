@@ -120,7 +120,7 @@ Pour l'instant, je me suis contenté de modifier l'apparence des tags et des cit
 
 En tout cas, c'est assez simple. Il suffit de créer un fichier `.css` avec votre éditeur préféré. Quand vous avez terminé, placez ce fichier dans le dossier `snippets` (`.obsidian > snippets`).
 
-![](https://www.ralentirtravaux.com/github/obsidian/snippets.png)
+![](https://www.ralentirtravaux.com/github/obsidian/css-snippets.png)
 
 Allez faire un tour sur [Meta Post - CSS Themes - Share & showcase - Obsidian Forum](https://forum.obsidian.md/t/meta-post-css-themes/76). Vous trouvez de jolies choses prêtes à l'emploi.
 

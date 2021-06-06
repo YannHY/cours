@@ -295,9 +295,7 @@ Comme je l'ai dit en début d'article, je suis probablement, forcément passé �
 
 De surcroît, l'application est gratuite. J'ai toutefois payé £25, ce qui m'a donné accès à la bêta de l'app mobile. On sent qu'il y a de ce côté encore pas mal de travail (j'aurais aimé pouvoir ouvrir le dossier que je partage entre iA Writer et Working copy). En tout cas, je ne paye pas pour le [service de synchronisation](https://obsidian.md/sync) puisque j'utilise iCloud. En revanche, je paierais volontiers pour le service de [publication](https://obsidian.md/publish) (et de fait, j'abandonne le couple iA/Writer/Working Copy).
 
-Dans ma wish list, j'aimerais retrouver la richesse d'export d'un Bear ou d'un Draft. Pandoc est appréciable, mais quelque peu insuffisant. Enfin, j'aimerais voir ce que les enseignants feraient avec une telle application. C'est d'un usage plutôt orienté nerd donc je ne suis pas sûr que ça séduise les foules.
-
-Mais si les élèves avaient Obsidian ? Imaginez la richesse de certains cours. Il faudrait alors un environnement collaboratif comme GitHub. Ce serait plutôt pour des lycéens, mais ça pourrait être intéressant.
+Dans ma wish list, j'aimerais retrouver la richesse d'export d'un Bear ou d'un Draft. Pandoc est appréciable, mais quelque peu insuffisant. Enfin, j'aimerais voir ce que les enseignants feraient avec une telle application. C'est d'un usage plutôt orienté nerd donc je ne suis pas sûr que ça séduise les foules, mais sait-on jamais.
 
 Reste qu'Obsidian peut un peu dérouter, si vous avez besoin de renseignements supplémentaires, les sites suivants m'ont considérablement aidé.
 

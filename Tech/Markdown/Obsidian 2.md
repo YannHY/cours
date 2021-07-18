@@ -82,7 +82,7 @@ En pratique, ça donne ça :
 | Total | 6      |
 <!-- TBLFM: @>$2=sum(@I..@-1) -->
 
-![[formule.gif]]
+![](https://github.com/YannHY/cours/blob/master/Tech/images/formule.gif)
 
 On avouera que n'est quand même pas super user friendly, mais c'est plutôt amusant (quoique j'utiliserai plutôt un tableur de préférence pour ce genre de choses).
 
@@ -93,7 +93,7 @@ J'ai, par exemple, créé un template pour rédiger le plan d'une séquence que 
 
 Ainsi, je crée un nouveau fichier, utilise le raccourci suivant : `cmd + ⇧ + i`, choisis le template voulu et mon plan de séquence est automatiquement inséré. Je n'ai plus qu'à le remplir.
 
-![[template.gif]]
+![](https://github.com/YannHY/cours/blob/master/Tech/images/template.gif)
 
 À l'avenir, jaimerais utliser les templates pour accélérer l'écriture de mails pour communiquer davantage avec les parents pour signaler rapidement tout manquement, difficulté ou autre. Bref, je sens que je vais créer de nombreux templates.
  
@@ -127,7 +127,7 @@ En gros, on a
 - l'action effectuée
 - la couleur
 
-![[button.png]]
+![](https://github.com/YannHY/cours/blob/master/Tech/images/button.png)
 
 OK, mais pour quoi faire ? 
 
@@ -154,7 +154,7 @@ On peut aussi choisir d'insérer un « inline button » (le bouton sera insér
  ### Dashboard
 Mon dashboard est une page d'accueil qui affiche toutes les tables des matières de chaque dossier voire sous-dossier. En utilisant `![[texte]]`, on peut insérer le contenu d'une note dans une autre note. Ainsi, chaque table des matières peut être affichée dans la table principale et s'actualiser automatiquement. Makes sense?
  
- ![[dashboard.png]]
+ ![](https://github.com/YannHY/cours/blob/master/Tech/images/dashboard.png)
  
  Le dashboard présente quelques boutons (des « inline buttons ») : Pin, Edit/Preview, New Note, Search... Ça permet d'effectuer certaines actions plus vite. J'y ai placé également mes tags ou encore les tâches à accomplir avant 2071.
 
@@ -192,7 +192,7 @@ Entre ces `---`, vous placez une « key » (par exemple « tags ») et une «
 
 Les avantages sont immenses, mais le premier qui m'est apparu est que mes tags n'apparaissent pas à l'export. Ils n'encombrent pas non plus la page.
 
-![[yaml.png]]
+![](https://github.com/YannHY/cours/blob/master/Tech/images/yaml.png)
 
 Mais surtout on peut aller beaucoup plus loin avec [Dataview](https://github.com/blacksmithgu/obsidian-dataview).
 
@@ -220,7 +220,7 @@ On peut faire tellement plus ! On peut même faire des tables et trier ses notes
 
 Le mieux est encore de voir cela en images.
 
-![[dataview-short.gif]]
+![](https://github.com/YannHY/cours/blob/master/Tech/images/dataview-short.gif)
 
 Pour cela, on va utiliser des opérateurs comme `from` pour filtrer la liste et afficher par exemple un hashtag particulier. Ou lister le contenu d'un dossier (mettre des guillemets : `"Le dossier"`).
 

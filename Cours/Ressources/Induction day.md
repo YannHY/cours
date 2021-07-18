@@ -1,2 +1,0 @@
-# Induction day
-

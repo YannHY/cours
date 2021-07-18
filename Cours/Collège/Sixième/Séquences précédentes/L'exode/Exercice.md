@@ -1,8 +1,0 @@
-# Exercice
-Les temps du récit
- 
-Conjuguez les verbes entre parenthèses soit à l’imparfait soit au plus que parfait soit au passé simple de l’indicatif. Ensuite recopiez le texte.
- 
-Un nouveau roi (venir) au pouvoir en Égypte, qui ne pas (connaître) Joseph. Il (dire) à son peuple que le peuple des Israélites (devenir) plus nombreux et plus puissant qu’eux, qu’il (falloir) prendre de sages mesures pour l’empêcher de s’accroître car en cas de guerre, il grossirait le nombre de leurs adversaires, qu’il combattrait contre eux pour, ensuite, sortir du pays.  On (imposer) donc à Israël des chefs de corvée pour lui rendre la vie dure par les travaux qu’ils exigeraient. C’est ainsi qu’il (bâtir) pour Pharaon les villes-entrepôts de Pitom et de Ramsès. Mais plus on lui (rendre) la vie dure, plus il (croître) en nombre et (surabonder), ce qui (faire) redouter les Israélites. Les Égyptiens (contraindre) les Israélites par de durs travaux.
-Le roi d’Égypte (dire) aux accoucheuses des femmes des Hébreux, dont l’une (s’appeler) Shiphra et l’autre Pua de tuer tous les garçons nouvellement nés. Mais les accoucheuses (craindre) Dieu, ne (faire) pas ce que leur (dire) le roi d’Égypte et (laisser) vivre les garçons. Le peuple des Hébreux (devenir) très nombreux et très puissant. Pharaon (donner) alors l’ordre à tout son peuple de jeter au Fleuve tout fils qui naîtrait mais de laisser vivre toute fille. 
- 

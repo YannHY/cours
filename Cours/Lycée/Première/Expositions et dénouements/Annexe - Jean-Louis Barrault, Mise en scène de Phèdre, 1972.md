@@ -1,8 +1,0 @@
-# Texte supplémentaire
-Jean-Louis Barrault, *Mise en scène de Phèdre*, 1972.
-
-Les lumières. On doit sentir constamment la présence du soleil. L'action commence à l'aube et se termine après le coucher du soleil. Le soleil manifestera d'autant plus intensément sa présence que Sa scène sera traversée de rayons. Jamais ce qu'on appelle un « plein feu » de théâtre ne donnera autant l'impression brûlante du soleil que si celui-ci perce l'atmosphère par des faisceaux lumineux serrés. La présence du soleil se manifeste avec plus de force à travers les fentes d'une persienne qu'en plein milieu d'une plaine où tout, baigné par lui, est aplati.
-Que les projecteurs soient « saignants ». Il suffit de fissures justement disposées dans les murs, et à travers lesquelles le soleil s'infiltrera, pour donner une impression de grande luminosité.
-Les ombres. Les ombres, elles, doivent avoir des tonalités chaudes. Ce sont elles qui envelopperont la déclaration de Phèdre, ses invocations à Vénus, l'affolement des deux femmes à la scène 3 de l'acte III, le délire de Phèdre au IVe acte, etc.
-Si les coins d'ombre et les points de lumière sont bien répartis, le décor est sauvé. Un bout de ciel, néanmoins, doit être réservé. Les personnages sont « enfermés », psychologiquement enveloppés, envoûtés par leurs passions : il nous faut donc devant les yeux un point lointain mais lumineux d'une sortie possible. Un coin de ciel comme un désir permanent.
-Pour ce qui concerne l'encadrement de cette atmosphère de noirs et de blancs, on ne peut faire que des recommandations générales. [...](#) Phèdre est une œuvre classique, il faut être économe. Il ne faut aucun ornement ou accessoire extérieur à l'action.

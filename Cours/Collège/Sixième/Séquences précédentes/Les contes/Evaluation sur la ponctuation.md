@@ -1,5 +1,0 @@
-# Evaluation sur la ponctuation
- 
-Placer la ponctuation nécessaire, allez à la ligne quand il le faut et n’oubliez pas les alinéas.
- 
-	il était une fois une veuve très pauvre elle avait un fils nommé Jacques et possédait une vache qu'on appelait Blanchelait elle tirait sa subsistance de ce que Blanchelait voulait bien lui donner chaque matin et qu'elle allait vendre au marché mais un jour les pis de la bête restèrent secs et nul ne sut que faire qu'allons-nous devenir, qu'allons-nous devenir répétait la veuve en levant les bras au ciel ne t'en fais pas maman répondait Jacques je vais partir et je trouverai du travail quelque part tu as déjà essayé murmurait sa mère et tu n'as jamais rien trouvé nous allons vendre Blanchelait puis monter un commerce d'épicerie d'accord dit Jacques c'est aujourd'hui jour de foire j'aurai tôt fait de vendre Blanchelait et nous verrons ensuite

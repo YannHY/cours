@@ -1,9 +1,0 @@
-Baudelaire lu
-
-[« Le Voyage »](https://youtu.be/FZJgv57tVCU) lu par Fabrice Lucchini
-[« Spleen »](https://youtu.be/ap6hVuuJpLM) lu par Fabrice Lucchini
-[« Au lecteur »](https://youtu.be/6ebfRkl05GM)
-
-Sur l’art et la morale, voir préface de Racine, *Phèdre*
-
-« Au reste, je n’ose encore assurer que cette pièce soit en effet la meilleure de mes tragédies. Je laisse aux lecteurs et au temps à décider de son véritable prix. Ce que je puis assurer, c’est que je n’en ai point fait où la vertu soit plus mise en jour que dans celle-ci ; les moindres fautes y sont sévèrement punies : la seule pensée du crime y est regardée avec autant d’horreur que le crime même ; les faiblesses de l’amour y passent pour de vraies faiblesses : les passions n’y sont présentées aux yeux que pour montrer tout le désordre dont elles sont cause ; et le vice y est peint partout avec des couleurs qui en font connaître et haïr la difformité. C’est là proprement le but que tout homme qui travaille pour le public doit se proposer ; et c’est ce que les premiers poètes tragiques avaient en vue sur toute chose. Leur théâtre était une école où la vertu n’était pas moins bien enseignée que dans les écoles des philosophes. Aussi Aristote a bien voulu donner des règles du poème dramatique ; et Socrate, le plus sage des philosophes, ne dédaignait pas de mettre la main aux tragédies d’Euripide. Il serait à souhaiter que nos ouvrages fussent aussi solides et aussi pleins d’utiles instructions que ceux de ces poètes. Ce serait peut-être un moyen de réconcilier la tragédie avec quantité de personnes célèbres par leur piété et par leur doctrine, qui l’ont condamnée dans ces derniers temps et qui en jugeraient sans doute plus favorablement, si les auteurs songeaient autant à instruire leurs spectateurs qu’à les divertir, et s’ils suivaient en cela la véritable intention de la tragédie. »

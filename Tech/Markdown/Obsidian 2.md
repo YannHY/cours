@@ -41,7 +41,7 @@ Ce qui, en français googlement traduit, donne :
 
 > Pour créer un tableau, créez un seul caractère « | », puis saisissez le premier titre du tableau et appuyez sur Tab. Continuez à saisir les en-têtes et appuyez sur Tab jusqu'à ce que tous les en-têtes soient créés. Appuyez sur Entrée pour accéder à la première ligne. Continuez à remplir les cellules comme avant et appuyez à nouveau sur Entrée pour chaque nouvelle ligne.
 
-![](tables.gif)
+![](https://www.ralentirtravaux.com/github/obsidian/tables.gif)
 
 Sinon, lorsque le curseur est placé dans le tableau, vous pouvez utiliser les raccourcis clavier suivants :
 

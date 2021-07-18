@@ -19,7 +19,7 @@ C'est vous même qui décidez (et si vous oubliez :  `cmd + P` pour chercher...)
 
 Les iframes ne cessent de m'enchanter non plus. J'en avais déjà parlé précédemment également, mais j'avais un souci avec l'affichage des tweets. Ceux-ci ne s'affichant pas correctement, j'ai désomaris recours à https://twitframe.com qui m'affiche un beau tweet en bonne et due forme.
  
-![](https://www.ralentirtravaux.com/github/obsidian/tweet.png)
+![](https://github.com/YannHY/cours/blob/master/Tech/images/tweet.png)
 
 Mais, évidemment, ce sont les plugins qui sont responsables en grande partie de la richesse d'Obsidian et qui justifient l'écriture de ce deuxième article. Voici ceux qui m'ont le plus impressionné.
 
@@ -41,7 +41,7 @@ Ce qui, en français googlement traduit, donne :
 
 > Pour créer un tableau, créez un seul caractère « | », puis saisissez le premier titre du tableau et appuyez sur Tab. Continuez à saisir les en-têtes et appuyez sur Tab jusqu'à ce que tous les en-têtes soient créés. Appuyez sur Entrée pour accéder à la première ligne. Continuez à remplir les cellules comme avant et appuyez à nouveau sur Entrée pour chaque nouvelle ligne.
 
-![](https://www.ralentirtravaux.com/github/obsidian/tables.gif)
+![](https://github.com/YannHY/cours/blob/master/Tech/images/tables.gif)
 
 Sinon, lorsque le curseur est placé dans le tableau, vous pouvez utiliser les raccourcis clavier suivants :
 

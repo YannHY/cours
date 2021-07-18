@@ -1,7 +1,3 @@
----
-tags: [Documentation, Markdown]
----
-
 # Obsidian 2
 J'ai découvert Obsidian récemment et ai écrit dans la foulée [cet article](https://github.com/YannHY/cours/blob/master/Tech/Markdown/obsidian.md) dans lequel j'en disais tout le bien possible, et franchement il y avait de quoi dire.
 

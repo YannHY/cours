@@ -19,7 +19,7 @@ C'est vous même qui décidez (et si vous oubliez :  `cmd + P` pour chercher...)
 
 Les iframes ne cessent de m'enchanter non plus. J'en avais déjà parlé précédemment également, mais j'avais un souci avec l'affichage des tweets. Ceux-ci ne s'affichant pas correctement, j'ai désomaris recours à https://twitframe.com qui m'affiche un beau tweet en bonne et due forme.
  
- ![[tweet.png]]
+ ![https://www.ralentirtravaux.com/github/obsidian/tweet.png]
 
 Mais, évidemment, ce sont les plugins qui sont responsables en grande partie de la richesse d'Obsidian et qui justifient l'écriture de ce deuxième article. Voici ceux qui m'ont le plus impressionné.
 

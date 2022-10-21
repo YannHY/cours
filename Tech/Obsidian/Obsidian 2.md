@@ -1,7 +1,4 @@
----
-tags: [Documentation, Markdown]
----
-
+# Obsidian 2
 J'ai découvert Obsidian récemment et ai écrit dans la foulée [cet article](https://github.com/YannHY/cours/blob/master/Tech/Markdown/obsidian.md) dans lequel j'en disais tout le bien possible, et franchement il y avait de quoi dire.
 
 Mais dans ma conclusion, je savais qu'il me restait beaucoup de choses à découvrir et écrivais donc :
@@ -22,7 +19,7 @@ C'est vous même qui décidez (et si vous oubliez :  `cmd + P` pour chercher...)
 
 Les iframes ne cessent de m'enchanter non plus. J'en avais déjà parlé précédemment également, mais j'avais un souci avec l'affichage des tweets. Ceux-ci ne s'affichant pas correctement, j'ai désomaris recours à https://twitframe.com qui m'affiche un beau tweet en bonne et due forme.
  
- ![[tweet.png]]
+![](https://github.com/YannHY/cours/blob/master/Tech/images/tweet.png)
 
 Mais, évidemment, ce sont les plugins qui sont responsables en grande partie de la richesse d'Obsidian et qui justifient l'écriture de ce deuxième article. Voici ceux qui m'ont le plus impressionné.
 
@@ -44,7 +41,7 @@ Ce qui, en français googlement traduit, donne :
 
 > Pour créer un tableau, créez un seul caractère « | », puis saisissez le premier titre du tableau et appuyez sur Tab. Continuez à saisir les en-têtes et appuyez sur Tab jusqu'à ce que tous les en-têtes soient créés. Appuyez sur Entrée pour accéder à la première ligne. Continuez à remplir les cellules comme avant et appuyez à nouveau sur Entrée pour chaque nouvelle ligne.
 
-![[tables.gif]]
+![](https://github.com/YannHY/cours/blob/master/Tech/images/tables.gif)
 
 Sinon, lorsque le curseur est placé dans le tableau, vous pouvez utiliser les raccourcis clavier suivants :
 
@@ -85,7 +82,7 @@ En pratique, ça donne ça :
 | Total | 6      |
 <!-- TBLFM: @>$2=sum(@I..@-1) -->
 
-![[formule.gif]]
+![](https://github.com/YannHY/cours/blob/master/Tech/images/formule.gif)
 
 On avouera que n'est quand même pas super user friendly, mais c'est plutôt amusant (quoique j'utiliserai plutôt un tableur de préférence pour ce genre de choses).
 
@@ -96,7 +93,7 @@ J'ai, par exemple, créé un template pour rédiger le plan d'une séquence que 
 
 Ainsi, je crée un nouveau fichier, utilise le raccourci suivant : `cmd + ⇧ + i`, choisis le template voulu et mon plan de séquence est automatiquement inséré. Je n'ai plus qu'à le remplir.
 
-![[template.gif]]
+![](https://github.com/YannHY/cours/blob/master/Tech/images/template.gif)
 
 À l'avenir, jaimerais utliser les templates pour accélérer l'écriture de mails pour communiquer davantage avec les parents pour signaler rapidement tout manquement, difficulté ou autre. Bref, je sens que je vais créer de nombreux templates.
  
@@ -130,7 +127,7 @@ En gros, on a
 - l'action effectuée
 - la couleur
 
-![[button.png]]
+![](https://github.com/YannHY/cours/blob/master/Tech/images/button.png)
 
 OK, mais pour quoi faire ? 
 
@@ -152,19 +149,12 @@ Une fois le plugin installé,
 3. Créez votre bouton (sélectionnez dans le menu le type de bouton que vous voulez créer)
 4. Modifiez deux ou trois paramètres (comme l'apparence ou si vous voulez que le bouton disparaisse une fois qu'il a été utilisé)
 
-On peut aussi choisir d'insérer un « inline button » (le bouton sera inséré dans la ligne) et c'est très élégant. Pour ce faire, suivez les [instructions suivantes](https://github.com/shabegom/buttons) :
-
-> Inline Buttons can be created inline with other text, or other Buttons. An Inline Button is essentially a copy of an existing Button codeblock placed inline. To create an inline button:
->1.  Create a regular Button using the Button Maker or hand-written Button codeblock
->2.  Ensure your Button has a unique button-block-id
->3.  Go to the note you want an inline Button and run the Insert Inline Button Command, or write the button-block-id between backticks: `button-id`
-
-Inline Buttons must start with `button`, whereas other usages of the button-block-id only require the id
+On peut aussi choisir d'insérer un « inline button » (le bouton sera inséré dans la ligne) et c'est très élégant.
  
  ### Dashboard
 Mon dashboard est une page d'accueil qui affiche toutes les tables des matières de chaque dossier voire sous-dossier. En utilisant `![[texte]]`, on peut insérer le contenu d'une note dans une autre note. Ainsi, chaque table des matières peut être affichée dans la table principale et s'actualiser automatiquement. Makes sense?
  
- ![[dashboard.png]]
+ ![](https://github.com/YannHY/cours/blob/master/Tech/images/dashboard.png)
  
  Le dashboard présente quelques boutons (des « inline buttons ») : Pin, Edit/Preview, New Note, Search... Ça permet d'effectuer certaines actions plus vite. J'y ai placé également mes tags ou encore les tâches à accomplir avant 2071.
 
@@ -202,7 +192,7 @@ Entre ces `---`, vous placez une « key » (par exemple « tags ») et une «
 
 Les avantages sont immenses, mais le premier qui m'est apparu est que mes tags n'apparaissent pas à l'export. Ils n'encombrent pas non plus la page.
 
-![[yaml.png]]
+![](https://github.com/YannHY/cours/blob/master/Tech/images/yaml.png)
 
 Mais surtout on peut aller beaucoup plus loin avec [Dataview](https://github.com/blacksmithgu/obsidian-dataview).
 
@@ -230,7 +220,7 @@ On peut faire tellement plus ! On peut même faire des tables et trier ses notes
 
 Le mieux est encore de voir cela en images.
 
-![[dataview-short.gif]]
+![](https://github.com/YannHY/cours/blob/master/Tech/images/dataview-short.gif)
 
 Pour cela, on va utiliser des opérateurs comme `from` pour filtrer la liste et afficher par exemple un hashtag particulier. Ou lister le contenu d'un dossier (mettre des guillemets : `"Le dossier"`).
 

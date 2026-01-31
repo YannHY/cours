@@ -1,15 +1,3 @@
-- [[Avant-propos]]
-- [[1999]]
-- [[Points d’achoppement]]
-- [[Le numérique en 2016]]
-- [[Les centaures]]
-- [[10 objectifs de l’école numérique]]
-- [[Le code et autres modes]]
-- [[Transformer l’école]]
-- [[La panacée]]
-- [[Paradigme de l'enseignant]]
-- [[Books/Un Centaure à l'école/Liens]]
-
 ## GitHub
 - [Avant-propos](https://github.com/YannHY/cours/blob/master/Un%20Centaure%20à%20l'école/Avant-propos.md)
 - [1999](https://github.com/YannHY/cours/blob/master/Un%20Centaure%20à%20l'école/1999.md)
